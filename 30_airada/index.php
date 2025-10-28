@@ -1,24 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sittichok</title>
+    <title>Airada</title>
 </head>
-
-
-
 <body>
-
-<<h1 class="">siu</siu>
-<h2 class="">siu</siu>
-<h3 class="">siu</siu>
-
+    <h1 class="">h1</h1>
+    <h2 class="">h2</h2>
+    <h3 class="">h3</h3>
 </body>
-
-
-
-</html>
+</html> 
