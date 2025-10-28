@@ -52,7 +52,7 @@ Explicabo hic commodi, odit officiis laborum omnis ducimus. Facere dolorum expli
 Consectetur odit nostrum aliquam eum fuga sed repellendus at distinctio, explicabo iste asperiores perferendis? Aspernatur incidunt minus nesciunt enim illo nisi reprehenderit voluptatem fugiat eum, suscipit eligendi ratione, dolor laudantium?
 Error ea dicta rerum fugiat quibusdam accusamus maiores nemo, tempore omnis? Numquam soluta atque consectetur ducimus, dicta dolor quam debitis eum quia impedit itaque hic optio asperiores et rem quibusdam!</p>
 
-<h3 class="">h3</h3>
+
 </body>
 
 
