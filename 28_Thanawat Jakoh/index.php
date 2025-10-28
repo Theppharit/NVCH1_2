@@ -13,7 +13,10 @@
 
 
 <body>
-     <h1>Thanawat Jakoh</h1>
+     <h1 class="">h1</h1>
+     <h2 class="">h2</h2>
+     <h3 class="">h3</h3>
+     <h4>Hellooooooo its me Valerikkkkkk XDDDDDDDD</h4>
 </body>
 
 
