@@ -14,8 +14,10 @@
 
 
 <body>
+<div class="div-title">
+      <h1 class="title-h1">h1</h1> 
+</div>
     
-<h1 class="title-h1">h1</h1> 
 
 <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur quae nulla velit libero, quos, fugit dolore perspiciatis sit sequi saepe unde perferendis impedit neque adipisci nisi, voluptatibus totam iure. Soluta.
 Aut voluptate minima dignissimos magnam? Repellat, quas ea accusamus enim rerum nostrum autem, architecto animi nam vel atque unde reprehenderit blanditiis mollitia, itaque similique odit! Mollitia sequi adipisci qui suscipit?
