@@ -3,13 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/Style.css">
+
     <title>THE WOULD</title>
 </head>
 
 
 
 <body>
-    <h1 class="">Hello Would</h1>
+
+<div class="div-title">
+        <h1 class="title-h1">Hello Would</h1>
+</div>
+
     <h1 class="">การผจญภัยครั้งใหญ่</h1>
     <h1 class="">โลกนี้ช่างสวยงานเหลือเกิน</h1>
     <h1 class="">เล่นเกมกันมั้ย</h1>
