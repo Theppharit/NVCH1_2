@@ -4,16 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>tewit</title>
-    <style>
-        .color {
-            color red;
-        }
-    </style>
+<link rel="stylesheet" href="./assts/style.css">
 </head>
 <body>
-    <h1 class="" >Lobo</h1>
+    <h1 class="title-h1" >lobo</h1>
 
-    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur assumenda voluptate quod nisi sit aut hic necessitatibus totam at sapiente animi possimus, optio reiciendis laboriosam eaque, ducimus dolorem quas quo.
+    <p class="title-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur assumenda voluptate quod nisi sit aut hic necessitatibus totam at sapiente animi possimus, optio reiciendis laboriosam eaque, ducimus dolorem quas quo.
     Suscipit, vero voluptates optio incidunt commodi in nostrum deleniti aspernatur, dolorem eveniet beatae magnam hic recusandae enim asperiores iste corrupti veniam nulla expedita pariatur? Quas cumque provident officia exercitationem reprehenderit.
     Ea similique amet quis consequatur! Sed amet sit vitae quis iusto ab impedit quibusdam. Dicta quis eius illo eveniet distinctio magnam esse officia unde sequi incidunt, cupiditate deleniti atque praesentium?
     Sunt, veritatis ducimus tempore quisquam cum pariatur et esse voluptatibus! Mollitia sed necessitatibus, eveniet quaerat iure laborum fugit enim aliquid doloribus in repudiandae, similique quasi magnam vero molestias quae facilis.
