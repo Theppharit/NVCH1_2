@@ -1,6 +1,12 @@
-.title-h1 {
-    color:rgb(21, 109, 209);
+.div-title {
+    width: 45%;
+    height: 100%;
+    background-color: #18e43a;
 }
-.title-p {
-    color: aquamarine;
+
+.title-h1 {
+    color:rgb(128, 134, 141);
+}
+.title-p1 {
+    color: rgb(245, 24, 60);
 }
