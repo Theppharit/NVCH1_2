@@ -1,55 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
+
 <head>
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="asest/style.css">
-
-
      <title>Thanadon</title>
 </head>
 
+
+
 <body>
 
-<<<<<<< HEAD
- <link rel="stylesheet" href="asest/style.css">
 
-=======
- 
->>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
 
-<<<<<<< HEAD
+
 <body>
     
-<<<<<<< HEAD
-</body>
 
-<div class="div-title">
-   <h1 class="title-h1">h1</h1>
-=======
-=======
-<body>
->>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
 
 
 <div class="navbar">
-    
 <a href="#title1" class="a-navbar">หัวข้อที่1</a>
 <a href="#title2" class="a-navbar">หัวข้อที่2</a>
 <a href="#title3" class="a-navbar">หัวข้อที่3</a>
 </nav>
 
 
-<div class="div-title"id="title1">
-   <h1 class="title-h1">h1</h1>
+<div class="div-title" id="title1">
+    <h1 class="title-h1">h1</h1>
 </div>
 
 
-
 <h2 class="title-h2">Subtitle</h2>
+
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
 A ab, quo assumenda animi cupiditate natus perferendis cumque delectus praesentium optio officia. Qui ipsa magni nulla sunt, laboriosam, laborum harum vel ipsam in, quas dolorem corrupti rerum molestias cupiditate.
 Facere corrupti, nobis odit cupiditate accusantium porro a nesciunt nihil ipsum recusandae enim. Magnam ut nostrum facere totam facilis nemo alias voluptates tempora repellat, sunt molestias qui error quia? Cupiditate.
@@ -60,18 +47,27 @@ Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
 Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
-<<<<<<< HEAD
-=======
+
+ 
+<div class="div-title" id="title2">
+    <h2 class="title-h1">h2</h2>
+</div>
+
+
+
  <div class="div-title"id="title2">
         <h1 class="title-h1">h2</h1>
     </div>
 
-    <h2 class="title-h2">Subtitle</h2>
+
+<h2 class="title-h2">Subtitle</h2>
 
 
 
->>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
+
+
 <h2 class="title">subtitle</h2>
+
 <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam dolore molestiae accusantium! Vitae quis iste, enim nisi, perspiciatis iusto corrupti quidem necessitatibus, provident repudiandae illo? Eveniet enim eligendi sapiente cumque.
 Nesciunt cum quo distinctio dicta natus animi odit recusandae quibusdam, corporis voluptate, tenetur consequuntur voluptatibus molestias expedita, ex facere quas accusantium. Esse ut rem nesciunt eveniet magni fugit eum delectus!
 Ratione ullam excepturi quam ipsum odit officia voluptatem doloremque quia deserunt, ad eveniet minima repudiandae culpa perspiciatis! Voluptate dolor iste ipsa, velit id minima dolores. Expedita soluta facilis non quasi.
@@ -88,14 +84,12 @@ Optio magni autem excepturi exercitationem illo cumque nemo ab perspiciatis ad l
 Sapiente animi ducimus, officiis laudantium necessitatibus cumque nulla minus eos minima. Tenetur id voluptatem voluptatum, quas itaque magnam veritatis illo nemo, quos architecto blanditiis voluptas eveniet dicta. Delectus, nobis deserunt.
 Reiciendis in et perspiciatis? Eius, veniam cupiditate. Dolores nam eveniet, nesciunt quam sapiente quos laboriosam blanditiis omnis fugit dolorum ab assumenda explicabo architecto harum odit molestias doloremque tenetur quibusdam sint!</p>
 
-<div class="div-title"id="title3">
-        <h1 class="title-h1">h3</h1>
-    </div>
+<div class="div-title" id="title3">
+    <h3 class="title-h1">h3</h3>
+</div>
 
-    <h2 class="title-h2">Subtitle</h2>
+<h3 class="title-h3">Subtitle</h3>
 
-
-<h3 class="">h3</h3>
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, facere ipsa ea laborum expedita deserunt aliquid iure impedit, odio consequatur minima? Magni sint suscipit ipsa commodi sunt quasi enim amet.
 Magnam voluptate iure esse natus harum? Doloremque, eos! Aspernatur amet eligendi cumque quod in nisi totam, eius, doloremque fuga molestiae maxime repellendus accusantium, delectus voluptatum! Harum animi qui dolor aliquam.
 Atque mollitia doloribus pariatur sunt praesentium harum nulla ullam officiis. Necessitatibus soluta, vero quibusdam ea ut sed officia quidem quis fuga, pariatur porro earum qui nobis omnis mollitia, autem quos?
