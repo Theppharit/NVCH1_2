@@ -6,15 +6,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/styie.css">
+    <link rel="stylesheet" href="./assets/style.css">
     <title>Aphitchaya</title>
 </head>
 
 
 
+
 <body>
 
-<div class="div-title">
+
+
+<nav class="navbar">
+    <a href="#title1" class="a-navbar">หัวข้อที่1</a>
+    <a href="#title1" class="a-navbar">หัวข้อที่2</a>
+    <a href="#title1" class="a-navbar">หัวข้อที่3</a>
+</nav>
+    
+
+
+
+
+<div class="div-title" id="title1">
     <h1 class="title-h1">h1</h1>
 </div>
 
@@ -30,7 +43,7 @@ Assumenda porro iusto provident itaque necessitatibus pariatur et numquam vero a
 Error praesentium placeat quia, nisi tempora minima magni nulla! Tempore, aperiam nostrum optio quo provident magnam quae culpa voluptatem assumenda labore quos amet qui unde odit quia facilis accusantium similique!
 Quasi veritatis aliquam recusandae. Numquam, itaque asperiores quis accusantium aperiam culpa labore odio est maxime autem velit suscipit cum tenetur officia nulla veritatis veniam alias nihil soluta obcaecati eum ullam?</p>
 
-<div class="div-title">
+<div class="div-title" id="title1">
     <h2 class="title-h2">h2</h2>
 </div>
 
@@ -52,7 +65,8 @@ Mollitia cumque fugit dolor nulla ab, facilis temporibus at quis, ad corrupti, e
 Sint mollitia sapiente reprehenderit fugit nesciunt placeat eum similique deserunt quibusdam voluptatibus quis minima in necessitatibus, quia voluptatum cupiditate corrupti, id obcaecati ut soluta natus aliquam minus! Natus, maiores perspiciatis?
 Rerum consequatur earum quia enim corrupti quisquam eligendi facilis modi temporibus aut ducimus eius iusto illum sed at, dignissimos reiciendis quibusdam sunt nisi quis ratione alias id iure! Assumenda, necessitatibus.
 Hic fugit nulla doloribus vel veritatis quasi, fuga harum, excepturi similique illum consectetur ex, sint sapiente itaque totam omnis aliquid minus nam dolorem deleniti? Corporis eum quisquam sint possimus dicta.</p>
-<div class="div-title">
+
+<div class="div-title" id="title1">
     <h3 class="title-h3">h3</h3>
 </div>
 
