@@ -1,5 +1,9 @@
 :root {
-    --thme-color: rgb(230, 100, 171);
+    --thme-color: rgb(2 border-radius: 10px;
+    padding: 20px;
+    margin: 25px auto;
+    width: 88%;
+    box-shadow: 0 4px 10px rgb(147, 62, 196);30, 100, 171);
 }
 
 /*ส่วนหัว */
@@ -17,12 +21,13 @@
 }
 
 /* กล่องพื้นหลังทั่วไป */
-.box {
+.box { 
     border-radius: 10px;
     padding: 20px;
     margin: 25px auto;
     width: 88%;
-    box-shadow: 0 4px 10px rgb(147, 62, 196);
+    box-shadow: 0 4px 10px rgb(102, 218, 208);
+   
 }
 
 /* สีพื้นหลังแต่ละกล่อง */
