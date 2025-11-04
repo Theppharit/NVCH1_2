@@ -27,7 +27,7 @@
     </div>
 
     <h1 class=">Phonnarin48</h1>
-    <p class="1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum porro sapiente ab at, recusandae, provident similique, excepturi ullam praesentium ex pariatur! Facilis incidunt quo nobis ad nam laudantium repudiandae laboriosam?
+    <p class="1">orem ipsum dolor sit amet consectetur adipisicing elit. Ipsum porro sapiente ab at, recusandae, provident similique, excepturi ullam praesentium ex pariatur! Facilis incidunt quo nobis ad nam laudantium repudiandae laboriosam?
     Explicabo, accusantium? Reprehenderit illum ipsam obcaecati dicta maxime! Suscipit, nemo? Est, voluptatem esse? Quas voluptatem aspernatur odio, distinctio minus totam aliquid laudantium ducimus perferendis dolorum sapiente, autem, ipsum veniam ex!
     Ratione animi eveniet consequuntur at voluptates ut atque velit officia odio esse unde veniam ullam, eos voluptate harum voluptatum pariatur quae distinctio sint facere modi quaerat! Consectetur ea vitae molestias!
     Exercitationem natus aspernatur nostrum consequuntur eum facere numquam totam vel omnis quam pariatur qui amet, laudantium nemo saepe, id rem dolor, fugiat nam fuga earum quia. Deleniti quod iusto aliquam!
