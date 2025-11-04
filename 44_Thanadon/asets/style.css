@@ -25,7 +25,9 @@ justify-content: center;
     color: var(--theme-color);
 }
 
-
+.title-h3{
+    color: blue;
+}
     
 
    
