@@ -8,20 +8,26 @@
 </head>
 <body>
 
+<nav class="navbar">
+    <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
+</nav>
+
     <!-- ส่วนหัว -->
     <div class="div-title">
-        <h1 class="title-h1">Thanawat Jakoh</h1>
+        <h1 class="title-h1" id="title1">Thanawat Jakoh</h1>
     </div>
 
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
-        <h2 class="title-h2">Halo everyyan</h2>
+        <h2 class="title-h2" id="title2">Halo everyyan</h2>
         <p>My name is Thanawat Jakoh but in online you can call me Valerik it kinda good when you call me by this name</p>
     </div>
 
     <!-- กล่องที่ 2 -->
     <div class="box box-yellow">
-        <h2 class="title-h3">Pls sub</h2>
+        <h2 class="title-h3" id="title3">Pls sub</h2>
         <p>I do a youtube yea im gonna be a Vtuber in da future</p>
     </div>
 

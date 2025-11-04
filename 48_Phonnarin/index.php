@@ -16,9 +16,9 @@
 <body>
 
 <nav class="navbar">
-    <a href="title1" class="a-navbar">หัวข้อที่1</a>
-    <a href="title2" class="a-navbar">หัวข้อที่2</a>
-    <a href="title3" class="a-navbar">หัวข้อที่3</a>
+    <a href="#title1" class="a-navbar">หัวข้อที่1</a>
+    <a href="#title2" class="a-navbar">หัวข้อที่2</a>
+    <a href="#title3" class="a-navbar">หัวข้อที่3</a>
 </nav>
 
 

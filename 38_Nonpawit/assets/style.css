@@ -1,5 +1,14 @@
 :root {
-    --theme-color: #6deeff;
+    --theme-color: #afd5f0;
+}
+
+.navbar {
+    width: 100%;
+    height: 70px;
+    background-color: #9dcaeb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .div-title {
