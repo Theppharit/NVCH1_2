@@ -44,7 +44,7 @@
 
 
 
-    <div class="div-title">
+    <div class="div-title" id="title2">
         <h1 class="title-h1">h1-2</h1>
     </div>
 
