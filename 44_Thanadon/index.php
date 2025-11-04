@@ -18,9 +18,9 @@
 </body>
 <<<<<<< HEAD
 <div class="div-title">
-<h1 class="title">h1</h1>
-=======
 <h1 class="title-h1">h1</h1>
+=======
+
 
 </div>
 <h2 class="title-h2">Subtitle</h2>
