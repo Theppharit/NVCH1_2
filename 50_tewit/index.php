@@ -43,7 +43,7 @@
     Nisi temporibus esse ratione deleniti sit tempore eaque debitis, doloremque ullam, corporis consectetur consequuntur possimus, iure unde obcaecati harum. Officiis qui fugit dolorem eius ab ipsa iusto sunt mollitia obcaecati!</p1>
 
     <div class="div-title" id="title2">
-    <h2 class="title-h2">to</h2>
+    <h2 class="title-h2">to...</h2>
 </div>
 
 
