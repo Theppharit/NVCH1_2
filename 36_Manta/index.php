@@ -14,11 +14,21 @@
 
 <body>
 
-<div class="div-title">
+
+
+
+<nav class="navbar">
+    <a href="#title1" class="a-navbar">หัวข้อที่1</a>
+    <a href="#title1" class="a-navbar">หัวข้อที่2</a>
+    <a href="#title1" class="a-navbar">หัวข้อที่3</a>
+</nav>
+
+
+
+<div class="div-title" id="title1">
     <h1 class="title-h1">h1</h1>
 </div>
 
- 
 
 <h2 class="title-h2">Subtitle</h2>
 
@@ -38,11 +48,11 @@ Quos earum modi libero dolorum sint commodi laborum enim? Accusantium sit quisqu
 Aliquid impedit possimus laborum cum hic voluptatibus eaque architecto illum cumque blanditiis? Nobis, eos pariatur recusandae, aperiam blanditiis totam earum magni nemo saepe modi adipisci, libero ut distinctio itaque reiciendis.
 Ut assumenda ab ex sint ea veniam iure eius expedita. Deleniti mollitia placeat et sequi sint nihil maxime quod temporibus, quaerat expedita aperiam numquam. Nihil, alias. Praesentium eaque autem ratione.</p>
 
-<div class="div-title">
+<div class="div-title" id="title2">
     <h2 class="title-h1">h2</h2>
 </div>
 
-<h2 class="title-h1">Subtitle</h2>
+<h2 class="title-h2">Subtitle</h2>
 
 
 <p class="1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam repellendus dicta, repudiandae vitae a aperiam nulla voluptates, neque, soluta itaque libero! Possimus, placeat eos explicabo dolor vero sunt consectetur suscipit.
@@ -54,11 +64,11 @@ Ex, dolore iure explicabo ullam et asperiores odit a molestias amet aliquam, ess
 Ea, soluta excepturi accusantium blanditiis, dolorem, eos a inventore totam quaerat iusto enim ut libero! Explicabo vel aut iste accusamus minus placeat, praesentium laborum eius consequuntur sit, veniam modi vero!
 Beatae id, praesentium eveniet nam nostrum illo sint perferendis? Quidem dolores alias repudiandae harum, enim repellat? Odit harum voluptatibus, a quas tempore eum velit quasi, quisquam quod molestias excepturi totam!</p>
 
-<div class="div-title">
+<div class="div-title" id="title3">
     <h3 class="title-h1">h3</h3>
 </div>
 
-<h3 class="title-h3">Subtitle</h2>
+<h3 class="title-h3">Subtitle</h3>
 
 <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse explicabo nulla magni ea, eligendi saepe? Eum ab enim, voluptatum id, eaque excepturi vitae quae quas quisquam architecto dignissimos accusantium quo.
 Id ratione molestiae architecto, laudantium itaque corporis? Doloremque, est laborum cumque nam, nihil sequi provident ipsa maxime consequuntur dignissimos consectetur ab sapiente labore obcaecati autem repellat culpa debitis. Minima, iste.

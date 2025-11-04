@@ -16,11 +16,21 @@
 <body>
 
 
-<div class="div-title">
-    <h1 class="title-h1">h1</h1>
-</div>
 
-<h2 class="title-h2">Subtitle</h2>
+<nav class="navbar">
+    <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
+</nav>
+
+
+
+
+    <div class="div-title" id="title1"> 
+        <h1 class="title-h1">h1</h1>
+    </div>
+
+    <h2 class="title-h2">Subtitle</h2>
 
     <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
@@ -33,9 +43,9 @@
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
 
-    <div class="div-title">
-    <h1 class="title-h1">h2</h2>
-     </div>
+    <div class="div-title"id="title2">
+        <h1 class="title-h1">h2</h2>
+    </div>
 
     <h3 class="title-h2">Subtitle</h2>
 
@@ -50,9 +60,9 @@
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
 
-        <div class="div-title">
-    <h1 class="title-h1">h3</h3>
-     </div>
+    <div class="div-title"id="title3">
+        <h1 class="title-h1">h3</h3>
+    </div>
 
     <h4 class="title-h2">Subtitle</h4>
 
