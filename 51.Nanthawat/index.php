@@ -58,10 +58,9 @@
     Nobis dolorum similique sapiente ipsam, soluta magnam consequatur quae! Dolor eveniet alias nihil hic expedita, tenetur amet dignissimos aliquid a nostrum eos corrupti ipsam recusandae incidunt velit, deleniti perferendis eaque.
     Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?</p>
 
-<div class="div-title"
-
+<div class="div-title">
+    
     <h2 class="" id="title3">บรรทัดใหม่2</h2>
-
 <div>
 
 
