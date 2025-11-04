@@ -19,9 +19,9 @@
 
 <nav class="navber"></nav>
 
-     <a href="titlet1" class="a-navbr">หัวข้อที่่ 1</a>
-     <a href="titlet2" class="a-navbr">หัวข้อที่่ 2</a>
-     <a href="titlet3" class="a-navbr">หัวข้อที่่ 3</a>   
+     <a href="#titlet1" class="a-navbr">หัวข้อที่่ 1</a>
+     <a href="#titlet2" class="a-navbr">หัวข้อที่่ 2</a>
+     <a href="#titlet3" class="a-navbr">หัวข้อที่่ 3</a>   
 </nav>    
 
 
