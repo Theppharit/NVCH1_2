@@ -1,7 +1,3 @@
-:root {
-    --theme-color: #731b1b;
-}
-
 .div-title {
     width: 100%;
     height: 150px;
