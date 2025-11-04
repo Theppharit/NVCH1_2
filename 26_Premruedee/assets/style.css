@@ -1,12 +1,17 @@
 .div-tit {
     width: 100%;
     height: 150px;
-    background-color: #f76dbd;
+    background-color: rgb(238, 61, 61);
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .title-h1 {
-    color:brown;
+    color: rgb(19, 214, 214);
 }
+
+.title-h1 {
+    color: rgb(236, 77, 223);
+}
+

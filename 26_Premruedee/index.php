@@ -14,11 +14,12 @@
 
 
 <body>
+
 <div class="div-title">
     <h1 class="title-h1">h1</h1>
 </div>   
 
-<h2 class="">Subtitle</h2>
+<h2 class="title-h2">Subtitle</h2>
 
     <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse minima eos vel quasi! Qui provident optio tempore perspiciatis non distinctio dolores! Eum incidunt, porro laboriosam fuga iusto illo ab architecto.</p>
 
