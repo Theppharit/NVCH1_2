@@ -21,17 +21,13 @@
  }
 
 .title-h1 {
-  color: rgb(255, 255, 255);
+    color: rgb(197, 96, 223);
 }
-  
-
 
 .title-h2 {
-  color: #df2323;
-  
+    color: rgb(47, 109, 160);
 }
 
 .title-h3 {
-  color: #3abd19;
-  
+    color: rgb(47, 109, 160);
 }
