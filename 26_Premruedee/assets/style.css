@@ -1,7 +1,12 @@
-.div-tit {
+:root {
+    --thme-color: rgb(238, 61, 61);
+}
+
+
+.div-title {
     width: 100%;
     height: 150px;
-    background-color: rgb(238, 61, 61);
+    background-color: var(--thme-color);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11,7 +16,7 @@
     color: rgb(19, 214, 214);
 }
 
-.title-h1 {
-    color: rgb(236, 77, 223);
+.title-h2 {
+    color: var(--thme-color);
 }
 
