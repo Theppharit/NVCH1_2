@@ -62,29 +62,6 @@
 
 
 
-<div class="div-title"id="title3">
-
-    <h2 class="titie-h2" >บรรทัดใหม่2</h2>
-
-<div>
-
-
-
-
-
-
-    <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum repudiandae consequuntur magni dignissimos ab modi officia minus illum. Natus dolorem autem molestiae voluptatum voluptate repellat voluptatibus pariatur consectetur atque doloribus.
-    Voluptatibus rerum architecto praesentium. Reiciendis, iste ipsam ad dolorum aperiam vero dolorem. Laudantium incidunt autem illum obcaecati alias quas soluta nostrum atque tempora, inventore sapiente nulla blanditiis architecto repudiandae omnis!
-    Accusamus numquam magni ex deserunt quisquam. Inventore ullam ipsa et a voluptates explicabo suscipit! Recusandae, aliquam consequuntur laboriosam tenetur ratione vero eaque iste obcaecati expedita culpa? Sed voluptatum iste laboriosam.
-    Vitae impedit incidunt consectetur sint sapiente dolore nisi ratione. Quia, excepturi minus, quam corrupti vero saepe odit fugiat laborum optio perspiciatis ex voluptate est eligendi. Sint illo qui velit perspiciatis.
-    Rem fugit itaque laudantium deserunt harum minima sapiente sint, corrupti hic quo, impedit voluptas alias officiis dolores tempore cupiditate sit obcaecati autem quod repellendus ea doloribus nisi qui. Rerum, quasi.
-    Necessitatibus debitis perferendis deleniti placeat distinctio id itaque maxime, dolores suscipit alias recusandae. Rem minima amet, doloribus explicabo commodi mollitia accusamus, magnam nostrum assumenda laboriosam expedita hic, facilis iure suscipit.
-    Reprehenderit a nostrum maxime totam optio laudantium esse. Illo doloremque autem sint blanditiis atque, temporibus magni nostrum culpa id! Modi in maxime totam molestias labore pariatur doloribus eum soluta porro?
-    Consectetur sed molestiae, totam architecto eveniet molestias accusamus magnam harum officiis, earum similique suscipit. Rem necessitatibus saepe voluptate consectetur dolore harum? A saepe expedita accusamus natus dolorem eum sit vero.
-    Architecto eveniet doloribus eius illum, cum dolore aut reiciendis fuga beatae explicabo ab modi deleniti neque minus maxime voluptatibus enim corrupti molestiae? Enim laudantium, sed quam ab repudiandae at illum!
-    Quo neque corporis accusantium aut animi nemo maiores ut quam, magnam officiis nihil dolores fugiat! Libero aliquid obcaecati cumque officiis dolorem, eveniet placeat expedita inventore at dicta fuga? Nam, quasi.
-</p>
-
 
 
 
