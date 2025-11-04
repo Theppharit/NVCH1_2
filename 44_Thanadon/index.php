@@ -17,27 +17,10 @@
 
 
 
-=======
-<<<<<<< HEAD
- <link rel="stylesheet" href="asest/style.css">
 
-=======
- 
->>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
-
-<<<<<<< HEAD
 <body>
     
-<<<<<<< HEAD
-</body>
 
-<div class="div-title">
-   <h1 class="title-h1">h1</h1>
-=======
-=======
-<body>
->>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
->>>>>>> a522de49accdbf97d2bc49b7760e0a3ae54cac19
 
 
 <div class="navbar">
