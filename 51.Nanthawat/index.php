@@ -34,9 +34,9 @@
 
 
 
-    <h1 class="">การผจญภัยครั้งใหญ่</h1>
-    <h1 class="">โลกนี้ช่างสวยงานเหลือเกิน</h1>
-    <h1 class="">เล่นเกมกันมั้ย</h1>
+    <h1 class="title-a">การผจญภัยครั้งใหญ่</h1>
+    <h1 class="title-b">โลกนี้ช่างสวยงานเหลือเกิน</h1>
+    <h1 class="title-c">เล่นเกมกันมั้ย</h1>
 
     <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus nesciunt sit odio velit deserunt quibusdam deleniti fugiat amet a? Fuga corrupti quam neque vero inventore, tempora unde suscipit saepe eligendi?
     Exercitationem nemo ad veritatis, obcaecati non perspiciatis ab laborum nesciunt sit, quas, consequuntur dolore eum odit accusamus blanditiis porro odio aspernatur recusandae eos. Sunt odit saepe temporibus, asperiores amet fugiat?
@@ -57,34 +57,18 @@
     Accusamus eaque beatae quam deserunt dolor cumque quasi voluptatem maxime illo delectus asperiores perferendis iste eligendi, magni accusantium cum nihil quibusdam iure nam impedit eum optio voluptates similique. Consequuntur, eos?
     Nulla dolore fugit, eveniet asperiores, harum sunt corporis impedit alias mollitia beatae nam deserunt fuga amet nemo rerum quia. Facere corporis similique dignissimos. Culpa aut atque ipsa non, aliquid rerum.
     Nobis dolorum similique sapiente ipsam, soluta magnam consequatur quae! Dolor eveniet alias nihil hic expedita, tenetur amet dignissimos aliquid a nostrum eos corrupti ipsam recusandae incidunt velit, deleniti perferendis eaque.
-    Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?</p>
-
-<div class="div-title"id="title3">
-
-    <h2 class="titie-h2" >บรรทัดใหม่2</h2>
-
-<div>
+    Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?
+</p>
 
 
 
 
 
-
-    <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum repudiandae consequuntur magni dignissimos ab modi officia minus illum. Natus dolorem autem molestiae voluptatum voluptate repellat voluptatibus pariatur consectetur atque doloribus.
-    Voluptatibus rerum architecto praesentium. Reiciendis, iste ipsam ad dolorum aperiam vero dolorem. Laudantium incidunt autem illum obcaecati alias quas soluta nostrum atque tempora, inventore sapiente nulla blanditiis architecto repudiandae omnis!
-    Accusamus numquam magni ex deserunt quisquam. Inventore ullam ipsa et a voluptates explicabo suscipit! Recusandae, aliquam consequuntur laboriosam tenetur ratione vero eaque iste obcaecati expedita culpa? Sed voluptatum iste laboriosam.
-    Vitae impedit incidunt consectetur sint sapiente dolore nisi ratione. Quia, excepturi minus, quam corrupti vero saepe odit fugiat laborum optio perspiciatis ex voluptate est eligendi. Sint illo qui velit perspiciatis.
-    Rem fugit itaque laudantium deserunt harum minima sapiente sint, corrupti hic quo, impedit voluptas alias officiis dolores tempore cupiditate sit obcaecati autem quod repellendus ea doloribus nisi qui. Rerum, quasi.
-    Necessitatibus debitis perferendis deleniti placeat distinctio id itaque maxime, dolores suscipit alias recusandae. Rem minima amet, doloribus explicabo commodi mollitia accusamus, magnam nostrum assumenda laboriosam expedita hic, facilis iure suscipit.
-    Reprehenderit a nostrum maxime totam optio laudantium esse. Illo doloremque autem sint blanditiis atque, temporibus magni nostrum culpa id! Modi in maxime totam molestias labore pariatur doloribus eum soluta porro?
-    Consectetur sed molestiae, totam architecto eveniet molestias accusamus magnam harum officiis, earum similique suscipit. Rem necessitatibus saepe voluptate consectetur dolore harum? A saepe expedita accusamus natus dolorem eum sit vero.
-    Architecto eveniet doloribus eius illum, cum dolore aut reiciendis fuga beatae explicabo ab modi deleniti neque minus maxime voluptatibus enim corrupti molestiae? Enim laudantium, sed quam ab repudiandae at illum!
-    Quo neque corporis accusantium aut animi nemo maiores ut quam, magnam officiis nihil dolores fugiat! Libero aliquid obcaecati cumque officiis dolorem, eveniet placeat expedita inventore at dicta fuga? Nam, quasi.</p>
 
 <div class="div-title" id="title4">
 
-    <h3 class="">โลกใหม่555</h3>
-    
+    <h3 class="title-h3">โลกใหม่555</h3>
+
 <div>
 
 
@@ -98,7 +82,8 @@
     Ducimus at totam, impedit numquam eveniet repellat eius architecto delectus mollitia corrupti quas nihil enim qui vitae omnis quam nemo molestias harum! Nam, alias? Architecto adipisci ipsa accusantium quod est?
     Quibusdam minus deserunt ex vero excepturi. Voluptates temporibus autem neque illum eius excepturi nemo nisi similique, atque voluptatem molestias, minus esse non, ratione iure aliquam itaque dicta illo facilis quo?
     Deleniti voluptatem beatae enim fuga hic eius ut illo, similique magnam officiis maxime, odit rem dicta quae dolores cum voluptas doloremque nemo, assumenda voluptates? Quas similique quae modi earum rem.
-    Enim, amet quae! Eligendi ad atque illum harum impedit labore velit et sunt illo veritatis quas omnis, praesentium iusto voluptates blanditiis, assumenda explicabo quam corporis ea veniam maxime! Soluta, ratione.</p>
+    Enim, amet quae! Eligendi ad atque illum harum impedit labore velit et sunt illo veritatis quas omnis, praesentium iusto voluptates blanditiis, assumenda explicabo quam corporis ea veniam maxime! Soluta, ratione.
+</p>
 </body>
 
 
