@@ -39,7 +39,7 @@ Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
 Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
  <div class="div-title">
-        <h1 class="title-h1">h1-2</h1>
+        <h1 class="title-h1">h2</h1>
     </div>
 
     <h2 class="title-h2">Subtitle</h2>
@@ -64,7 +64,7 @@ Sapiente animi ducimus, officiis laudantium necessitatibus cumque nulla minus eo
 Reiciendis in et perspiciatis? Eius, veniam cupiditate. Dolores nam eveniet, nesciunt quam sapiente quos laboriosam blanditiis omnis fugit dolorum ab assumenda explicabo architecto harum odit molestias doloremque tenetur quibusdam sint!</p>
 
 <div class="div-title">
-        <h1 class="title-h1">h1-3</h1>
+        <h1 class="title-h1">h3</h1>
     </div>
 
     <h2 class="title-h2">Subtitle</h2>
