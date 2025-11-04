@@ -1,35 +1,43 @@
-<h1 class="">h1</h1>
-<p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, fugiat. Ad autem voluptatum numquam. Sed, sapiente! Esse soluta, alias quo consequuntur voluptate consectetur reprehenderit praesentium rem, facere expedita dolore quod!
-Culpa, facere asperiores atque unde eveniet architecto suscipit sapiente impedit deleniti? Eveniet modi soluta vero consequuntur perferendis. Optio eos harum blanditiis laborum ratione laudantium impedit dolorem quasi, error ea! Atque.
-Amet modi minima quam earum nulla, magnam nesciunt impedit tenetur illum voluptatem excepturi inventore aliquam cupiditate mollitia voluptas illo soluta ullam provident natus! Necessitatibus modi nostrum ullam excepturi explicabo reprehenderit!
-Possimus recusandae minima, dolore earum corrupti, dolorum sed iste saepe temporibus quia inventore facere animi officia voluptatum nesciunt quod laboriosam perferendis placeat? Adipisci ab eos porro ducimus sequi quibusdam neque?
-Pariatur tenetur nam consequatur quam. Maxime voluptas nemo iste sunt, ad mollitia cupiditate in. Optio facere ratione, eius atque repellendus, voluptas beatae accusantium culpa dicta qui amet sit doloribus nulla?
-Vitae tempore totam facilis cupiditate consequuntur minima, sed similique iure perspiciatis magnam sint dolore dolorum placeat alias aspernatur accusamus et expedita! Expedita accusantium aperiam tempore repellendus, nostrum rem cumque exercitationem.
-Quasi ea dicta accusantium vero ducimus odio voluptatum eius voluptatem iste, officiis laboriosam eaque, rerum culpa corporis eum blanditiis aspernatur. Possimus expedita quaerat id vitae iusto ab officiis temporibus odio.
-Dolor repellat vero assumenda labore fugit animi eum facilis dicta debitis, libero optio dolorem quia voluptates eius? Error quia aspernatur incidunt, quaerat quasi iste fugiat doloremque ab consectetur enim corporis.
-At atque voluptas enim eos expedita recusandae, quas iure esse blanditiis sit placeat laudantium? Illum dolor vel veritatis, quisquam enim veniam error eaque deserunt possimus autem quam delectus, magnam eos!
-Minima pariatur aut accusamus, sit asperiores officia enim repellat corporis. Atque odit accusantium possimus eligendi assumenda alias amet. Impedit eum enim sed rerum consectetur dignissimos incidunt! Repellat deserunt debitis itaque.
-<h2 class="">h2</h2>
-<p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, fugiat. Ad autem voluptatum numquam. Sed, sapiente! Esse soluta, alias quo consequuntur voluptate consectetur reprehenderit praesentium rem, facere expedita dolore quod!
-Culpa, facere asperiores atque unde eveniet architecto suscipit sapiente impedit deleniti? Eveniet modi soluta vero consequuntur perferendis. Optio eos harum blanditiis laborum ratione laudantium impedit dolorem quasi, error ea! Atque.
-Amet modi minima quam earum nulla, magnam nesciunt impedit tenetur illum voluptatem excepturi inventore aliquam cupiditate mollitia voluptas illo soluta ullam provident natus! Necessitatibus modi nostrum ullam excepturi explicabo reprehenderit!
-Possimus recusandae minima, dolore earum corrupti, dolorum sed iste saepe temporibus quia inventore facere animi officia voluptatum nesciunt quod laboriosam perferendis placeat? Adipisci ab eos porro ducimus sequi quibusdam neque?
-Pariatur tenetur nam consequatur quam. Maxime voluptas nemo iste sunt, ad mollitia cupiditate in. Optio facere ratione, eius atque repellendus, voluptas beatae accusantium culpa dicta qui amet sit doloribus nulla?
-Vitae tempore totam facilis cupiditate consequuntur minima, sed similique iure perspiciatis magnam sint dolore dolorum placeat alias aspernatur accusamus et expedita! Expedita accusantium aperiam tempore repellendus, nostrum rem cumque exercitationem.
-Quasi ea dicta accusantium vero ducimus odio voluptatum eius voluptatem iste, officiis laboriosam eaque, rerum culpa corporis eum blanditiis aspernatur. Possimus expedita quaerat id vitae iusto ab officiis temporibus odio.
-Dolor repellat vero assumenda labore fugit animi eum facilis dicta debitis, libero optio dolorem quia voluptates eius? Error quia aspernatur incidunt, quaerat quasi iste fugiat doloremque ab consectetur enim corporis.
-At atque voluptas enim eos expedita recusandae, quas iure esse blanditiis sit placeat laudantium? Illum dolor vel veritatis, quisquam enim veniam error eaque deserunt possimus autem quam delectus, magnam eos!
-Minima pariatur aut accusamus, sit asperiores officia enim repellat corporis. Atque odit accusantium possimus eligendi assumenda alias amet. Impedit eum enim sed rerum consectetur dignissimos incidunt! Repellat deserunt debitis itaque.
+<!DOCTYPE html>
+<html lang="en">
 
-<h3 class="">h3</h3>
 
-<p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, fugiat. Ad autem voluptatum numquam. Sed, sapiente! Esse soluta, alias quo consequuntur voluptate consectetur reprehenderit praesentium rem, facere expedita dolore quod!
-Culpa, facere asperiores atque unde eveniet architecto suscipit sapiente impedit deleniti? Eveniet modi soluta vero consequuntur perferendis. Optio eos harum blanditiis laborum ratione laudantium impedit dolorem quasi, error ea! Atque.
-Amet modi minima quam earum nulla, magnam nesciunt impedit tenetur illum voluptatem excepturi inventore aliquam cupiditate mollitia voluptas illo soluta ullam provident natus! Necessitatibus modi nostrum ullam excepturi explicabo reprehenderit!
-Possimus recusandae minima, dolore earum corrupti, dolorum sed iste saepe temporibus quia inventore facere animi officia voluptatum nesciunt quod laboriosam perferendis placeat? Adipisci ab eos porro ducimus sequi quibusdam neque?
-Pariatur tenetur nam consequatur quam. Maxime voluptas nemo iste sunt, ad mollitia cupiditate in. Optio facere ratione, eius atque repellendus, voluptas beatae accusantium culpa dicta qui amet sit doloribus nulla?
-Vitae tempore totam facilis cupiditate consequuntur minima, sed similique iure perspiciatis magnam sint dolore dolorum placeat alias aspernatur accusamus et expedita! Expedita accusantium aperiam tempore repellendus, nostrum rem cumque exercitationem.
-Quasi ea dicta accusantium vero ducimus odio voluptatum eius voluptatem iste, officiis laboriosam eaque, rerum culpa corporis eum blanditiis aspernatur. Possimus expedita quaerat id vitae iusto ab officiis temporibus odio.
-Dolor repellat vero assumenda labore fugit animi eum facilis dicta debitis, libero optio dolorem quia voluptates eius? Error quia aspernatur incidunt, quaerat quasi iste fugiat doloremque ab consectetur enim corporis.
-At atque voluptas enim eos expedita recusandae, quas iure esse blanditiis sit placeat laudantium? Illum dolor vel veritatis, quisquam enim veniam error eaque deserunt possimus autem quam delectus, magnam eos!
-Minima pariatur aut accusamus, sit asperiores officia enim repellat corporis. Atque odit accusantium possimus eligendi assumenda alias amet. Impedit eum enim sed rerum consectetur dignissimos incidunt! Repellat deserunt debitis itaque.
+
+
+<head> 
+    <meta charset="UTF-8"
+    <meta name="viewport" contenet"width=device-width, initial-scale=1.0">
+    <link rei="stylesheet" href="./assets/style.css">
+
+    <title>prarewa</title>
+<head>
+
+
+<body>
+
+<div class="div-title">
+<h1 class"title-h1">prarewa Rerkcharern</h1>
+
+</div>
+ 
+    <h2 class="title-h2">Subtitle</h2>
+
+    <p1 class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum laudantium alias aperiam, ratione possimus vel itaque deserunt reiciendis recusandae necessitatibus nisi sunt earum, quam, laborum cupiditate laboriosam. Tempora, iusto voluptatibus.  
+   
+    <h2 class="title-h3">Pls</h2>
+
+    <p2 class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quibusdam provident laboriosam voluptatem voluptatum nobis beatae, nemo ipsa dolorem culpa? Doloremque placeat nobis veritatis possimus, quaerat quae quo debitis quas.
+   
+    <h3 class="title-h4">Ms. prarewa Rerkcharern</h3>
+    
+    <p3 class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non sunt iusto molestiae eius perferendis, aliquid temporibus repudiandae cupiditate dignissimos, numquam nesciunt enim iure fugiat sed modi corporis recusandae, eveniet nihil!
+   
+    <p4 class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quasi itaque, esse dolor porro aperiam amet inventore adipisci repellendus, tempore quam id, autem nulla dolore omnis eius voluptate iure repellat.
+
+</body>
+
+
+
+
+
+</html>
