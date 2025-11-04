@@ -18,11 +18,11 @@
 
 /* กล่องพื้นหลังทั่วไป */
 .box {
-border-radius: 10px;
-padding: 20px;
-margin: 25px auto;
-width: 88%;
-box-shadow: 0 4px 10px rgb(147, 62, 196);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px auto;
+    width: 88%;
+    box-shadow: 0 4px 10px rgb(147, 62, 196);
 }
 
 /* สีพื้นหลังแต่ละกล่อง */
@@ -37,12 +37,13 @@ box-shadow: 0 4px 10px rgb(147, 62, 196);
 .box-purpie {
      background-color: rgb(49, 230, 236);
 }
- 
-/* สีพื้นหลังแต่ละระดับ */
-.title-h2 {
-    color:rgb(24, 176, 236);
+
+.box-green {
+   background-color: rgb(142, 236, 208); 
 }
 
+ 
+/* สีหัวเรื่องแต่ละระดับ */
 .title-h2 {
     color: var(--thme-color);
 }
@@ -52,7 +53,7 @@ box-shadow: 0 4px 10px rgb(147, 62, 196);
 }
 
 .title-h4 {
-    color: rgb(31, 214, 113);
+    color: rgb(30, 174, 218);
 }
 
 .title-h5 {
