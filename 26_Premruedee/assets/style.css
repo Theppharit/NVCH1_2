@@ -1,0 +1,22 @@
+:root {
+    --thme-color: rgb(211, 78, 151);
+}
+
+
+.div-title {
+    width: 100%;
+    height: 150px;
+    background-color: var(--thme-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-h1 {
+    color: rgb(19, 214, 214);
+}
+
+.title-h2 {
+    color: var(--thme-color);
+}
+
