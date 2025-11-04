@@ -27,15 +27,15 @@ box-shadow: 0 4px 10px rgb(147, 62, 196);
 
 /* สีพื้นหลังแต่ละกล่อง */
 .box-blue {
-    background-color: rgb(12, 108, 233);
+    background-color: rgb(235, 225, 97);
 }
 
 .box-yellow {
-     background-color: rgb(240, 197, 81);
+     background-color: rgb(224, 127, 220);
 }
 
 .box-purpie {
-     background-color: rgb(221, 94, 221);
+     background-color: rgb(49, 230, 236);
 }
  
 /* สีพื้นหลังแต่ละระดับ */
