@@ -9,6 +9,7 @@ background-attachment: rgb(255, 109, 243);
 display: flex;
 align-items: center;
 justify-content: center;
+gap: 20px;
 }
 
 
