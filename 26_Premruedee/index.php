@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Premruedee Supharoekmontha</title>
-    <link rel="stylesheet" href="./assets/style.css">
+    <link rel="stylesheet" href="asset/style.css">
 </head>
 <body>
 
@@ -13,9 +13,6 @@
     <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
     <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
 </nav>
-
-
-
 
     <!-- ส่วนหัว -->
      <div class="div-title" id="title 1">
