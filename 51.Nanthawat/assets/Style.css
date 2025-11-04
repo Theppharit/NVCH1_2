@@ -17,9 +17,12 @@
     justify-content:center ;
     align-items: center;
 }
-title.h1{
+title-h1{
     color:blue;
 }
-title.h2{
-    color: var(.h2);
+title-h2{
+    color:rgb(126, 144, 8);
+}
+title-h3{
+    color:rgb(225, 122, 237);
 }
