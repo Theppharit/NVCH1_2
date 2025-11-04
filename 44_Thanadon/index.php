@@ -52,23 +52,22 @@ Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio i
 <div class="div-title" id="title2">
     <h2 class="title-h1">h2</h2>
 </div>
-=======
-<<<<<<< HEAD
-=======
+
+
+
  <div class="div-title"id="title2">
         <h1 class="title-h1">h2</h1>
     </div>
->>>>>>> a522de49accdbf97d2bc49b7760e0a3ae54cac19
+
 
 <h2 class="title-h2">Subtitle</h2>
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
+
+
 <h2 class="title">subtitle</h2>
->>>>>>> a522de49accdbf97d2bc49b7760e0a3ae54cac19
+
 <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam dolore molestiae accusantium! Vitae quis iste, enim nisi, perspiciatis iusto corrupti quidem necessitatibus, provident repudiandae illo? Eveniet enim eligendi sapiente cumque.
 Nesciunt cum quo distinctio dicta natus animi odit recusandae quibusdam, corporis voluptate, tenetur consequuntur voluptatibus molestias expedita, ex facere quas accusantium. Esse ut rem nesciunt eveniet magni fugit eum delectus!
 Ratione ullam excepturi quam ipsum odit officia voluptatem doloremque quia deserunt, ad eveniet minima repudiandae culpa perspiciatis! Voluptate dolor iste ipsa, velit id minima dolores. Expedita soluta facilis non quasi.
