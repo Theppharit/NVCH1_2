@@ -1,9 +1,9 @@
 :root{
---theme-color: rgb(106, 250, 250);
+--theme-color: rgb(255, 109, 243);
 }
 
 .navbar{
-    width: 100%;
+width: 100%;
 height: 150px;
 background-attachment:var(--theme-color) ;
 display: flex;
@@ -23,7 +23,7 @@ justify-content: center;
 }
 
 .title-h1{
-    color: rgb(243, 90, 223);
+    color: rgb(252, 118, 229);
 }
 
 /* กล่องพื้นหลังทั่วไป */
@@ -32,46 +32,46 @@ justify-content: center;
     padding: 20px;
     margin:25px auto;
     width: 80%;
-    box-shadow: 0 4px 10px rgb(243, 90, 223);
+    box-shadow: 0 4px 10px rgb(50, 246, 253);
 }
 
 /* สีพื้นหลังแต่ละกล่อง */
 .box-blue{
-    background-color: rgb(167, 250, 141);
+    background-color: rgb(167, 255, 243);
 }
 
 .box-yellow{
-    background-color: rgb(255, 135, 145);
+    background-color: rgb(160, 253, 199);
 }
 
 .box-green{
-    background-color: rgb(255, 245, 111);
+    background-color: rgb(247, 160, 255);
 }
 
 .box-purple{
-    background-color: rgb(186, 121, 247);
+    background-color: rgb(250, 255, 175);
 }
 
 /* สีหัวเรื่องแต่ละเรื่อง */
 .title-h2{
-    columns: var(--theme-color);
+    columns: rgb(109, 10, 10);
 }
 
 .title-h3{
-    color: rgb(18, 71, 22);
+    color: rgb(65, 39, 211);
 }
 
 .title-h4{
-    color: rgb(53, 12, 47);
+    color: rgb(226, 15, 15);
 }
 
 .title-h5{
-    color: rgb(187, 20, 20);
+    color: rgb(141, 47, 19);
 }
 
 /*เพิ่มเอฟเฟกต์ ้นอำพ ให้กล่อง*/
 .box:hover{
     transform: scale(1.02);
     transition: 0.3s ease;
-    box-shadow: 0 6px 15px rgb(255, 135, 145);
+    box-shadow: 0 6px 15px rgb(179, 44, 67);
 }
