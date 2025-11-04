@@ -23,10 +23,10 @@
 
 <div class="div-title">
    <h1 class="title-h1">h1</h1>
-=======
-
-
 </div>
+
+
+
 <h2 class="title-h2">Subtitle</h2>
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
 A ab, quo assumenda animi cupiditate natus perferendis cumque delectus praesentium optio officia. Qui ipsa magni nulla sunt, laboriosam, laborum harum vel ipsam in, quas dolorem corrupti rerum molestias cupiditate.
