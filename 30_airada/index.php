@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+
     <title>Airada</title>
 </head>
+
 <body>
-    <h1 class="">h1</h1>
+    <div class="div-title">
+    <h1 class="title-h1">h1</h1>
+</div>
+
     <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem praesentium quia perspiciatis aspernatur nemo consectetur dicta adipisci ad. Debitis odit consequatur accusamus! Qui eligendi vero, ipsam dolorem provident earum sint?
     Odio facere rerum explicabo voluptatum id hic, doloremque accusantium perferendis eveniet ipsa ullam. Accusamus consectetur harum voluptatibus debitis, temporibus sint. Pariatur fuga, id magnam impedit aliquam nobis quis vero assumenda.
     Impedit cupiditate, porro a voluptatem autem asperiores eius! Ducimus voluptates aut velit aliquid, ab facilis dolor eius officiis tempore, soluta ullam sint eveniet nobis ut inventore, non saepe aspernatur natus?
