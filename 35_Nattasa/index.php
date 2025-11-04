@@ -10,11 +10,6 @@
     <title>Nattasa</title>
 </head>
 
-
-
-<body>
-
-
 <nav class="navbar">
     <a href="title1" class="a-navbar">หัวข้อที่1</a>
     <a href="title2" class="a-navbar">หัวข้อที่2</a>
@@ -23,10 +18,11 @@
 
 
 
-    <div class="div-title"id="title1">
-        <h1 class="title-h1">h1</h1>
-    </div>
+<body>
 
+<div class="div-title">
+    <h1 class="title-h1">h1</h1>
+</div>
     <h2 class="title-h2">Subtitle</h2>
 
 <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores saepe inventore voluptates explicabo non quo, quasi repellat nisi ad animi exercitationem totam veritatis reprehenderit dolor eius quod nam impedit architecto?
