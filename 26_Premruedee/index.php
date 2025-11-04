@@ -16,20 +16,23 @@
 <body>
 
 <div class="div-title">
-    <h1 class="title-h1">h1</h1>
+<h1 class="title-h1">Premruedee Supharoekmontha</h1>
+
 </div>   
 
-<h2 class="title-h2">Subtitle</h2>
+    <h2 class="title-h2">Subtitle</h2>
 
-    <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse minima eos vel quasi! Qui provident optio tempore perspiciatis non distinctio dolores! Eum incidunt, porro laboriosam fuga iusto illo ab architecto.</p>
+    <p1 class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse minima eos vel quasi! Qui provident optio tempore perspiciatis non distinctio dolores! Eum incidunt, porro laboriosam fuga iusto illo ab architecto.</p>
 
-<h2 class="">h2</h2>
-    <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio harum similique rem iste perferendis hic temporibus et obcaecati consequuntur nobis eius expedita placeat magni dolorum maxime molestias, vel numquam corporis?</p>
+    <h2 class="title-h3">Pls sub</h2>
 
-<h3 class="">h3</h3>
-    <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates doloremque ipsam maxime sequi dolorem atque eveniet tenetur velit, reiciendis, blanditiis optio ad qui fugiat enim. Aperiam natus eum earum reiciendis.</p>
-    <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi cumque amet laboriosam provident recusandae suscipit maiores perferendis doloribus, quis, eos sed repudiandae sit hic, consequuntur ea consectetur itaque aspernatur excepturi.</p>
+    <p2 class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio harum similique rem iste perferendis hic temporibus et obcaecati consequuntur nobis eius expedita placeat magni dolorum maxime molestias, vel numquam corporis?</p>
 
+    <h3 class="title-h4">Ms. Premruedee Supharoekmontha</h3>
+
+    <p3 class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates doloremque ipsam maxime sequi dolorem atque eveniet tenetur velit, reiciendis, blanditiis optio ad qui fugiat enim. Aperiam natus eum earum reiciendis.</p>
+    
+    <p4 class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi cumque amet laboriosam provident recusandae suscipit maiores perferendis doloribus, quis, eos sed repudiandae sit hic, consequuntur ea consectetur itaque aspernatur excepturi.</p>
 
 </body>
 
