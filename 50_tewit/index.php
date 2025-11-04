@@ -65,7 +65,7 @@
     Iusto cupiditate mollitia ipsam at illo eligendi consectetur, fugit sunt. Quibusdam quasi, sint corporis hic exercitationem quis delectus dolore minus, reiciendis architecto ut, maiores numquam id corrupti? Sapiente, accusantium beatae!
     Blanditiis eius vel, reiciendis eveniet hic dolorem harum, enim excepturi eos in rerum ipsum libero. Tempora, laboriosam, adipisci tempore incidunt rem cumque dolorum provident expedita sint perspiciatis iusto illo dicta.
     Atque debitis cumque minima asperiores. Expedita, non in! Iure repellat doloribus quo commodi in aliquam quae vel similique soluta inventore suscipit ipsum vitae ad nemo numquam incidunt aspernatur, libero voluptate.
-    Obcaecati esse ea saepe inventore? Ipsam, quam. Magnam, ducimus obcaecati! Dignissimos excepturi earum vitae omnis ratione corporis labore quam veritatis veniam numquam. Perferendis, harum. Maxime quibusdam officiis itaque tenetur. Voluptate.
+    Obcaecati esse ea saepe inventore? Ipsam, quam. Manam, ducimus obcaecati! Dignissimos excepturi earum vitae omnis ratione corporis labore quam veritatis veniam numquam. Perferendis, harum. Maxime quibusdam officiis itaque tenetur. Voluptate.
     Eligendi maiores voluptas id ipsum enim distinctio dolores ipsam officiis, dolor explicabo ratione? Labore ut facilis temporibus quae necessitatibus et maiores deserunt quibusdam rerum! Numquam culpa quo cumque quia iure.</p2>
 
 <div class="div-title" id="title3">
