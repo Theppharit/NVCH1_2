@@ -15,13 +15,13 @@
 </nav>
 
 <!--ส่วนหัว-->
-    <div class="div-title"id="title 1">
-    <h1 class="title-h1">Airada Chansirisukthawi</h1>
+    <div class="div-title" id="title 1">
+    <h1 class="title-h1" id="title 1">Airada Chansirisukthawi</h1>
 </div>
 >
 <!--กล่องที่ 1 -->
 <div class="box box-blue">
-    <h2 class="title-h2">Subtitie</h2>
+    <h2 class="title-h2" id="title2 ">Subtitie</h2>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem praesentium quia perspiciatis aspernatur nemo consectetur dicta adipisci ad. Debitis odit consequatur accusamus! Qui eligendi vero, ipsam dolorem provident earum sint?
     Odio facere rerum explicabo voluptatum id hic, doloremque accusantium perferendis eveniet ipsa ullam. Accusamus consectetur harum voluptatibus debitis, temporibus sint. Pariatur fuga, id magnam impedit aliquam nobis quis vero assumenda.
     Impedit cupiditate, porro a voluptatem autem asperiores eius! Ducimus voluptates aut velit aliquid, ab facilis dolor eius officiis tempore, soluta ullam sint eveniet nobis ut inventore, non saepe aspernatur natus?
@@ -31,7 +31,7 @@
 
 <!-- กล่องที่2 -->
  <div class="box box-yellow">
-    <h2 class="title-h3">Pls sub</h2>
+    <h2 class="title-h3" id="title 3">Pls sub</h2>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora, officiis suscipit, sint placeat magnam corporis, nam modi optio voluptatibus iure temporibus. Porro quis modi ipsa ut ea soluta ex nulla?
     Esse magnam similique delectus maxime ex repellat voluptate perferendis tempora veniam autem vitae, voluptatibus quod ab error facere nostrum ad! Nulla minima voluptatum sed temporibus aliquam. Assumenda culpa asperiores at.
     Consequatur, pariatur ullam? Molestias fuga molestiae expedita temporibus obcaecati, distinctio sint! Illo quaerat quia voluptatibus. Soluta, quos! Hic nemo voluptate repellendus vitae velit iure, quos quod incidunt quidem! Pariatur, nesciunt?
