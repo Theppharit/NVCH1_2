@@ -1,0 +1,22 @@
+:root {
+  --them-color: #e05151;
+ }
+ 
+ 
+ .div-title {
+   width: 100%;
+   height: 150px;
+   background-color:var(--them-color);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+.title-h1 {
+    color: #f8f6f6;
+} 
+
+.title-h2 {
+    color: #f8f6f6;
+    color: #93f5d7;
+}

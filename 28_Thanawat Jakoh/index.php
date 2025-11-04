@@ -16,19 +16,19 @@
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
         <h2 class="title-h2">Halo everyyan</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, asperiores doloribus! Iste, repudiandae reprehenderit commodi quidem quod cumque dolorem deserunt officia.</p>
+        <p>My name is Thanawat Jakoh but in online you can call me Valerik it kinda good when you call me by this name</p>
     </div>
 
     <!-- กล่องที่ 2 -->
     <div class="box box-yellow">
         <h2 class="title-h3">Pls sub</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio incidunt accusamus deleniti nobis inventore? Quaerat accusantium ullam voluptate inventore incidunt, tempore minima explicabo obcaecati!</p>
+        <p>I do a youtube yea im gonna be a Vtuber in da future</p>
     </div>
 
     <!-- กล่องที่ 3 -->
     <div class="box box-green">
         <h3 class="title-h4">Ms. Valerik Phattharin</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui blanditiis voluptates, maxime sapiente ab alias sint aperiam quod.</p>
+        <p>i love this name so much cus i made it on my own</p>
     </div>
 
     <!-- กล่องที่ 4 -->
