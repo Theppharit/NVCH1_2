@@ -13,7 +13,7 @@
 .div-title{
     width: 100%;
     height: 100px;
-    background-color: #1970f1;
+    background-color: #f10d9a;
     display: flex;
     align-items:center;
     justify-content: center;
@@ -22,7 +22,7 @@
 .title-h1 {
     color:rgb(33, 216, 161);
 }
-.title-p1 {
+.title-p {
     color: #5e07a5;
 }
 .title-h2 {
