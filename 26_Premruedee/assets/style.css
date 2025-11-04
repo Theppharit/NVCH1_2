@@ -4,6 +4,7 @@
     background-color: #f76dbd;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .title-h1 {
