@@ -1,5 +1,5 @@
 :root {
-  --them-color: #e05151;
+  --them-color: #df2323;
  }
  
  
@@ -13,10 +13,14 @@
  }
 
 .title-h1 {
-    color: #f8f6f6;
+    color: #ffffff;
 } 
 
 .title-h2 {
-    color: #f8f6f6;
-    color: #93f5d7;
+    
+    color: #df2323;
+}
+.title-h3 {
+   
+    color: #df2323;
 }
