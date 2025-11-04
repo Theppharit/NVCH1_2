@@ -34,9 +34,9 @@
 
 
 
-    <h1 class="">การผจญภัยครั้งใหญ่</h1>
-    <h1 class="">โลกนี้ช่างสวยงานเหลือเกิน</h1>
-    <h1 class="">เล่นเกมกันมั้ย</h1>
+    <h1 class="title-a">การผจญภัยครั้งใหญ่</h1>
+    <h1 class="title-b">โลกนี้ช่างสวยงานเหลือเกิน</h1>
+    <h1 class="title-c">เล่นเกมกันมั้ย</h1>
 
     <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus nesciunt sit odio velit deserunt quibusdam deleniti fugiat amet a? Fuga corrupti quam neque vero inventore, tempora unde suscipit saepe eligendi?
     Exercitationem nemo ad veritatis, obcaecati non perspiciatis ab laborum nesciunt sit, quas, consequuntur dolore eum odit accusamus blanditiis porro odio aspernatur recusandae eos. Sunt odit saepe temporibus, asperiores amet fugiat?
