@@ -1,11 +1,12 @@
 :root {
-    --theme-color: #e61212;
+  --theme-color: #6921ac;
 }
+
 
 .div-title {
     width: 100%;
     height: 150px;
-    background-color: var(--theme-color);
+    background-color: var(--theme-color); 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,4 +18,5 @@
 
 .title-h2 {
     color: var(--theme-color);
+    text-align: center;
 }
