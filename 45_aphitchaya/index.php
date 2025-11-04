@@ -6,6 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styie.css">
     <title>Aphitchaya</title>
 </head>
 
@@ -13,7 +14,13 @@
 
 <body>
 
-<h1 class="">h1</h1>
+<div class="div-title">
+    <h1 class="title-h1">h1</h1>
+</div>
+
+
+<h2 class="title-h2">Subtitle</h2>
+
 <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. In autem, iste exercitationem provident architecto a facere illum tenetur! Architecto est similique at quaerat atque praesentium animi voluptate ipsam sit facere.
 Quia blanditiis aperiam amet doloremque aut omnis, dolore consectetur, laudantium suscipit ut sequi dignissimos, tenetur architecto nostrum. Perferendis quis necessitatibus deleniti eveniet, iusto ipsa eum, voluptate dolore repudiandae mollitia aliquam!
 Praesentium sunt sit omnis qui iusto minima accusantium dolore dolorum quaerat maiores eius unde corrupti hic placeat consectetur deserunt tempora necessitatibus ratione fuga excepturi, tempore facere quia quo impedit. Omnis.
@@ -22,7 +29,14 @@ Maiores nisi repellendus impedit quo illo hic veritatis quia dicta, quis, deseru
 Assumenda porro iusto provident itaque necessitatibus pariatur et numquam vero accusantium nam repellendus, aspernatur sit quaerat consequuntur illo non nostrum corporis maiores expedita? Ducimus odio at cumque, sequi recusandae ratione!
 Error praesentium placeat quia, nisi tempora minima magni nulla! Tempore, aperiam nostrum optio quo provident magnam quae culpa voluptatem assumenda labore quos amet qui unde odit quia facilis accusantium similique!
 Quasi veritatis aliquam recusandae. Numquam, itaque asperiores quis accusantium aperiam culpa labore odio est maxime autem velit suscipit cum tenetur officia nulla veritatis veniam alias nihil soluta obcaecati eum ullam?</p>
-<h2 class="">h2</h2>
+
+<div class="div-title">
+    <h2 class="title-h2">h2</h2>
+</div>
+
+
+<h2 class="title-h2">Subtitle</h2>
+
 <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla dolorem illo quas voluptates aliquid ipsum libero vero obcaecati. Odio perspiciatis quo aperiam, laboriosam dolor beatae repudiandae molestias minus at maxime.
 Ullam ratione esse saepe maiores eveniet quae, dolorem eius quod ut libero perferendis corrupti totam pariatur rerum veritatis. Eaque autem enim culpa voluptatum dolores vitae? Eum maiores nihil magni rerum!
 Ea saepe sint dolorum aperiam ipsum? Repudiandae tenetur quasi aspernatur soluta debitis possimus ducimus unde eveniet praesentium consequuntur dolorem vel laborum consectetur consequatur, officiis aliquam exercitationem! Architecto dolores cum hic.
@@ -38,7 +52,13 @@ Mollitia cumque fugit dolor nulla ab, facilis temporibus at quis, ad corrupti, e
 Sint mollitia sapiente reprehenderit fugit nesciunt placeat eum similique deserunt quibusdam voluptatibus quis minima in necessitatibus, quia voluptatum cupiditate corrupti, id obcaecati ut soluta natus aliquam minus! Natus, maiores perspiciatis?
 Rerum consequatur earum quia enim corrupti quisquam eligendi facilis modi temporibus aut ducimus eius iusto illum sed at, dignissimos reiciendis quibusdam sunt nisi quis ratione alias id iure! Assumenda, necessitatibus.
 Hic fugit nulla doloribus vel veritatis quasi, fuga harum, excepturi similique illum consectetur ex, sint sapiente itaque totam omnis aliquid minus nam dolorem deleniti? Corporis eum quisquam sint possimus dicta.</p>
-<h3 class="">h3</h3>
+<div class="div-title">
+    <h3 class="title-h3">h3</h3>
+</div>
+
+
+<h3 class="title-h3">Subtitle</h3>
+
 <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam tempora ab perspiciatis dolor quo impedit, nostrum vero minus sed deserunt vel eligendi iusto quas exercitationem assumenda dolorum fugit dicta veniam!
 Asperiores hic nisi laborum delectus temporibus quidem minus, tempora architecto iure quo ullam expedita corrupti consequuntur voluptate nam laboriosam sequi ipsa dignissimos doloribus corporis? Omnis neque voluptas aspernatur doloremque cumque.
 Enim temporibus tempore autem, perspiciatis rerum aspernatur commodi tenetur ullam asperiores unde corporis veritatis obcaecati reprehenderit. Molestias nesciunt officia error eos corporis ratione, nihil aperiam fugit maxime impedit quidem et.

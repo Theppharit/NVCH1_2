@@ -1,26 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="asest/style.css">
+
+
+     <title>Thanadon</title>
 </head>
 
-<div class="color"></div>
+<body>
 
- <link rel="stylesheet" href="asest/style.css">
+ 
 
-
-
+<<<<<<< HEAD
 <body>
     
 </body>
-<<<<<<< HEAD
+
 <div class="div-title">
-<h1 class="title">h1</h1>
+   <h1 class="title-h1">h1</h1>
 =======
-<h1 class="title-h1">h1</h1>
+
 
 </div>
 <h2 class="title-h2">Subtitle</h2>
@@ -34,7 +38,15 @@ Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
 Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
-<h2 class="title">suttitle</h2>
+ <div class="div-title">
+        <h1 class="title-h1">h1-2</h1>
+    </div>
+
+    <h2 class="title-h2">Subtitle</h2>
+
+
+
+<h2 class="title">subtitle</h2>
 <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam dolore molestiae accusantium! Vitae quis iste, enim nisi, perspiciatis iusto corrupti quidem necessitatibus, provident repudiandae illo? Eveniet enim eligendi sapiente cumque.
 Nesciunt cum quo distinctio dicta natus animi odit recusandae quibusdam, corporis voluptate, tenetur consequuntur voluptatibus molestias expedita, ex facere quas accusantium. Esse ut rem nesciunt eveniet magni fugit eum delectus!
 Ratione ullam excepturi quam ipsum odit officia voluptatem doloremque quia deserunt, ad eveniet minima repudiandae culpa perspiciatis! Voluptate dolor iste ipsa, velit id minima dolores. Expedita soluta facilis non quasi.
@@ -50,6 +62,14 @@ Quam quidem natus incidunt vel voluptatum neque velit non, pariatur recusandae. 
 Optio magni autem excepturi exercitationem illo cumque nemo ab perspiciatis ad laborum aliquam delectus cupiditate cum id praesentium, ipsa ipsum porro in iusto quod laudantium ratione quis beatae. Odio, dicta.
 Sapiente animi ducimus, officiis laudantium necessitatibus cumque nulla minus eos minima. Tenetur id voluptatem voluptatum, quas itaque magnam veritatis illo nemo, quos architecto blanditiis voluptas eveniet dicta. Delectus, nobis deserunt.
 Reiciendis in et perspiciatis? Eius, veniam cupiditate. Dolores nam eveniet, nesciunt quam sapiente quos laboriosam blanditiis omnis fugit dolorum ab assumenda explicabo architecto harum odit molestias doloremque tenetur quibusdam sint!</p>
+
+<div class="div-title">
+        <h1 class="title-h1">h1-3</h1>
+    </div>
+
+    <h2 class="title-h2">Subtitle</h2>
+
+
 <h3 class="">h3</h3>
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, facere ipsa ea laborum expedita deserunt aliquid iure impedit, odio consequatur minima? Magni sint suscipit ipsa commodi sunt quasi enim amet.
 Magnam voluptate iure esse natus harum? Doloremque, eos! Aspernatur amet eligendi cumque quod in nisi totam, eius, doloremque fuga molestiae maxime repellendus accusantium, delectus voluptatum! Harum animi qui dolor aliquam.
@@ -63,4 +83,7 @@ Quia eius adipisci et praesentium porro ab sit saepe fugiat tempore eaque ipsum,
 Ex doloremque quia vero incidunt possimus soluta dignissimos nesciunt modi eos rerum? Quos molestiae ducimus, nisi repellendus libero molestias magni voluptatum dolor recusandae. Consequatur sunt, eligendi nesciunt repellendus temporibus veritatis?
 Impedit ipsa explicabo dignissimos eius quod exercitationem. Rem suscipit odio similique non! Vel nam illo commodi, at facere unde eum modi consequuntur aliquam natus eveniet similique praesentium impedit autem expedita.
 Amet adipisci perspiciatis sunt modi accusantium, id debitis quidem quisquam! Quos voluptatibus consectetur corrupti dolores eligendi ducimus neque mollitia, optio exercitationem accusamus deserunt suscipit voluptas non illum architecto recusandae est!</p>
+
+</body>
+
 </html>p
