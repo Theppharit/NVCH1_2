@@ -47,7 +47,7 @@ Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
 Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
-<<<<<<< HEAD
+
  
 <div class="div-title" id="title2">
     <h2 class="title-h1">h2</h2>
