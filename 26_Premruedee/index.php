@@ -32,7 +32,7 @@
 
     <p3 class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates doloremque ipsam maxime sequi dolorem atque eveniet tenetur velit, reiciendis, blanditiis optio ad qui fugiat enim. Aperiam natus eum earum reiciendis.</p>
     
-    <p4 class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi cumque amet laboriosam provident recusandae suscipit maiores perferendis doloribus, quis, eos sed repudiandae sit hic, consequuntur ea consectetur itaque aspernatur excepturi.</p>
+    <h4>Chompoooo</h4>
 
 </body>
 
