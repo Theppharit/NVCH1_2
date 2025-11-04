@@ -15,20 +15,24 @@
 
 
 
-<nav class="navbar">
-    <a href="" class="a-navbar">หัวข้อที่ 1</a>
-    <a href="" class="a-navbar">หัวข้อที่ 2</a>
-    <a href="" class="a-navbar">หัวข้อที่ 3</a>
-    <a href="" class="a-navbar">หัวข้อที่ 4</a>
-    <a href="" class="a-navbar">หัวข้อที่ 5</a>
+<nav class="navbar" id="title1">
+    <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
+    <a href="#title4" class="a-navbar">หัวข้อที่ 4</a>
+    <a href="#title5" class="a-navbar">หัวข้อที่ 5</a>
 </nav>
 
 
 
 
-<div class="div-title">
+<div class="div-title" id="title2">
+    
         <h1 class="title-h1">Hello Would</h1>
 </div>
+
+
+
 
     <h1 class="">การผจญภัยครั้งใหญ่</h1>
     <h1 class="">โลกนี้ช่างสวยงานเหลือเกิน</h1>
@@ -53,10 +57,19 @@
     Accusamus eaque beatae quam deserunt dolor cumque quasi voluptatem maxime illo delectus asperiores perferendis iste eligendi, magni accusantium cum nihil quibusdam iure nam impedit eum optio voluptates similique. Consequuntur, eos?
     Nulla dolore fugit, eveniet asperiores, harum sunt corporis impedit alias mollitia beatae nam deserunt fuga amet nemo rerum quia. Facere corporis similique dignissimos. Culpa aut atque ipsa non, aliquid rerum.
     Nobis dolorum similique sapiente ipsam, soluta magnam consequatur quae! Dolor eveniet alias nihil hic expedita, tenetur amet dignissimos aliquid a nostrum eos corrupti ipsam recusandae incidunt velit, deleniti perferendis eaque.
-    Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?</p>
+    Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?
+</p>
+
+<div class="div-title"id="title3">
+
+    <h2 class="titie-h2" >บรรทัดใหม่2</h2>
+
+<div>
 
 
-    <h2 class="">บรรทัดใหม่2</h2>
+
+
+
 
     <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum repudiandae consequuntur magni dignissimos ab modi officia minus illum. Natus dolorem autem molestiae voluptatum voluptate repellat voluptatibus pariatur consectetur atque doloribus.
     Voluptatibus rerum architecto praesentium. Reiciendis, iste ipsam ad dolorum aperiam vero dolorem. Laudantium incidunt autem illum obcaecati alias quas soluta nostrum atque tempora, inventore sapiente nulla blanditiis architecto repudiandae omnis!
@@ -67,10 +80,16 @@
     Reprehenderit a nostrum maxime totam optio laudantium esse. Illo doloremque autem sint blanditiis atque, temporibus magni nostrum culpa id! Modi in maxime totam molestias labore pariatur doloribus eum soluta porro?
     Consectetur sed molestiae, totam architecto eveniet molestias accusamus magnam harum officiis, earum similique suscipit. Rem necessitatibus saepe voluptate consectetur dolore harum? A saepe expedita accusamus natus dolorem eum sit vero.
     Architecto eveniet doloribus eius illum, cum dolore aut reiciendis fuga beatae explicabo ab modi deleniti neque minus maxime voluptatibus enim corrupti molestiae? Enim laudantium, sed quam ab repudiandae at illum!
-    Quo neque corporis accusantium aut animi nemo maiores ut quam, magnam officiis nihil dolores fugiat! Libero aliquid obcaecati cumque officiis dolorem, eveniet placeat expedita inventore at dicta fuga? Nam, quasi.</p>
+    Quo neque corporis accusantium aut animi nemo maiores ut quam, magnam officiis nihil dolores fugiat! Libero aliquid obcaecati cumque officiis dolorem, eveniet placeat expedita inventore at dicta fuga? Nam, quasi.
+</p>
+
+<div class="div-title" id="title4">
+
+    <h3 class="title3">โลกใหม่555</h3>
+
+<div>
 
 
-    <h3 class="">โลกใหม่555</h3>
 
     <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos quos ex natus nulla voluptatibus quidem inventore nam totam porro, laudantium tempora iusto obcaecati officiis, explicabo possimus excepturi corporis facere animi.
     Iusto harum voluptatibus atque natus. Cum maiores soluta asperiores aliquid deserunt? Suscipit amet cum numquam fugiat veritatis ullam ad velit possimus deserunt iure distinctio, repudiandae rerum tempore minus assumenda voluptatibus?
@@ -81,7 +100,8 @@
     Ducimus at totam, impedit numquam eveniet repellat eius architecto delectus mollitia corrupti quas nihil enim qui vitae omnis quam nemo molestias harum! Nam, alias? Architecto adipisci ipsa accusantium quod est?
     Quibusdam minus deserunt ex vero excepturi. Voluptates temporibus autem neque illum eius excepturi nemo nisi similique, atque voluptatem molestias, minus esse non, ratione iure aliquam itaque dicta illo facilis quo?
     Deleniti voluptatem beatae enim fuga hic eius ut illo, similique magnam officiis maxime, odit rem dicta quae dolores cum voluptas doloremque nemo, assumenda voluptates? Quas similique quae modi earum rem.
-    Enim, amet quae! Eligendi ad atque illum harum impedit labore velit et sunt illo veritatis quas omnis, praesentium iusto voluptates blanditiis, assumenda explicabo quam corporis ea veniam maxime! Soluta, ratione.</p>
+    Enim, amet quae! Eligendi ad atque illum harum impedit labore velit et sunt illo veritatis quas omnis, praesentium iusto voluptates blanditiis, assumenda explicabo quam corporis ea veniam maxime! Soluta, ratione.
+</p>
 </body>
 
 

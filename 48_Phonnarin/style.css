@@ -9,8 +9,9 @@
    display: flex;
    align-items: center;
    justify-content: center;
+    gap: 20px;
  }
- 
+
  .div-title {
    width: 100%;
    height: 150px;
@@ -21,19 +22,13 @@
  }
 
 .title-h1 {
-  color: #064555;
-  background-color: #b0e0e6; 
-  padding: 10px;
+    color: rgb(197, 96, 223);
 }
 
 .title-h2 {
-  color: #df2323;
-  background-color: #ffcccc;
-  padding: 10px;
+    color: rgb(47, 109, 160);
 }
 
 .title-h3 {
-  color: #3abd19;
-  background-color: #d4f5d4;
-  padding: 10px;
+    color: rgb(47, 109, 160);
 }

@@ -16,17 +16,17 @@
 <body>
 
 <nav class="navbar">
-    <a href="" class="a-navbar">หัวข้อที่1</a>
-    <a href="" class="a-navbar">หัวข้อที่2</a>
-    <a href="" class="a-navbar">หัวข้อที่3</a>
+    <a href="#title1" class="a-navbar">หัวข้อที่1</a>
+    <a href="#title2" class="a-navbar">หัวข้อที่2</a>
+    <a href="#title3" class="a-navbar">หัวข้อที่3</a>
 </nav>
 
 
- <div class="div-title">
+ <div class="div-title"id="title1">
         <h1 class="title-h1">h1</h1>
     </div>
 
-    <h1 class="">ไอ้เปรมเอ้ย</h1>
+    <h1 class="">Phonnarin48</h1>
     <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum porro sapiente ab at, recusandae, provident similique, excepturi ullam praesentium ex pariatur! Facilis incidunt quo nobis ad nam laudantium repudiandae laboriosam?
     Explicabo, accusantium? Reprehenderit illum ipsam obcaecati dicta maxime! Suscipit, nemo? Est, voluptatem esse? Quas voluptatem aspernatur odio, distinctio minus totam aliquid laudantium ducimus perferendis dolorum sapiente, autem, ipsum veniam ex!
     Ratione animi eveniet consequuntur at voluptates ut atque velit officia odio esse unde veniam ullam, eos voluptate harum voluptatum pariatur quae distinctio sint facere modi quaerat! Consectetur ea vitae molestias!
@@ -38,11 +38,12 @@
     Natus debitis, distinctio quam culpa error similique illo, corrupti dicta laboriosam tenetur sunt hic nobis quisquam saepe nesciunt non. Modi nesciunt perspiciatis earum dolore impedit fuga quo aliquam dolores corrupti!
     Veritatis, fugit dolorem! Eum enim labore animi mollitia! Voluptatibus dolor illo vel corrupti praesentium asperiores magni reprehenderit voluptate, doloremque velit, autem iure dolores! Atque illo, voluptas eos voluptatibus nesciunt consequuntur.</p>
     
-    <div class="div-title">
-        <h2 class="title-h2">h2</h2>
-    </div>
-    
-    <h2 class="">subtitle</h2>
+    <div class="div-title" id="title2">
+    <h2 class="title-h1">h2</h2>
+</div>
+
+<h2 class="title-h2">Subtitle</h2>
+
     <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita aliquam minus dolores dolorum veritatis, nemo, rerum corrupti libero eveniet, fugiat distinctio nam dolor assumenda neque. Laudantium nobis alias ipsam doloremque.
     Libero recusandae pariatur ipsum dignissimos tenetur unde, soluta maxime, mollitia necessitatibus inventore facere adipisci quod magnam maiores, nemo magni dolores officia animi! Quis modi voluptatibus optio accusantium, enim nemo vero?
     Sapiente quos enim nemo ipsum officia, nisi obcaecati excepturi aspernatur non perspiciatis. Voluptatum nulla aliquam quasi deleniti voluptas. Consequatur, ex consequuntur dicta alias commodi quaerat neque vero totam autem repudiandae!
@@ -1052,15 +1053,13 @@
     
     
     
+    <div class="div-title" id="title3">
+    <h3 class="title-h1">h3</h3>
+</div>
+
+<h3 class="title-h3">Subtitle</h3>
     
     
-    
-    <div class="div-title">
-        <h3 class="title-h3">h3</h3>
-    </div>
-    
-    
-    <h3 class="">h3</h3>
     <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quaerat quos iste quo sint accusantium consectetur dignissimos nisi cum dolorem. Saepe ad mollitia alias molestiae, quia et quae pariatur amet.
     Accusantium vel et quae. Quidem ex id placeat perferendis adipisci error et, porro sapiente deserunt aperiam provident laboriosam facere repellendus amet quibusdam. Corporis quisquam nam aliquam? Enim quis provident eius?
     Facilis ipsum impedit, a corporis cumque dolorum quibusdam ad corrupti. Est in laboriosam vero neque unde, maxime voluptate illo aspernatur? Temporibus, magni. Nisi explicabo odio dolore qui veritatis mollitia facilis.
