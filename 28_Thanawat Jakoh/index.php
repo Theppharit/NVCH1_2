@@ -19,7 +19,7 @@
 <h1 class="title-h1">Thanawat Jakoh</h1>
 </div>
 
-     <h1 class="">h1</h1>
+<h2 class="title-h2">Subtitle</h2>
      
      <p1 class="">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, asperiores doloribus! Iste, repudiandae reprehenderit commodi quidem quod cumque dolorem deserunt officia. Suscipit quos culpa facilis laborum consequuntur, recusandae atque eos?</p>
      
