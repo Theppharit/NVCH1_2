@@ -42,7 +42,7 @@ Ut assumenda ab ex sint ea veniam iure eius expedita. Deleniti mollitia placeat 
     <h2 class="title-h1">h2</h2>
 </div>
 
-<h2 class="title-h2">Subtitle</h2>
+<h2 class="title-h1">Subtitle</h2>
 
 
 <p class="1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam repellendus dicta, repudiandae vitae a aperiam nulla voluptates, neque, soluta itaque libero! Possimus, placeat eos explicabo dolor vero sunt consectetur suscipit.
@@ -58,7 +58,7 @@ Beatae id, praesentium eveniet nam nostrum illo sint perferendis? Quidem dolores
     <h3 class="title-h1">h3</h3>
 </div>
 
-<h3 class="title-h3">Subtitle</h3>
+<h3 class="title-h3">Subtitle</h2>
 
 <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse explicabo nulla magni ea, eligendi saepe? Eum ab enim, voluptatum id, eaque excepturi vitae quae quas quisquam architecto dignissimos accusantium quo.
 Id ratione molestiae architecto, laudantium itaque corporis? Doloremque, est laborum cumque nam, nihil sequi provident ipsa maxime consequuntur dignissimos consectetur ab sapiente labore obcaecati autem repellat culpa debitis. Minima, iste.
