@@ -8,7 +8,6 @@
 </head>
 <body>
 
-
 <nav class="navbar">
     <a href="" class="a-navbar">หัวข้อที่ 1</a>
     <a href="" class="a-navbar">หัวข้อที่ 2</a>
@@ -49,7 +48,7 @@
 
 <!--กล่องที่4 -->
 <div class="box box-purple">
-     <h4 class="title-h5">Airada</h5>
+     <h4 class="title-h5">Airada</h4>
 </div>
 
 </body>
