@@ -15,6 +15,11 @@
 
 <body>
 
+<nav class="nav-bar">
+    <a href="" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="" class="a-navbar">หัวข้อที่ 3</a>
+</nav>
 
 <div class="div-title">
     <h1 class="title-h1">Natthakamol</h1>
