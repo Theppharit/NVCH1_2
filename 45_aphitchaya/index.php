@@ -6,6 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styie.css">
     <title>Aphitchaya</title>
 </head>
 
@@ -13,7 +14,13 @@
 
 <body>
 
-<h1 class="">h1</h1>
+<div class="div-title">
+    <h1 class="title-h1">h1</h1>
+</div>
+
+
+<h2 class="title-h2">Subtitle</h2>
+
 <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. In autem, iste exercitationem provident architecto a facere illum tenetur! Architecto est similique at quaerat atque praesentium animi voluptate ipsam sit facere.
 Quia blanditiis aperiam amet doloremque aut omnis, dolore consectetur, laudantium suscipit ut sequi dignissimos, tenetur architecto nostrum. Perferendis quis necessitatibus deleniti eveniet, iusto ipsa eum, voluptate dolore repudiandae mollitia aliquam!
 Praesentium sunt sit omnis qui iusto minima accusantium dolore dolorum quaerat maiores eius unde corrupti hic placeat consectetur deserunt tempora necessitatibus ratione fuga excepturi, tempore facere quia quo impedit. Omnis.

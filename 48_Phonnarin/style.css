@@ -1,19 +1,18 @@
 :root {
---theme-color:
-
+    --theme-color: #b3571b;
 }
-.dev-title {
+
+.div-title {
     width: 100%;
     height: 150px;
-    background-color:brown;
-    display:flex;
-
+    background-color: rgb(18, 20, 129);
+}
+.div-title{
+    color: aqua(46, 122 166);
+}
+.box {
+    border: 3px solid #4fac25;
+    padding: 10px;
+    box-shadow: 0 0 10px;
 }
 
-
-
-
-
-.title-h1{
-    color:rgb(46, 122, 166);
-}

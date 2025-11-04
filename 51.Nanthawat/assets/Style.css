@@ -6,3 +6,8 @@
 .div-title{
     color: aqua(46, 122 166);
 }
+.box {
+    border: 3px solid #3498db;
+    padding: 10px;
+    box-shadow: 0 0 10px;
+}

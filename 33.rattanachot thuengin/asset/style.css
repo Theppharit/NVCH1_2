@@ -27,15 +27,15 @@
 
 /* สีพื้นหลังแต่ละกล่อง */
 .box-blue {
-  background-color: #d0e7ff;
+  background-color: #a36615;
 }
 
 .box-yellow {
-  background-color: #fff7cc;
+  background-color: #3bb162;
 }
 
 .box-green {
-  background-color: #d5ffd5;
+  background-color: #8ad80c;
 }
 
 .box-purple {
@@ -48,7 +48,7 @@
 }
 
 .title-h3 {
-  color: orange;
+  color: rgb(238, 29, 39);
 }
 
 .title-h4 {
@@ -56,7 +56,7 @@
 }
 
 .title-h5 {
-  color: green;
+  color: rgb(101, 37, 202);
 }
 
 /* เพิ่มเอฟเฟกต์ hover ให้กล่อง */
@@ -65,3 +65,11 @@
   transition: 0.3s ease;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
+
+    
+
+       
+               
+
+
+ 
