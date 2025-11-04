@@ -6,6 +6,8 @@
     <link rel="stylesheet" href="./assets/Style.css">
 
     <title>THE WOULD</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 
 
