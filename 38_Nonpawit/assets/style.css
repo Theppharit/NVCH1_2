@@ -1,20 +1,17 @@
 :root {
-<<<<<<< HEAD
-    --theme-color: #1a8c4f;
-=======
     --theme-color: #afd5f0;
 }
 
 .navbar {
     width: 100%;
     height: 70px;
-    background-color: #9dcaeb;
+    background-color:#9dcaeb;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 20px;
->>>>>>> 6c2b57bb8f1abc81d50ce7e6a4cb8a15c86da732
 }
+
 
 .div-title {
     width: 100%;
