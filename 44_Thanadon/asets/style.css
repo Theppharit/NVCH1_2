@@ -1,5 +1,5 @@
-:root{
-    --theme-color:
+:root {
+    --theme-color: #1a8c4a;
 }
 
 
@@ -17,10 +17,13 @@ align-items: center;
 justify-content: center;
 }
 
-.title{
-    
+.title-h1 {
+    color: rgb(200, 22, 216);
 }
 
+.title-h2 {
+    color: var(--theme-color);
+}
 
 
     
