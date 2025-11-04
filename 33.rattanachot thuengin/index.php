@@ -27,7 +27,7 @@
 
     <!-- กล่องที่ 3 -->
     <div class="box box-green">
-        <h3 class="title-h4">Ms. blue fhinix</h3>
+        <h3 class="title-h4"> blue fhinix</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui blanditiis voluptates, maxime sapiente ab alias sint aperiam quod.</p>
     </div>
 
