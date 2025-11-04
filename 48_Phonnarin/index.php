@@ -15,6 +15,13 @@
 
 <body>
 
+<nav class="navbar">
+    <a href="" class="a-navbar">หัวข้อที่1</a>
+    <a href="" class="a-navbar">หัวข้อที่2</a>
+    <a href="" class="a-navbar">หัวข้อที่3</a>
+</nav>
+
+
  <div class="div-title">
         <h1 class="title-h1">h1</h1>
     </div>
