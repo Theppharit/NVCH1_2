@@ -59,9 +59,9 @@
     Nobis dolorum similique sapiente ipsam, soluta magnam consequatur quae! Dolor eveniet alias nihil hic expedita, tenetur amet dignissimos aliquid a nostrum eos corrupti ipsam recusandae incidunt velit, deleniti perferendis eaque.
     Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?</p>
 
-<div class="div-title">
+<div class="div-title"id="title3">
 
-    <h2 class="" id="title3">บรรทัดใหม่2</h2>
+    <h2 class="" >บรรทัดใหม่2</h2>
 <div>
 
 
@@ -82,7 +82,7 @@
 
 <div class="div-title" id="title4">
 
-    <h3 class="" id="title4">โลกใหม่555</h3>
+    <h3 class="">โลกใหม่555</h3>
 <div>
 
 
