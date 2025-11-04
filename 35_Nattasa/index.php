@@ -6,7 +6,7 @@
     <title>Nattasa</title>
 </head>
 <body>
-<h1 class="">h1</h1>
+<h1 class="">Subtitle</h1>
 <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores saepe inventore voluptates explicabo non quo, quasi repellat nisi ad animi exercitationem totam veritatis reprehenderit dolor eius quod nam impedit architecto?
 Omnis, iusto eveniet. Aperiam, nostrum hic nobis libero, placeat dignissimos sint voluptates, quasi cumque numquam quis ipsam commodi officiis? Nisi, ipsa aperiam. Debitis non autem quam vel, porro eos a.
 Voluptas vel accusantium nihil totam maxime illum, esse non molestiae earum fugit, dignissimos debitis repellendus expedita ducimus tenetur assumenda pariatur hic! Necessitatibus, modi natus dolorum odit eos reprehenderit totam quos.
@@ -18,7 +18,7 @@ Aliquam architecto facere saepe optio quidem magnam, amet adipisci distinctio is
 Ratione dicta, aut nostrum nisi perferendis a odio voluptatem eos amet magnam explicabo labore, quas eligendi incidunt excepturi reprehenderit voluptatibus. Eaque impedit architecto at nulla odio est obcaecati maiores ducimus?
 Corrupti nam quis nemo. Sequi magni et repudiandae libero provident distinctio ab architecto doloremque nisi dolorem! Iusto tempora, atque, laboriosam dolore esse minus quasi voluptatem doloribus maxime autem magni eaque?</p>
 
-<h2 class="">h2</h2>
+<h2 class="">Subtitle</h2>
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla nesciunt eum mollitia, voluptas ipsam veritatis dolorum excepturi error! Maxime ad vitae sunt corrupti placeat voluptatibus a molestias amet expedita soluta?
 Nulla animi et tempora eaque incidunt reprehenderit, nisi expedita nesciunt laborum excepturi nobis maiores. Necessitatibus placeat magnam itaque sint fugit. Ipsa pariatur quaerat in magni ut quia veritatis ipsum ea?
 Et reiciendis iusto, veniam suscipit quae rerum ipsum impedit nostrum iste dolorem aliquam inventore harum repudiandae ab? Sunt quis maxime optio culpa dolor. Consectetur placeat officiis, at reiciendis iusto itaque.
