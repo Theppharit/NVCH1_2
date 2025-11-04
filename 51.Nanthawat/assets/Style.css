@@ -6,7 +6,7 @@
     display: flex;
     justify-content:center ;
     align-items: center;
-   gap: 20px;
+   gap: 50px;
 }
 
 .div-title {
@@ -17,9 +17,21 @@
     justify-content:center ;
     align-items: center;
 }
-title.h1{
+.title-h1{
     color:blue;
 }
-title.h2{
-    color: var(.h2);
+.title-h2{
+    color:rgb(126, 144, 8);
+}
+.title-h3{
+    color:rgb(225, 122, 237);
+}
+.title-a{
+    color: tomato;
+}
+.title-b{
+    color: bisque;
+}
+.title-c{
+    color: blueviolet;
 }

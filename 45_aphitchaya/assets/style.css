@@ -1,7 +1,16 @@
 :root {
-  --them-color: #df2323;
+  --them-color:  #2e8ec1;
  }
  
+    .navbar       {
+   width: 100%;
+   height: 150px;
+   background-color:#87ce92;
+   display: flex;
+   align-items: center;
+   justify-content: center;  
+   gap: 20px;  
+}
  
  .div-title {
    width: 100%;
@@ -18,9 +27,9 @@
 
 .title-h2 {
     
-    color: #df2323;
+    color: #150bd7;
 }
 .title-h3 {
    
-    color: #df2323;
+    color:  #150bd7;
 }
