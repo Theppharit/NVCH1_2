@@ -19,9 +19,23 @@
 <<<<<<< HEAD
 <body>
     
-</body>
+<body>
 
-<div class="div-title">
+
+<div class="navbar">
+    
+<a href="#title1" class="a-navbar">หัวข้อที่1</a>
+<a href="#title2"class="a-navbar">หัวข้อที่2</a>
+<a href="#title3" class="a-navbar">หัวข้อที่3</a>
+  
+  
+
+
+
+</nav>
+
+
+<div class="div-title"id="title1">
    <h1 class="title-h1">h1</h1>
 </div>
 
@@ -38,7 +52,7 @@ Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
 Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
- <div class="div-title">
+ <div class="div-title"id="title2">
         <h1 class="title-h1">h2</h1>
     </div>
 
@@ -63,7 +77,7 @@ Optio magni autem excepturi exercitationem illo cumque nemo ab perspiciatis ad l
 Sapiente animi ducimus, officiis laudantium necessitatibus cumque nulla minus eos minima. Tenetur id voluptatem voluptatum, quas itaque magnam veritatis illo nemo, quos architecto blanditiis voluptas eveniet dicta. Delectus, nobis deserunt.
 Reiciendis in et perspiciatis? Eius, veniam cupiditate. Dolores nam eveniet, nesciunt quam sapiente quos laboriosam blanditiis omnis fugit dolorum ab assumenda explicabo architecto harum odit molestias doloremque tenetur quibusdam sint!</p>
 
-<div class="div-title">
+<div class="div-title"id="title3">
         <h1 class="title-h1">h3</h1>
     </div>
 

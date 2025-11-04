@@ -16,7 +16,16 @@
 <body>
 
 
-<div class="div-title">
+
+<nav class="navber"></nav>
+
+     <a href="titlet1" class="a-navbr">หัวข้อที่่ 1</a>
+     <a href="titlet2" class="a-navbr">หัวข้อที่่ 2</a>
+     <a href="titlet3" class="a-navbr">หัวข้อที่่ 3</a>   
+</nav>    
+
+
+<div class="div-title"id ="titlet1">
     <h1 class="title-h1">h1</h1>
 </div>
 
@@ -33,7 +42,7 @@
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
 
-    <div class="div-title">
+    <div class="div-title"id ="titlet2">
     <h1 class="title-h1">h2</h2>
      </div>
 
@@ -51,11 +60,11 @@
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
 
-        <div class="div-title">
+        <div class="div-title"id ="titlet3">
     <h1 class="title-h1">h3</h3>
      </div>
 
-    <h4 class="title-h2">Subtitle</h4>
+    <h4 class="title-h2"></h4>
 
     <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
