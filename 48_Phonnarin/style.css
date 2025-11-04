@@ -1,18 +1,31 @@
 :root {
-    --theme-color: #b3571b;
+   --theme-color: #df2323;
+ }
+ 
+ 
+ .div-title {
+   width: 100%;
+   height: 150px;
+   background-color: var(--theme-color);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+.title-h1 {
+  color: #064555;
+  background-color: #b0e0e6; /* สีฟ้าอ่อน หรือเลือกสีอื่นก็ได้ */
+  padding: 10px;
 }
 
-.div-title {
-    width: 100%;
-    height: 150px;
-    background-color: rgb(18, 20, 129);
-}
-.div-title{
-    color: aqua(46, 122 166);
-}
-.box {
-    border: 3px solid #4fac25;
-    padding: 10px;
-    box-shadow: 0 0 10px;
+.title-h2 {
+  color: #df2323;
+  background-color: #ffcccc;
+  padding: 10px;
 }
 
+.title-h3 {
+  color: #3abd19;
+  background-color: #d4f5d4;
+  padding: 10px;
+}
