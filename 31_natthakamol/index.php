@@ -54,7 +54,7 @@
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
 
-<div class="div-title" id="title3">
+<div class="div-title"
     <h1 class="title-h1">h3</h1>
 </div>
         <h2 class="title-h2">Subtitle</h2>
