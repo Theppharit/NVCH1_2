@@ -43,6 +43,7 @@
     <!-- กล่องที่ 4 -->
     <div class="box box-purple">
         <h4 class="title-h5">Chompooo</h4>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates doloremque ipsam maxime sequi dolorem atque eveniet tenetur velit, reiciendis, blanditiis optio ad qui fugiat enim. Aperiam natus eum earum reiciendis.</p>
     </div>
 
 </body>
