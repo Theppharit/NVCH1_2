@@ -14,24 +14,32 @@
 
 <body>
 
+<<<<<<< HEAD
+ <link rel="stylesheet" href="asest/style.css">
+
+=======
  
+>>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
 
 <<<<<<< HEAD
 <body>
     
+<<<<<<< HEAD
+</body>
+
+<div class="div-title">
+   <h1 class="title-h1">h1</h1>
+=======
+=======
 <body>
+>>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
 
 
 <div class="navbar">
     
 <a href="#title1" class="a-navbar">หัวข้อที่1</a>
-<a href="#title2"class="a-navbar">หัวข้อที่2</a>
+<a href="#title2" class="a-navbar">หัวข้อที่2</a>
 <a href="#title3" class="a-navbar">หัวข้อที่3</a>
-  
-  
-
-
-
 </nav>
 
 
@@ -52,6 +60,8 @@ Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
 Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
+<<<<<<< HEAD
+=======
  <div class="div-title"id="title2">
         <h1 class="title-h1">h2</h1>
     </div>
@@ -60,6 +70,7 @@ Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio i
 
 
 
+>>>>>>> b2a3d66068f8c5b4eb9e4effab5caa613c18ae8b
 <h2 class="title">subtitle</h2>
 <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam dolore molestiae accusantium! Vitae quis iste, enim nisi, perspiciatis iusto corrupti quidem necessitatibus, provident repudiandae illo? Eveniet enim eligendi sapiente cumque.
 Nesciunt cum quo distinctio dicta natus animi odit recusandae quibusdam, corporis voluptate, tenetur consequuntur voluptatibus molestias expedita, ex facere quas accusantium. Esse ut rem nesciunt eveniet magni fugit eum delectus!
