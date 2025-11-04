@@ -1,7 +1,14 @@
 :root {
   --theme-color: #0793ca;
 }
-
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color:#76b1f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 /* ส่วนหัว */
 .div-title {
   width: 100%;
@@ -11,7 +18,6 @@
   align-items: center;
   justify-content: center;
 }
-
 .title-h1 {
   color: rgb(255, 255, 255);
 }
