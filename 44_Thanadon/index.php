@@ -17,10 +17,13 @@
     
 </body>
 <<<<<<< HEAD
+<div class="div-title">
 <h1 class="title">h1</h1>
 =======
 <h1 class="title-h1">h1</h1>
->>>>>>> 90f55a1fa4795157f36a436b2bf0e1114d6466d6
+
+</div>
+<h2 class="title-h2">Subtitle</h2>
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
 A ab, quo assumenda animi cupiditate natus perferendis cumque delectus praesentium optio officia. Qui ipsa magni nulla sunt, laboriosam, laborum harum vel ipsam in, quas dolorem corrupti rerum molestias cupiditate.
 Facere corrupti, nobis odit cupiditate accusantium porro a nesciunt nihil ipsum recusandae enim. Magnam ut nostrum facere totam facilis nemo alias voluptates tempora repellat, sunt molestias qui error quia? Cupiditate.
