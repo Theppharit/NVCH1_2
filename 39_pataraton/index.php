@@ -8,17 +8,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/style.css">
 
-    <title>Nonpawit</title>
+    <title>Pataraton</title>
 </head>
+
 
 
 
 <body>
 
 
-<div class="div-title">
+<nav class="navbar">
+    <a href="" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="" class="a-navbar">หัวข้อที่ 3</a>
+</nav>
+   
+
+
+    <div class="div-title">
     <h1 class="title-h1">h1</h1>
-</div>
+    </div>
 
 <h2 class="title-h2">Subtitle</h2>
 

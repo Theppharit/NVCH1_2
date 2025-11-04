@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/Style.css">
-    <link rel="stylesheet" href="./assets/Style.css/.box">
-
+    <link blue="stylesheet" href="./assets/Style.css">
 
     <title>THE WOULD</title>
 </head>
@@ -14,7 +13,20 @@
 
 <body>
 
-<div class="div-title">
+
+
+<nav class="navbar" id="title1">
+    <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
+    <a href="#title4" class="a-navbar">หัวข้อที่ 4</a>
+    <a href="#title5" class="a-navbar">หัวข้อที่ 5</a>
+</nav>
+
+
+
+
+<div class="div-title" id="title2">
         <h1 class="title-h1">Hello Would</h1>
 </div>
 
@@ -44,7 +56,7 @@
     Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?</p>
 
 
-    <h2 class="">บรรทัดใหม่2</h2>
+    <h2 class="" id="title3">บรรทัดใหม่2</h2>
 
     <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum repudiandae consequuntur magni dignissimos ab modi officia minus illum. Natus dolorem autem molestiae voluptatum voluptate repellat voluptatibus pariatur consectetur atque doloribus.
     Voluptatibus rerum architecto praesentium. Reiciendis, iste ipsam ad dolorum aperiam vero dolorem. Laudantium incidunt autem illum obcaecati alias quas soluta nostrum atque tempora, inventore sapiente nulla blanditiis architecto repudiandae omnis!
@@ -58,7 +70,7 @@
     Quo neque corporis accusantium aut animi nemo maiores ut quam, magnam officiis nihil dolores fugiat! Libero aliquid obcaecati cumque officiis dolorem, eveniet placeat expedita inventore at dicta fuga? Nam, quasi.</p>
 
 
-    <h3 class="">โลกใหม่555</h3>
+    <h3 class="" id="title4">โลกใหม่555</h3>
 
     <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos quos ex natus nulla voluptatibus quidem inventore nam totam porro, laudantium tempora iusto obcaecati officiis, explicabo possimus excepturi corporis facere animi.
     Iusto harum voluptatibus atque natus. Cum maiores soluta asperiores aliquid deserunt? Suscipit amet cum numquam fugiat veritatis ullam ad velit possimus deserunt iure distinctio, repudiandae rerum tempore minus assumenda voluptatibus?
