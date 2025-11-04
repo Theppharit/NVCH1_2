@@ -15,7 +15,7 @@
 </nav>
 
 <!--ส่วนหัว-->
-    <div class="div-title">
+    <div class="div-title"id="title 1">
     <h1 class="title-h1">Airada Chansirisukthawi</h1>
 </div>
 >
