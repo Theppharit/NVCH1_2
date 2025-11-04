@@ -16,14 +16,14 @@
 
 
 <nav class="navbar">
-    <a href="" class="a-navbar">หัวข้อที่1</a>
-    <a href="" class="a-navbar">หัวข้อที่2</a>
-    <a href="" class="a-navbar">หัวข้อที่3</a>
+    <a href="title1" class="a-navbar">หัวข้อที่1</a>
+    <a href="title2" class="a-navbar">หัวข้อที่2</a>
+    <a href="title3" class="a-navbar">หัวข้อที่3</a>
 </nav>
 
 
 
-    <div class="div-title">
+    <div class="div-title"id="title1">
         <h1 class="title-h1">h1</h1>
     </div>
 
@@ -40,7 +40,7 @@ Aliquam architecto facere saepe optio quidem magnam, amet adipisci distinctio is
 Ratione dicta, aut nostrum nisi perferendis a odio voluptatem eos amet magnam explicabo labore, quas eligendi incidunt excepturi reprehenderit voluptatibus. Eaque impedit architecto at nulla odio est obcaecati maiores ducimus?
 Corrupti nam quis nemo. Sequi magni et repudiandae libero provident distinctio ab architecto doloremque nisi dolorem! Iusto tempora, atque, laboriosam dolore esse minus quasi voluptatem doloribus maxime autem magni eaque?</p>
 
-   <div class="div-title">
+   <div class="div-title"id="title2">
         <h2 class="title-h1">h2</h2>
     </div>
 
@@ -57,7 +57,7 @@ Quasi quia unde nesciunt eos voluptas hic incidunt dolores non sed eveniet, opti
 Nam facilis distinctio sit nemo libero laborum harum nulla ullam molestiae tenetur, voluptatibus eos deleniti! Expedita animi facere necessitatibus minus nemo dolore eligendi sit quam. Doloribus provident sequi harum in.
 Dignissimos, unde quasi totam, quam eveniet sequi in, vero non et eaque amet ab illo. Sunt dolores fugit aperiam, voluptas perferendis ipsam minus rem, accusantium, vero sint commodi voluptatum quia.</p>
 
-   <div class="div-title">
+   <div class="div-title"id="title3">
         <h3 class="title-h1">h3</h3>
     </div>
 
