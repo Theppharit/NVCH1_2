@@ -15,12 +15,12 @@
 </nav>
 
 <!--ส่วนหัว-->
-    <div class="div-title">
+    <div class="div-title"id="title 1">
     <h1 class="title-h1">Airada Chansirisukthawi</h1>
 </div>
 >
 <!--กล่องที่ 1 -->
-<div class="box box blue">
+<div class="box box-blue">
     <h2 class="title-h2">Subtitie</h2>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem praesentium quia perspiciatis aspernatur nemo consectetur dicta adipisci ad. Debitis odit consequatur accusamus! Qui eligendi vero, ipsam dolorem provident earum sint?
     Odio facere rerum explicabo voluptatum id hic, doloremque accusantium perferendis eveniet ipsa ullam. Accusamus consectetur harum voluptatibus debitis, temporibus sint. Pariatur fuga, id magnam impedit aliquam nobis quis vero assumenda.
@@ -49,6 +49,9 @@
 <!--กล่องที่4 -->
 <div class="box box-purple">
      <h4 class="title-h5">Airada</h4>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt nisi, natus praesentium numquam error corrupti itaque harum, dignissimos perferendis amet enim quisquam non eum? Numquam id facilis libero unde nemo?
+    Voluptatem quis, ea dolore itaque facilis natus, voluptates animi nam laboriosam enim distinctio libero accusantium cum. Veritatis sit eveniet obcaecati ratione nam. Molestias explicabo architecto laborum nulla iure, consequuntur commodi.
+    Adipisci excepturi veniam vel dolore blanditiis quo rerum quos ex, nam aspernatur? Ad nam sed debitis asperiores possimus nemo explicabo illo dolore doloribus magni? Odio commodi labore consequatur eos. Qui?</p>
 </div>
 
 </body>
