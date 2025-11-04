@@ -6,7 +6,7 @@
     <title>Phonnarin</title>
 </head>
 <body>
-    <h1 class="">h1</h1>
+    <h1 class="">title</h1>
     <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum porro sapiente ab at, recusandae, provident similique, excepturi ullam praesentium ex pariatur! Facilis incidunt quo nobis ad nam laudantium repudiandae laboriosam?
     Explicabo, accusantium? Reprehenderit illum ipsam obcaecati dicta maxime! Suscipit, nemo? Est, voluptatem esse? Quas voluptatem aspernatur odio, distinctio minus totam aliquid laudantium ducimus perferendis dolorum sapiente, autem, ipsum veniam ex!
     Ratione animi eveniet consequuntur at voluptates ut atque velit officia odio esse unde veniam ullam, eos voluptate harum voluptatum pariatur quae distinctio sint facere modi quaerat! Consectetur ea vitae molestias!
@@ -17,7 +17,7 @@
     Quas odio, deserunt consequuntur corrupti ab iusto est odit? Eaque eveniet quasi natus hic sit suscipit libero sequi vitae fuga? At consequuntur voluptatem beatae saepe. Non commodi culpa eum aspernatur.
     Natus debitis, distinctio quam culpa error similique illo, corrupti dicta laboriosam tenetur sunt hic nobis quisquam saepe nesciunt non. Modi nesciunt perspiciatis earum dolore impedit fuga quo aliquam dolores corrupti!
     Veritatis, fugit dolorem! Eum enim labore animi mollitia! Voluptatibus dolor illo vel corrupti praesentium asperiores magni reprehenderit voluptate, doloremque velit, autem iure dolores! Atque illo, voluptas eos voluptatibus nesciunt consequuntur.</p>
-    <h2 class="">h2</h2>
+    <h2 class="">subtitle</h2>
     <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita aliquam minus dolores dolorum veritatis, nemo, rerum corrupti libero eveniet, fugiat distinctio nam dolor assumenda neque. Laudantium nobis alias ipsam doloremque.
     Libero recusandae pariatur ipsum dignissimos tenetur unde, soluta maxime, mollitia necessitatibus inventore facere adipisci quod magnam maiores, nemo magni dolores officia animi! Quis modi voluptatibus optio accusantium, enim nemo vero?
     Sapiente quos enim nemo ipsum officia, nisi obcaecati excepturi aspernatur non perspiciatis. Voluptatum nulla aliquam quasi deleniti voluptas. Consequatur, ex consequuntur dicta alias commodi quaerat neque vero totam autem repudiandae!
