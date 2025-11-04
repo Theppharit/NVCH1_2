@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/Style.css">
+    <link blue="stylesheet" href="./assets/Style.css">
 
     <title>THE WOULD</title>
 </head>
@@ -11,6 +12,19 @@
 
 
 <body>
+
+
+
+<nav class="navbar">
+    <a href="" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="" class="a-navbar">หัวข้อที่ 3</a>
+    <a href="" class="a-navbar">หัวข้อที่ 4</a>
+    <a href="" class="a-navbar">หัวข้อที่ 5</a>
+</nav>
+
+
+
 
 <div class="div-title">
         <h1 class="title-h1">Hello Would</h1>

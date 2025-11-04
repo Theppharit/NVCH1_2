@@ -17,6 +17,14 @@
 
 
 
+<nav class="navbar">
+    <a href="" class="a-navbar">หัวข้อที่ 1</a>
+    <a href="" class="a-navbar">หัวข้อที่ 2</a>
+    <a href="" class="a-navbar">หัวข้อที่ 3</a>
+</nav>
+
+
+
     <div class="div-title">
         <h1 class="title-h1">h1</h1>
     </div>
@@ -37,7 +45,7 @@
 
 
     <div class="div-title">
-        <h1 class="title-h1">h1-2</h1>
+        <h1 class="t-h1itle">h1-2</h1>
     </div>
 
     <h2 class="title-h2">Subtitle</h2>
