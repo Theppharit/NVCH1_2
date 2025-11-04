@@ -17,6 +17,10 @@ align-items: center;
 justify-content: center;
 }
 
+/* สีพื้นหลังแต่ละกล่อง */
+.box-blue {
+    background-color: aquamarine;
+}
 .title-h1 {
     color: rgb(226, 75, 15);
 }
