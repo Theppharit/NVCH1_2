@@ -1,43 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premruedee Supharoekmontha</title>
     <link rel="stylesheet" href="./assets/style.css">
-
-    <title>Premruedee</title>
 </head>
-
-
 <body>
 
+    <!--ส่วนหัว-->
 <div class="div-title">
-<h1 class="title-h1">Premruedee Supharoekmontha</h1>
-
+    <h1 class="title-h1">Premruedee Supharoekmontha</h1>
 </div>   
 
-    <h2 class="title-h2">Subtitle</h2>
+    <!--กล่องที่ 1 -->
+    <div class="box box-blue">
+        <h2 class="title-h2">Subtitle</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse minima eos vel quasi! Qui provident optio tempore perspiciatis non distinctio dolores! Eum incidunt, porro laboriosam fuga iusto illo ab architecto.</p>
+</div>
 
-    <p1 class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse minima eos vel quasi! Qui provident optio tempore perspiciatis non distinctio dolores! Eum incidunt, porro laboriosam fuga iusto illo ab architecto.</p>
-
+<!--กล่องที่ 2 -->
+<div class="box box-yellow">
     <h2 class="title-h3">Pls sub</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio harum similique rem iste perferendis hic temporibus et obcaecati consequuntur nobis eius expedita placeat magni dolorum maxime molestias, vel numquam corporis?</p>
+</div>
 
-    <p2 class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio harum similique rem iste perferendis hic temporibus et obcaecati consequuntur nobis eius expedita placeat magni dolorum maxime molestias, vel numquam corporis?</p>
-
+<!--กล่องที่ 3 -->
+<div class="box box-green">
     <h3 class="title-h4">Ms. Premruedee Supharoekmontha</h3>
-
-    <p3 class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates doloremque ipsam maxime sequi dolorem atque eveniet tenetur velit, reiciendis, blanditiis optio ad qui fugiat enim. Aperiam natus eum earum reiciendis.</p>
-    
-    <h4>Chompoooo</h4>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates doloremque ipsam maxime sequi dolorem atque eveniet tenetur velit, reiciendis, blanditiis optio ad qui fugiat enim. Aperiam natus eum earum reiciendis.</p>
+</div>
+   
+<!--กล่องที่ 4 -->
+<div class="box box-purple">
+    <h4 class="title-h5">Chompooo</h4>
 
 </body>
-
-
-
-
-
 </html>
