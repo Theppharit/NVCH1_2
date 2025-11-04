@@ -27,8 +27,12 @@
 
 
 <div class="div-title" id="title2">
+    
         <h1 class="title-h1">Hello Would</h1>
 </div>
+
+
+
 
     <h1 class="">การผจญภัยครั้งใหญ่</h1>
     <h1 class="">โลกนี้ช่างสวยงานเหลือเกิน</h1>
@@ -55,8 +59,15 @@
     Nobis dolorum similique sapiente ipsam, soluta magnam consequatur quae! Dolor eveniet alias nihil hic expedita, tenetur amet dignissimos aliquid a nostrum eos corrupti ipsam recusandae incidunt velit, deleniti perferendis eaque.
     Fugiat tempore porro molestiae, libero nihil doloremque repudiandae sequi cupiditate quas aliquid. Quas doloribus consequatur illo saepe et eum possimus, repellat voluptatibus praesentium eius ratione corporis culpa, voluptatem accusantium at?</p>
 
+<div class="div-title">
 
     <h2 class="" id="title3">บรรทัดใหม่2</h2>
+<div>
+
+
+
+
+
 
     <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum repudiandae consequuntur magni dignissimos ab modi officia minus illum. Natus dolorem autem molestiae voluptatum voluptate repellat voluptatibus pariatur consectetur atque doloribus.
     Voluptatibus rerum architecto praesentium. Reiciendis, iste ipsam ad dolorum aperiam vero dolorem. Laudantium incidunt autem illum obcaecati alias quas soluta nostrum atque tempora, inventore sapiente nulla blanditiis architecto repudiandae omnis!
@@ -69,8 +80,12 @@
     Architecto eveniet doloribus eius illum, cum dolore aut reiciendis fuga beatae explicabo ab modi deleniti neque minus maxime voluptatibus enim corrupti molestiae? Enim laudantium, sed quam ab repudiandae at illum!
     Quo neque corporis accusantium aut animi nemo maiores ut quam, magnam officiis nihil dolores fugiat! Libero aliquid obcaecati cumque officiis dolorem, eveniet placeat expedita inventore at dicta fuga? Nam, quasi.</p>
 
+<div class="div-title" id="title4">
 
     <h3 class="" id="title4">โลกใหม่555</h3>
+<div>
+
+
 
     <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos quos ex natus nulla voluptatibus quidem inventore nam totam porro, laudantium tempora iusto obcaecati officiis, explicabo possimus excepturi corporis facere animi.
     Iusto harum voluptatibus atque natus. Cum maiores soluta asperiores aliquid deserunt? Suscipit amet cum numquam fugiat veritatis ullam ad velit possimus deserunt iure distinctio, repudiandae rerum tempore minus assumenda voluptatibus?
