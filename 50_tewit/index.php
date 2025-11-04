@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>tewit</title>
-<link rel="stylesheet" href="./assts/style.css">
+<link rel="stylesheet" href="./assets/style.css">
 </head>
 
 <body>
@@ -43,7 +43,7 @@
     Nisi temporibus esse ratione deleniti sit tempore eaque debitis, doloremque ullam, corporis consectetur consequuntur possimus, iure unde obcaecati harum. Officiis qui fugit dolorem eius ab ipsa iusto sunt mollitia obcaecati!</p1>
 
     <div class="div-title" id="title2">
-    <h2 class="title-h2">to</h2>
+    <h2 class="title-h2">to...</h2>
 </div>
 
 

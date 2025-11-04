@@ -15,7 +15,7 @@
 </nav>
 
     <!-- ส่วนหัว -->
-    <div class="div-title">
+   <div class="div-title" id="title 1">
         <h1 class="title-h1" id="title1">Thanawat Jakoh</h1>
     </div>
 
