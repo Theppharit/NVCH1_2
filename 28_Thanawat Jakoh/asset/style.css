@@ -8,7 +8,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 20px;
 }
+
 /* ส่วนหัว */
 .div-title {
   width: 100%;
