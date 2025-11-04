@@ -6,3 +6,9 @@
     justify-content:center ;
     align-items: center;
 }
+title.h1{
+    color:blue;
+}
+title.h2{
+    color: var(.h2);
+}
