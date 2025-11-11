@@ -20,6 +20,7 @@
 </div>
 
 <img src="./assets/1.jpg" alt="" class="">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Fy3aqds63A?si=XTXzAchAI88YshXv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--กล่องที่ 1 -->
 <div class="box box-blue">
