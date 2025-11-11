@@ -33,8 +33,9 @@ img{
 
 /* section setup */
 .section-content{
-    padding: 0 5rem;
+    padding: 5 5rem;
 }
+
 .div-title {
     width: 100%;
     height: 150px;
