@@ -19,7 +19,7 @@
         <h1 class="title-h1" id="title1">Premruedee Supharoekmontha</h1>
     </div>   
 
-<img src="./assets/2.jpg" alt="" class="">
+<img src="./assets/3.jpg" alt="" class="">
 
 <iframe width="560" height="315" src="https://
 www.youtube.com/embed/hBRP5-GH23A?si=2pPcqSAdPCioyY2F" 
