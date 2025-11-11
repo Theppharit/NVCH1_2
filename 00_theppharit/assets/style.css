@@ -1,5 +1,15 @@
+/* add Variable */
 :root {
     --theme-color: #1a8c4f;
+}
+
+
+
+/* main setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 img {
@@ -7,6 +17,9 @@ img {
     height: auto;
 }
 
+
+
+/* navbar setup */
 .navbar {
     width: 100%;
     height: 70px;
@@ -18,6 +31,8 @@ img {
 }
 
 
+
+/* section setup */
 .div-title {
     width: 100%;
     height: 150px;
