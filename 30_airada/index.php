@@ -3,16 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Airada Chansirisukthawi</title>
     <link rel="stylesheet" href="./assets/style.css">
+
+
+<!--wed Name -->
+<title>Airada Chansirisukthawi</title>
+   
 </head>
+
+
 <body>
 
+
+<!-- Navder -->
 <nav class="navbar">
     <a href="" class="a-navbar">หัวข้อที่ 1</a>
     <a href="" class="a-navbar">หัวข้อที่ 2</a>
     <a href="" class="a-navbar">หัวข้อที่ 3</a>
 </nav>
+
+
+
+<!-- Titile -->
 
 <!--ส่วนหัว-->
     <div class="div-title" id="title 1">
