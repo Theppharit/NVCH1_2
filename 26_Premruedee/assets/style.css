@@ -35,7 +35,7 @@ img {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    padding: 0 5rem;
+    padding: 5rem;
 }
 
 

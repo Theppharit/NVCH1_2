@@ -9,11 +9,11 @@
   box-sizing: border-box;
 }
 /* section setup */
-section-content {
+.section-content {
   display: flex;
   flex-direction: column;
    gap: 20px;
-  padding: 0 5rem;
+  padding: 5rem;
 }
 
 /* ขนาดรูป */
