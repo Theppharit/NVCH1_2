@@ -24,6 +24,14 @@
 
 <img src="./assets/img/2.jpg" alt="" class="">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0VxHTDq3hU?si=1oDtI1sQtHu4ni26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+
+
 
 
 <p1 class="title-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
