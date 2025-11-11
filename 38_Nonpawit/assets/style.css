@@ -1,14 +1,22 @@
 :root {
     --theme-color: #afd5f0;
 }
-*{
-    margin: 0;
 
+
+
+
+/* Main Setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
 img {
     max-width: 100%;
     height: auto;
 }
+
 .navbar {
     width: 100%;
     height: 70px;
