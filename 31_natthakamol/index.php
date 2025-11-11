@@ -32,7 +32,7 @@
     <h1 class="title-h1">Natthakamol</h1>
 </div>
 
-</section class="section-content">
+<section class="section-content">
 
 <h2 class="title-h2">Subtitle</h2>
 
