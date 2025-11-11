@@ -19,7 +19,7 @@
         <h1 class="title-h1" id="title1">Thanawat Jakoh</h1>
     </div>
 
-    <img src="./asset/1.jpg" alt="" class="">
+    <img src="./asset/img/2.jpg" alt="" class="">
 
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
