@@ -23,14 +23,14 @@
 </nav>
 
 
-<section class="secyion-content"> 
+
 <!-- Title -->
     <!-- ส่วนหัว -->
    <div class="div-title" id="title 1">
         <h1 class="title-h1" id="title1">Napassorn Karnreaw</h1>
     </div>
 
-
+<section class="secyion-content"> 
 
     <h2 class="title-h2" id="title2">Halooooooo</h2>
 
