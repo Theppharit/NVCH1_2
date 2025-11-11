@@ -36,6 +36,9 @@ img {
 
 /* section setup */
 .section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
     padding: 5rem;
 }
 
