@@ -2,6 +2,14 @@
   --theme-color: #0793ca;
 }
 
+/* การตั้งค่าใหญ่ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ขนาดรูป */
 img {
   max-width: 100px;
   height: auto;

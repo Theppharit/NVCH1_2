@@ -3,16 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premruedee Supharoekmontha</title>
     <link rel="stylesheet" href="./assets/style.css">
+
+    
+    <!-- Wed Name -->
+    <title>Premruedee Supharoekmontha</title>
 </head>
+
+
+
 <body>
 
-<nav class="navbar">
+
+
+    <!-- Mavder -->
+    <nav class="navbar">
     <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
     <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
     <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
-</nav>
+    </nav>
+
+
+
+    <!-- Titile -->
 
     <!-- ส่วนหัว -->
      <div class="div-title" id="title 1">
