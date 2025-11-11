@@ -19,8 +19,10 @@
 <div class="div-title" id="title1">
      <h1 class="title-h1" >phonnarin</h1>
 </div>
+<img src="./assets/img/2.jpg" alt="" class="">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XWe03TFXpA?si=knbCro4xSMUGErX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.2112640854184!2d102.10200282564132!3d14.980973253360938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c99684d59b1%3A0xf187768cb357515d!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lit4Liy4LiK4Li14Lin4Lio4Li24LiB4Lip4Liy4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sen!2sth!4v1762827765520!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-,<img src="./assets/img/2.jpg" alt="" class="">
     <p1 class="title-p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit perspiciatis dicta nisi exercitationem veniam! Nam, culpa. Qui assumenda facilis quisquam laborum quaerat sequi nisi ipsa. Rerum natus vitae ipsam sequi.
     Sapiente dolorem modi ea omnis minima delectus odio libero quam! Non suscipit tenetur maxime, dolore ut similique nulla sequi perspiciatis repellendus nam, voluptatem sit. Voluptatem quis natus facilis adipisci illum.
     Quia dolorum natus ipsum temporibus. Aspernatur iusto consequatur provident cupiditate ratione fuga minus quae sunt, eveniet dolor voluptas temporibus inventore, doloribus deleniti voluptatem commodi, modi ducimus illum explicabo facilis officiis!
