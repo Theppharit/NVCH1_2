@@ -49,7 +49,7 @@
         Asperiores molestiae porro, omnis sint quasi delectus corrupti voluptate laborum atque, explicabo consequatur nulla culpa reiciendis sed tempore? Dolore inventore fuga corporis exercitationem atque? Dolore incidunt cum laborum consequuntur id!
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
-    </section>
+</section>
 
     <div class="div-title"id="title2">
     <h1 class="title-h1">h2</h2>
