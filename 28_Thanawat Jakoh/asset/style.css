@@ -1,7 +1,7 @@
 :root {
   --theme-color: #0793ca;
 }
-
+/* ขนาดรูป */
 img {
   max-width: 100px;
   height: auto;
