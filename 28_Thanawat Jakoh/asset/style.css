@@ -8,6 +8,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* section setup */
+section-content {
+  padding: 0 5rem;
+}
 
 /* ขนาดรูป */
 img {
