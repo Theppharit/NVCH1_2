@@ -29,8 +29,13 @@ img {
     justify-content: center;
     gap: 20px;
 }
-
-
+/* section setup */
+.section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 5rem;
+}
 
 
 .div-title {
@@ -41,12 +46,6 @@ img {
     align-items: center;
     justify-content: center;
 }
-/* section setup */
-.section-content{
-    padding: 0 5rem;
-
-}
-
 
 .title-h1 {
     color:rgb(20, 75, 83);
