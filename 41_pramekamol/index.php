@@ -6,6 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- add css -->
     <link rel="stylesheet" href="./assets/style.css">
 
 
@@ -17,7 +18,7 @@
 
 <body>
 
-<!-- Title -->
+<!-- Navbar -->
 <nav class="navbar">
   <a href="#title1" class="a-navbar">หัวข้อที่1</a>
   <a href="#title2" class="a-navbar">หัวข้อที่2</a>
@@ -26,20 +27,21 @@
 
 
 
-
+ <!-- Title -->
 <div class="div-title" id="title1">
     <h1 class="title-h1">h1</h1>
 </div>
 
+<section class="section-content">
+
+    <h2 class="title-h2">Subtitle</h2>
 
 <img src="./assets/img/2.jpg" alt="" class="">
 
 <iframe width="450" height="390" src="https://www.youtube.com/embed/hBK29bbOLS4?si=vGd8ZYf99AMSeufo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.2206528059196!2d102.0968695756713!3d14.980451667662916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c99684d59b1%3A0xf187768cb357515d!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lit4Liy4LiK4Li14Lin4Lio4Li24LiB4Lip4Liy4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sth!2sth!4v1762827807348!5m2!1sth!2sth" width="450" height="390" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-<h2 class="title-h2">Subtitle</h2>
+        
 
     <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
@@ -51,6 +53,9 @@
         Asperiores molestiae porro, omnis sint quasi delectus corrupti voluptate laborum atque, explicabo consequatur nulla culpa reiciendis sed tempore? Dolore inventore fuga corporis exercitationem atque? Dolore incidunt cum laborum consequuntur id!
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
+
+</section>
+
 
     <div class="div-title" id="title2"> 
     <h1 class="title-h1">h2</h2>

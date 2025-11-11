@@ -1,12 +1,25 @@
+/* add Variable */
 :root {
   --theme-color: #6921ac;
 }
 
+
+/* main setup */
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+
 img{
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
+
+
+/* navbar setup */
 .nav-bar {
     width: 100%;
     height: 50px;
@@ -17,6 +30,11 @@ img{
     gap: 20px;
 }
 
+
+/* section setup */
+.section-content{
+    padding: 0 5rem;
+}
 .div-title {
     width: 100%;
     height: 150px;
