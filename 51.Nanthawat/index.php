@@ -32,6 +32,8 @@
 </div>
 
 
+<img src="./assets/img/3.jpg" alt="" class="">
+
 
 
     <h1 class="title-a">การผจญภัยครั้งใหญ่</h1>
