@@ -1,0 +1,39 @@
+:root {
+    --theme-color: #20f53d;
+}
+.navbar {
+    width: 100vw;
+    height: 50 px;
+    background-color: #5cf32e;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    gap: 30px;
+}
+.div-title{
+    width: 100vw;
+    height: 100px;
+    background-color: #973097;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.title-h1 {
+    color:rgb(9, 61, 46);
+}
+.title-p1 {
+    color: #5b0e88;
+}
+.title-h2 {
+    color: #1435f0;
+}
+.title-p2 {
+    color: #27771c;
+}
+.title-h3 {
+    color: #e2c648;
+}
+.title-p3 {
+    color: #6a0883;
+}
