@@ -8,6 +8,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* section setup */
+section-content {
+  display: flex;
+  flex-direction: column;
+   gap: 20px;
+  padding: 0 5rem;
+}
 
 /* ขนาดรูป */
 img {
