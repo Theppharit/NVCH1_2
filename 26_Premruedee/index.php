@@ -21,12 +21,10 @@
 
 <img src="./assets/1.jpg" alt="" class="">
 
-
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
         <h2 class="title-h2" id="title2">Subtitle</h2>
 
-<img src="./assets//img/2.jpg" alt="" class="">
 
 
         <p>My name is Premruedee Supharoekmontha but in online you can call me Premruedee it kinda good when you call me by this name</p>
