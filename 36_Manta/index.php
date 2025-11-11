@@ -33,8 +33,11 @@
 </div>
 
 <section class="section-content">
+
 <h2 class="title-h2">Subtitle</h2>
+
 <img src="./assets/img/1.jpg" alt="" class="">
+
 <iframe width="600" height="450" src="https://www.youtube.com/embed/mh7VfeN1qEk?si=XFkRqB25KhAHOL6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.2715824823485!2d102.08186367597472!3d14.977621985554693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194cbadf0a27bb%3A0xd547e6d207ebd350!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4LmA4LiX4LiE4LiZ4Li04LiE4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sth!2sth!4v1762827841815!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <p class="1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil at laboriosam perspiciatis tempore veritatis id, minima consequatur soluta numquam commodi sit odio, est corrupti maxime. Vero odio iusto a cum.
