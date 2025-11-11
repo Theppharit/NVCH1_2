@@ -24,18 +24,14 @@
 <!-- รูปภาพ -->
 
 
-<section class="section-content">
-
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/nsM63Kgh3RQ?si=_64J9MZjdggZmGLV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- ยูทูป ลอกมา -->
 
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.220746084078!2d102.09686957488053!3d14.980446485552175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c99684d59b1%3A0xf187768cb357515d!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lit4Liy4LiK4Li14Lin4Lio4Li24LiB4Lip4Liy4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sen!2sth!4v1762827845845!5m2!1sen!2sth" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.220746084078!2d102.09686957488053!3d14.980446485552175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c99684d59b1%3A0xf187768cb357515d!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lit4Liy4LiK4Li14Lin4Lio4Li24LiB4Lip4Liy4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sen!2sth!4v1762827845845!5m2!1sen!2sth" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <!-- แผนที่ ลอกมา -->
-
-
-
-</section>
-
 
 
 <body>
@@ -60,6 +56,8 @@
 
 
 </div>
+
+<section class="section-content">
 
 <img src="./assets/img/3.jpg" alt="" class="">
 
@@ -106,10 +104,13 @@ Esse sequi explicabo deleniti architecto soluta? Voluptatum ea fugit, veniam eaq
 Doloribus, officiis? Beatae aliquam adipisci libero error culpa sit architecto suscipit sequi, ea voluptatibus nesciunt doloremque, ut quaerat dolor ullam. Velit dolorem magnam quod minima obcaecati aliquid dolore itaque repudiandae.</p>
 
 
+
+
 <div class="div-title" id="title4">
     
         <h3 class="title-a">โลกนี้ช่างสวยงานเหลือเกิน</h3>
 </div>
+
 
 
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolorum ipsum laboriosam? Vel quam esse quas, vitae voluptatem perspiciatis et ipsum blanditiis reiciendis nam sunt commodi odit quaerat praesentium est.
@@ -126,6 +127,9 @@ Neque ab deserunt, ipsa nesciunt et veritatis doloribus libero accusantium tempo
 
 
 </body>
+
+</section>
+
 
 
 </html>
