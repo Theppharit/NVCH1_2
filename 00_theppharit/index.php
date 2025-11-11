@@ -17,11 +17,11 @@
 
 
 
-<nav class="navbar">
-    <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
-    <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
-    <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
-</nav>
+    <nav class="navbar">
+        <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
+        <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
+        <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
+    </nav>
 
 
 
@@ -31,9 +31,11 @@
 
     <h2 class="title-h2">Subtitle</h2>
 
-        <img src="./assets/img/2.jpg" alt="" class="">
+    <img src="./assets/img/2.jpg" alt="" class="">
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/mNX6rEiIeaQ?si=dhswl8p76T8c0qU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mNX6rEiIeaQ?si=dhswl8p76T8c0qU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3969.6465317310813!2d102.09686957518085!3d14.980451667663845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c99684d59b1%3A0xf187768cb357515d!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lit4Liy4LiK4Li14Lin4Lio4Li24LiB4Lip4Liy4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e1!3m2!1sth!2sth!4v1762827742511!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
     <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
