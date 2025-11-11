@@ -56,7 +56,6 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" refe
         <h1 class="title-h1" id="title1">Premruedee Supharoekmontha</h1>
     </div>   
 
-<img src="./assets/3.jpg" alt="" class="">
 <h2 class="title-h2" id="title2">Subtitle</h2>
     <iframe width="560" height="315" src="https://
 www.youtube.com/embed/hBRP5-GH23A?si=2pPcqSAdPCioyY2F" 
