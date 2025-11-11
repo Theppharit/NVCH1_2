@@ -22,8 +22,8 @@
     <h1 class="title-h1">h1</h1>
 </div>
 
-<!-- รูปหาย -->
-<img src="./assets/img/2.jpg" alt="" class="">
+
+<section class="selection-content"><img src="./assets/img/2.jpg" alt="" class="">
 
 <iframe width="600" height="450" src="https://www.youtube.com/embed/L0VxHTDq3hU?si=1oDtI1sQtHu4ni26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,7 +44,14 @@ Reprehenderit, incidunt fuga? Nemo itaque nihil asperiores, recusandae numquam o
 Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores ipsa quae laborum, officiis quas molestiae ducimus incidunt earum repellendus repudiandae sunt ut quasi aliquid et eaque delectus esse!
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
-Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
+Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p> 
+</section>
+
+
+
+
+<!-- รูปหาย -->
+
 
  
 <div class="div-title" id="title2">
