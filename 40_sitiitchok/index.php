@@ -6,8 +6,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- add css -->
     <link rel="stylesheet" href="./assets/style.css">
 
+
+    <!--  web name -->
     <title>boomnaja</title>
 </head>
 
@@ -30,6 +33,9 @@
     </div>
 
     <img src="./assets/img/1.jpg" alt="" class="">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19Np05qlakg?si=VkJCB4dBUcTHAgww&amp;start=427" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d413070.7985719974!2d138.68187203650905!3d36.0174700590473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60192a8d477b01e9%3A0xfed91267aa80526c!2z4LiI4Lix4LiH4Lir4Lin4Lix4LiU4LmE4LiL4LiV4Liw4Lih4LiwIOC4jeC4teC5iOC4m-C4uOC5iOC4mQ!5e0!3m2!1sth!2sth!4v1762828004962!5m2!1sth!2sth" width="560" height="315" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <h2 class="title-h2">Subtitle</h2>
 
