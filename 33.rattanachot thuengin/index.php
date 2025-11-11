@@ -47,5 +47,5 @@
 
 </body>
 </html>
-<IMG SRC="./asset/1.JNG" ALT="" CLASS="">
+<IMG SRC="./asset/IMG/.JPG" ALT="" CLASS="">
  
