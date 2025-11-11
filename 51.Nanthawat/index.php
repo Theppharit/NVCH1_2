@@ -24,7 +24,7 @@
 
 
 
-<iframe width="100%" height="25%" src="https://www.youtube.com/embed/nsM63Kgh3RQ?si=_64J9MZjdggZmGLV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/nsM63Kgh3RQ?si=_64J9MZjdggZmGLV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- ยูทูป ลอกมา -->
 
 
@@ -54,7 +54,7 @@
     
         <h1 class="title-h1">Hello Would</h1>
 
-        
+
 </div>
 
 <img src="./assets/img/3.jpg" alt="" class="">
