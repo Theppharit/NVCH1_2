@@ -27,7 +27,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCjK5U5hGHY?si=nITeODHapmro4SoG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d207965.89761360848!2d132.80105216177367!3d35.46798400750311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35570388e957fd25%3A0x7f8a8df21bdacb9c!2z4Lih4Liw4Liq4Li24LmA4Lit4LiwIOC4iOC4seC4h-C4q-C4p-C4seC4lOC4iuC4tOC4oeC4sOC5gOC4meC4sCDguI3guLXguYjguJvguLjguYjguJk!5e0!3m2!1sth!2sth!4v1762827863434!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d207965.89761360848!2d132.80105216177367!3d35.46798400750311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35570388e957fd25%3A0x7f8a8df21bdacb9c!2z4Lih4Liw4Liq4Li24LmA4Lit4LiwIOC4iOC4seC4h-C4q-C4p-C4seC4lOC4iuC4tOC4oeC4sOC5gOC4meC4sCDguI3guLXguYjguJvguLjguYjguJk!5e0!3m2!1sth!2sth!4v1762827863434!5m2!1sth!2sth" width="560" height="315" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!--กล่องที่ 1-->
 <div class="box box-blue">
