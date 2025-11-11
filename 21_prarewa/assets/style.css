@@ -80,6 +80,10 @@ img {
 
  
 /* สีหัวเรื่องแต่ละระดับ */
+.title-h1 {
+    color: color(srgb rgb(159, 65, 223) rgb(182, 207, 67) rgb(64, 64, 230));
+}
+
 .title-h2 {
     color: var(--thme-color);
 }
