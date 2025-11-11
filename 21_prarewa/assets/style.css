@@ -48,7 +48,7 @@ img {
 }
 
 .title-h1 {
-    color: rgb(185, 72, 100);
+    color: rgb(228, 105, 135);
 }
 
 /* กล่องพื้นหลังทั่วไป */
@@ -57,7 +57,7 @@ img {
     padding: 20px;
     margin: 25px auto;
     width: 88%;
-    box-shadow: 0 4px 10px rgb(202, 91, 100);
+    box-shadow: 0 4px 10px rgb(160, 226, 85);
    
 }
 
@@ -67,7 +67,7 @@ img {
 }
 
 .box-yellow {
-     background-color: rgb(224, 127, 220);
+     background-color: rgb(176, 116, 216);
 }
 
 .box-purpie {
@@ -75,7 +75,7 @@ img {
 }
 
 .box-green {
-   background-color: rgb(142, 236, 208); 
+   background-color: rgb(240, 84, 84); 
 }
 
  
@@ -85,7 +85,7 @@ img {
 }
 
 .title-h3 {
-    color: rgb(143, 214, 110);
+    color: rgb(231, 101, 225);
 }
 
 .title-h4 {
@@ -93,12 +93,12 @@ img {
 }
 
 .title-h5 {
-    color: rgb(158, 41, 187);
+    color: rgb(120, 228, 116);
 }
 
 /* เพิ่มเอฟเกต์ hover ให้กล่อง */
 .box:hover {
     transform: scale(1.02);
     transition: 0.3 ease;
-    box-shadow: 0 6px 15px rgb(137, 226, 110);
+    box-shadow: 0 6px 15px rgb(41, 158, 167);
 }

@@ -35,7 +35,7 @@
 
     <!-- กล่องที่ 1 -->
 <div class="box box-blue">
-        <h2 class="title-h2" id="title2">Subtitle</h2>
+        <h2 class="title-h2" id="title2">Prarewa Rerkcharern</h2>
         <p>My name is Prarewa Rerkcharern </p>
 </div>
 
