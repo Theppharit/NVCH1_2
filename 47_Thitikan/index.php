@@ -17,6 +17,8 @@
     <a href="#title4" class="a-navbar">หัวข้อที่4</a>
 </nav>
 
+<img src="./assets/img/3.jpg" alt=""class"">
+
 <!--ส่วนหัว-->
 <div class="div-title">
 <h1 class="title-h1" id="title1">Thitikan Anchuen</h1>
