@@ -7,6 +7,9 @@
 padding:0;
 box-sizing: border-box;
 }
+
+
+
 img{
     width:100%;
     height:auto;
@@ -20,6 +23,13 @@ img{
     justify-content:space-between;
     gap: 30px;
 }
+
+/* section setup*/
+.section-content{
+padding: 0 5rem:
+}
+
+
 .div-title{
     width: 100vw;
     height: 100px;
