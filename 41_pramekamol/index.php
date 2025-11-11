@@ -30,6 +30,9 @@
 </div>
 
 
+<img src="./assets/img/2.jpg" alt="" class="">
+
+
 <h2 class="title-h2">Subtitle</h2>
 
     <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
