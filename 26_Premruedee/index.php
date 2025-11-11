@@ -21,12 +21,15 @@
 
 <img src="./assets/1.jpg" alt="" class="">
 
+<iframe width="560" height="315" src="https://
+www.youtube.com/embed/hBRP5-GH23A?si=2pPcqSAdPCioyY2F" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
         <h2 class="title-h2" id="title2">Subtitle</h2>
-
-
-
         <p>My name is Premruedee Supharoekmontha but in online you can call me Premruedee it kinda good when you call me by this name</p>
     </div>
 
