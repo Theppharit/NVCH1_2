@@ -14,8 +14,9 @@
   justify-content: center;
   gap: 20px;
 }
+
 /* main setup */
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
