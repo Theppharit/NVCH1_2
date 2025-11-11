@@ -19,8 +19,6 @@
         <h1 class="title-h1" id="title1">Premruedee Supharoekmontha</h1>
     </div>   
 
-<img src="./assets/1.jpg" alt="" class="">
-
 
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
