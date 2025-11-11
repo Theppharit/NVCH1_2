@@ -57,7 +57,9 @@
 
 </div>
 
-<section class="">
+<section class="section-content">
+
+
 
     <h1 class="title-a">การผจญภัยครั้งใหญ่</h1>
     <h1 class="title-b">โลกนี้ช่างสวยงานเหลือเกิน</h1>
@@ -124,9 +126,7 @@ Neque ab deserunt, ipsa nesciunt et veritatis doloribus libero accusantium tempo
 
 </body>
 
-
 </section>
-
 
 
 
