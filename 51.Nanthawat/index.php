@@ -5,8 +5,11 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
     <link rel="stylesheet" href="./assets/Style.css">
     <link blue="stylesheet" href="./assets/Style.css">
+    <!-- ลิงค์ -->
 
 
 
@@ -37,7 +40,7 @@
 <body>
 
 
-
+<!-- ลิงค์แทบบรา -->
 <nav class="navbar" id="title1">
     <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
     <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
