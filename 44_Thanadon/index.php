@@ -22,7 +22,17 @@
 </div>
 
 
-<img src="./assets/img/1.jpg" alt="" class="">
+<img src="./assets/img/2.jpg" alt="" class="">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0VxHTDq3hU?si=1oDtI1sQtHu4ni26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15435.136638164995!2d102.15461864955452!3d14.724791522420336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z4Lia4LmJ4Liy4LiZIOC4muC4tCDguIcg4LmC4LiK4LiE4LiK4Lix4Lii!5e0!3m2!1sen!2sth!4v1762827822621!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+
 
 <p1 class="title-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
 A ab, quo assumenda animi cupiditate natus perferendis cumque delectus praesentium optio officia. Qui ipsa magni nulla sunt, laboriosam, laborum harum vel ipsam in, quas dolorem corrupti rerum molestias cupiditate.
