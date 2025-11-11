@@ -42,10 +42,9 @@
     
     <div class="box box-blue">
          <h2 class="title-h2" id="title2">Halooooooo</h2>
-    <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam eaque sapiente fugit a corporis molestiae facere pariatur, obcaecati, eveniet asperiores consectetur deleniti. Soluta veritatis, quae dolores totam explicabo ab non.
+    <p>class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam eaque sapiente fugit a corporis molestiae facere pariatur, obcaecati, eveniet asperiores consectetur deleniti. Soluta veritatis, quae dolores totam explicabo ab non.
    Ipsum veritatis repellendus quae repudiandae voluptatem! Accusantium nemo perferendis voluptate, saepe mollitia quo, quis est voluptas ullam sapiente facere exercitationem laudantium earum vitae ea iure fugit fugiat corporis numquam! Earum?
-   Ea sunt inventore iure magni suscipit eius sit libero rem minima dicta eligendi, quisquam tempore quaerat et nam id labore nobis? Totam saepe illo vitae quia veritatis ducimus, a ratione?
-   Reprehenderit tempore recusandae, explicabo neque, culpa aut at assumenda similique reiciendis totam eius excepturi molestiae nam accusantium inventore eos suscipit vitae vel atque incidunt. Maiores minima id doloremque quasi illum?
+   Ea sunt inventore iure magni suscipit eius sit libero rem minima dicta eligendi, quisquam tempore quaerat et nam id labore nobis? Totam saepe illo vitae quia veritatis ducimus, a ratione? Reprehenderit tempore recusandae, explicabo neque, culpa aut at assumenda similique reiciendis totam eius excepturi molestiae nam accusantium inventore eos suscipit vitae vel atque incidunt. Maiores minima id doloremque quasi illum?
    Aut cum voluptate, natus expedita ab saepe ratione. Expedita alias a ad aperiam quisquam rerum sapiente rem. Ad placeat unde excepturi molestiae necessitatibus? Nobis aliquid ratione vero? Voluptas, et facere!
    Quisquam saepe veniam repudiandae, tempora blanditiis modi, quasi sed sunt provident voluptate officiis voluptatibus a aut pariatur vero. Molestias autem debitis consectetur obcaecati consequuntur tempora reiciendis, atque natus illum sed!
    Praesentium eligendi id nobis magni dignissimos neque fugit dolorem totam soluta autem laborum quod assumenda consectetur blanditiis libero et atque esse ullam, eos iure nihil reprehenderit? Officia quo quas exercitationem!
