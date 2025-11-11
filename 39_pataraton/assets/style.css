@@ -1,6 +1,14 @@
 :root {
     --theme-color: #00FF00;
 }
+ 
+
+/* main setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 img {
     width: 100%;
@@ -14,6 +22,11 @@ img {
     align-items: center;
     justify-content: center;
     gap: 20px;
+}
+
+/* section setup */
+.section-content {
+    padding: 0 5rem;
 }
 
 .div-title {
