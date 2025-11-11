@@ -20,10 +20,14 @@
 img {
     max-width: auto;
     height: auto;
+}
 
 .section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 5rem;
 
-    margin:auto;
 }
 
 .div-title {
