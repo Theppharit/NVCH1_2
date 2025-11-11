@@ -1,8 +1,18 @@
 :root {
   --theme-color: #0793ca;
 }
+
+  
+/*  main setup*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -16,7 +26,16 @@ img {
   gap: 20px;
 }
 
-/* ส่วนหัว */
+
+
+/*section setup*/
+.section-content{
+display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 5rem;
+}
+
 .div-title {
   width: 100%;
   height: 150px;
@@ -40,7 +59,7 @@ img {
 
 /* สีพื้นหลังแต่ละกล่อง */
 .box-blue {
-  background-color: #4090e6;
+  background-color: #f77070;
 }
 
 .box-yellow {
@@ -48,11 +67,11 @@ img {
 }
 
 .box-green {
-  background-color: #91d891;
+  background-color: #4689af;
 }
 
 .box-purple {
-  background-color: #ae91ca;
+  background-color: #afe47e;
 }
 
 /* สีหัวเรื่องแต่ละระดับ */
@@ -65,7 +84,7 @@ img {
 }
 
 .title-h4 {
-  color: rgb(138, 153, 21);
+  color: rgb(97, 55, 26);
 }
 
 .title-h5 {
