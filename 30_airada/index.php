@@ -36,9 +36,9 @@
  <h1 class="title-h1">h1</h1>
  </div>
     
-    <h2 class="title-h2">Subtitle</h2>
-
-    <img src="./assets/img/2.jpg" alt="" class="">
+     <section class="">
+<h2 class="title-h2">Subtitle</h2>
+ <img src="./assets/img/2.jpg" alt="" class="">
 
 
  

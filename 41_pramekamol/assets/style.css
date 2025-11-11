@@ -12,7 +12,7 @@
 
 
 
-
+/* main setup */
 img {
      max-width: 100%;
      height: auto;
@@ -20,7 +20,7 @@ img {
 
 
 
-
+/* navbar setup */
 .navbar {
 width: 100%;
     height: 150px;
@@ -31,7 +31,10 @@ width: 100%;
     gap: 20px;
 }
 
-
+/* section-content */
+.section-content {
+  padding: 0 5rem;
+}
 
 .div-title {
     width: 100%;
