@@ -2,6 +2,15 @@
     --theme-color: #89d5f3;
 }
 
+
+img {
+     max-width: 100%;
+     height: auto;
+}
+
+
+
+
 .navbar {
 width: 100%;
     height: 150px;
@@ -12,10 +21,6 @@ width: 100%;
     gap: 20px;
 }
 
-img {
-     width: 100%;
-     height: auto;
-}
 
 
 .div-title {
