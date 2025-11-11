@@ -19,6 +19,8 @@
         <h1 class="title-h1" id="title1">Thanawat Jakoh</h1>
     </div>
 
+    <img src="./asset/2.jpg" alt="" class="">
+
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
         <h2 class="title-h2" id="title2">Halo everyyan</h2>
