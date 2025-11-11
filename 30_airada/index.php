@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- add CSS -->
     <link rel="stylesheet" href="./assets/style.css">
 
-
-<!--wed Name -->
-<title>Airada Chansirisukthawi</title>
+    <!--wed Name -->
+    <title>Airada Chansirisukthawi</title>
    
 </head>
 
 
+
 <body>
+
 
 
 <!-- Navder -->
