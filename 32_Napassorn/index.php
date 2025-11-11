@@ -32,7 +32,7 @@
 
 
 <section class="secyion-content"> 
-    
+
     <h2 class="title-h2" id="title2">Halooooooo</h2>
 
     <img src="./asset/img/2.jpg" alt=""class="">
@@ -90,7 +90,7 @@
    Quasi quas perspiciatis laboriosam eius et vel at aliquam vitae debitis neque unde rerum est architecto iure harum a asperiores, quo consectetur incidunt, eaque, aut itaque quaerat! Iure, eos error!
    Aspernatur, sunt maiores minima quasi doloribus qui officia quae reiciendis optio accusamus eum veritatis natus et tempora unde error obcaecati consequuntur nihil. Repellat asperiores earum nam, eaque eum impedit magni.</p>
     </div>
-
+   </section>
     <!-- กล่องที่ 4 -->
     <div class="box box-purple">
         <h4 class="title-h5">เป็นยังงายยยยยยย</h4>
