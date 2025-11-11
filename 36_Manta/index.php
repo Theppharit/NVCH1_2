@@ -6,7 +6,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Web Name -->
     <link rel="stylesheet" href="./assets/styie.css">
+
+    <!-- Navbar -->
     <title>Manta</title>
 </head>
 
@@ -16,7 +19,7 @@
 
 
 
-
+<!-- Title -->
 <nav class="navbar">
     <a href="#title1" class="a-navbar">หัวข้อที่1</a>
     <a href="#title1" class="a-navbar">หัวข้อที่2</a>
