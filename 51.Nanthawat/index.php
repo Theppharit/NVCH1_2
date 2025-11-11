@@ -31,7 +31,6 @@
         <h1 class="title-h1">Hello Would</h1>
 </div>
 
-
 <img src="./assets/img/3.jpg" alt="" class="">
 
 
