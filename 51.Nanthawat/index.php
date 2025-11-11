@@ -9,7 +9,10 @@
     <title>THE WOULD</title>
 </head>
 
-<img src="./assets/img/3.jpg" alt="" class="">
+<img src="./assets/img/3.jpg" alt="" class=""> //คำสั่งรูปภาพ
+
+
+
 
 <body>
 
