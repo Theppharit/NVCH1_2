@@ -1,6 +1,11 @@
 :root {
     --theme-color: #20f53d;
 }
+
+img{
+    width:80%;
+    height:auto;
+}
 .navbar {
     width: 100vw;
     height: 50 px;
