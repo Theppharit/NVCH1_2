@@ -8,7 +8,7 @@
 .navbar {
   width: 100%;
   height: 50px;
-  background-color:#76b1f0;
+  background-color:#6ee4bc;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -81,7 +81,7 @@ img {
  
 /* สีหัวเรื่องแต่ละระดับ */
 .title-h1 {
-    color: color(srgb rgb(159, 65, 223) rgb(182, 207, 67) rgb(64, 64, 230));
+    color: color(srgb rgb(159, 65, 223)
 }
 
 .title-h2 {
