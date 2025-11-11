@@ -1,6 +1,14 @@
+ /* main setup */
  :root {
    --theme-color: #df2323;
  }
+ 
+/* main setup */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
  
 img {
    max-width: 100%;
@@ -9,7 +17,7 @@ img {
 
 
 
- 
+ /* main setup */
  .navbar {
    width: 100%;
    height: 150px;
@@ -19,6 +27,11 @@ img {
    justify-content: center;
    gap: 20px;
  }
+ 
+/* section setup*/
+.section-content {
+  
+}
  
  .div-title {
    width: 100%;
