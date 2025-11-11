@@ -18,12 +18,12 @@
 
 
 img {
-    max-width: 100%;
+    max-width: auto;
     height: auto;
 
 .section-content {
 
-    margin: auto;
+    margin:auto;
 }
 
 .div-title {
