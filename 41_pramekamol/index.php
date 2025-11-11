@@ -17,7 +17,7 @@
 
 <body>
 
-<!-- Title -->
+<!-- Navbar -->
 <nav class="navbar">
   <a href="#title1" class="a-navbar">หัวข้อที่1</a>
   <a href="#title2" class="a-navbar">หัวข้อที่2</a>
@@ -26,7 +26,7 @@
 
 
 
-
+ <!-- Title -->
 <div class="div-title" id="title1">
     <h1 class="title-h1">h1</h1>
 </div>
