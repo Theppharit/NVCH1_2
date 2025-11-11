@@ -19,7 +19,7 @@
     <h1 class="title-h1" id="title 1">Airada Chansirisukthawi</h1>
 </div>
 
-
+<img src="./assets/1.jpg" alt="" class="">
 
 <!--กล่องที่ 1 -->
 <div class="box box-blue">
