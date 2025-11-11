@@ -15,7 +15,9 @@
     <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
 </nav>
 
-<section class="">
+<section class="section-content">
+
+
     <h2 class="title-h2"> Subtitle</h2>
 
  <img src="./assets/img/1.jpg" alt="" class="">
