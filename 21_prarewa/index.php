@@ -16,7 +16,7 @@
 </nav>
 
 
-
+<img src="./assets/img/1.jpg" alt="" class="">
     <!-- ส่วนหัว -->
 <div class="div-title">
     <h1 class="title-h1" id="title">Prarewa Rerkcharern</h1>
