@@ -1,6 +1,8 @@
+/* add Variable */
 :root {
     --theme-color: #afd5f0;
 }
+
 
 
 
@@ -17,6 +19,9 @@ img {
     height: auto;
 }
 
+
+
+/* navbar setup */
 .navbar {
     width: 100%;
     height: 70px;
@@ -28,6 +33,8 @@ img {
 }
 
 
+
+/* section setup */
 .div-title {
     width: 100%;
     height: 150px;
