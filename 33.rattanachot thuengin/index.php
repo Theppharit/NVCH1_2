@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thanawat Jakoh</title>
+    <title>RATTANACHOT THUENGIN
+
+    </title>
     <link rel="stylesheet" href="asset/style.css">
 </head>
 <body>
@@ -45,5 +47,5 @@
 
 </body>
 </html>
-
+<IMG SRC="./asset/1.JNG" ALT="" CLASS="">
  
