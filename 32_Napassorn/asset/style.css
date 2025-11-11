@@ -1,6 +1,11 @@
 :root {
   --theme-color: #0793ca;
 }
+img {
+  width: 100%;
+  height: auto;
+}
+
 .navbar {
   width: 100%;
   height: 50px;
@@ -60,7 +65,7 @@
 }
 
 .title-h4 {
-  color: rgb(224, 230, 179);
+  color: rgb(138, 153, 21);
 }
 
 .title-h5 {

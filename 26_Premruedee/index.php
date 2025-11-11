@@ -19,9 +19,14 @@
         <h1 class="title-h1" id="title1">Premruedee Supharoekmontha</h1>
     </div>   
 
+<img src="./assets/1.jpg" alt="" class="">
+
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
         <h2 class="title-h2" id="title2">Subtitle</h2>
+
+
+
         <p>My name is Premruedee Supharoekmontha but in online you can call me Premruedee it kinda good when you call me by this name</p>
     </div>
 

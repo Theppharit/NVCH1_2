@@ -18,10 +18,12 @@
    <div class="div-title" id="title 1">
         <h1 class="title-h1" id="title1">Napassorn Karnreaw</h1>
     </div>
-
     <!-- กล่องที่ 1 -->
     <div class="box box-blue">
         <h2 class="title-h2" id="title2">Halooooooo</h2>
+        
+        <img src="./asset/img/2.jpg" alt=""Class="">
+
    <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam eaque sapiente fugit a corporis molestiae facere pariatur, obcaecati, eveniet asperiores consectetur deleniti. Soluta veritatis, quae dolores totam explicabo ab non.
    Ipsum veritatis repellendus quae repudiandae voluptatem! Accusantium nemo perferendis voluptate, saepe mollitia quo, quis est voluptas ullam sapiente facere exercitationem laudantium earum vitae ea iure fugit fugiat corporis numquam! Earum?
    Ea sunt inventore iure magni suscipit eius sit libero rem minima dicta eligendi, quisquam tempore quaerat et nam id labore nobis? Totam saepe illo vitae quia veritatis ducimus, a ratione?
