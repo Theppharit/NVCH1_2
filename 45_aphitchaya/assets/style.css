@@ -2,7 +2,18 @@
   --them-color:  #2e8ec1;
  }
  
-img {
+
+
+
+/* main setup*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+ img {
    width: 100%;
    height: auto;
 
@@ -22,6 +33,13 @@ img {
    align-items: center;
    justify-content: center;  
    gap: 20px;  
+}
+
+
+
+/* section setup*/
+.section-content{
+
 }
  
  .div-title {
