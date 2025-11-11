@@ -36,10 +36,14 @@ img {
 
 /* section setup */
 .section-content {
+<<<<<<< HEAD
+   
+=======
     display: flex;
     flex-direction: column;
     gap: 20px;
     padding: 5rem;
+>>>>>>> 0ee0288e3bebf15652fdb3137823db9c16e539a0
 }
 
 .div-title {
