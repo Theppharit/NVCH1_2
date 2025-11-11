@@ -18,10 +18,14 @@
     <div class="div-title" id="title 1">
     <h1 class="title-h1" id="title 1">Airada Chansirisukthawi</h1>
 </div>
->
+
+
+
 <!--กล่องที่ 1 -->
 <div class="box box-blue">
     <h2 class="title-h2" id="title2 ">Subtitie</h2>
+
+    <img src="./assets/img/2.jpg" alt="" class="">
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem praesentium quia perspiciatis aspernatur nemo consectetur dicta adipisci ad. Debitis odit consequatur accusamus! Qui eligendi vero, ipsam dolorem provident earum sint?
     Odio facere rerum explicabo voluptatum id hic, doloremque accusantium perferendis eveniet ipsa ullam. Accusamus consectetur harum voluptatibus debitis, temporibus sint. Pariatur fuga, id magnam impedit aliquam nobis quis vero assumenda.
     Impedit cupiditate, porro a voluptatem autem asperiores eius! Ducimus voluptates aut velit aliquid, ab facilis dolor eius officiis tempore, soluta ullam sint eveniet nobis ut inventore, non saepe aspernatur natus?
