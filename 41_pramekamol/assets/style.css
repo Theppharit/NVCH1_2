@@ -33,7 +33,11 @@ width: 100%;
 
 /* section-content */
 .section-content {
-  padding: 0 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5rem;
+
 }
 
 .div-title {

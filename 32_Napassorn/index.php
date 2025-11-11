@@ -23,14 +23,12 @@
 </nav>
 
 
-
+<section class="secyion-content"> 
 <!-- Title -->
     <!-- ส่วนหัว -->
    <div class="div-title" id="title 1">
         <h1 class="title-h1" id="title1">Napassorn Karnreaw</h1>
     </div>
-
-<section class="secyion-content"> 
 
     <h2 class="title-h2" id="title2">Halooooooo</h2>
 
@@ -52,8 +50,8 @@
    Aperiam architecto, nisi nemo omnis temporibus quae explicabo aspernatur earum ab fugiat odio voluptatem optio doloribus quisquam vitae modi quis qui in! Eos reprehenderit nam corporis ab? Libero, dolore voluptates?
    Quasi quas perspiciatis laboriosam eius et vel at aliquam vitae debitis neque unde rerum est architecto iure harum a asperiores, quo consectetur incidunt, eaque, aut itaque quaerat! Iure, eos error!
    Aspernatur, sunt maiores minima quasi doloribus qui officia quae reiciendis optio accusamus eum veritatis natus et tempora unde error obcaecati consequuntur nihil. Repellat asperiores earum nam, eaque eum impedit magni.</p>
-       
-   
+   </div>
+    
    </section>
        
 
