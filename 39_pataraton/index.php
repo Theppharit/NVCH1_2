@@ -6,8 +6,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- add css -->
     <link rel="stylesheet" href="./assets/style.css">
 
+
+    <!-- web name -->
     <title>Pataraton</title>
 </head>
 
@@ -16,7 +20,7 @@
 
 <body>
 
-
+<!-- Navbar -->
 <nav class="navbar">
     <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
     <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
@@ -24,11 +28,13 @@
 </nav>
    
 
-
+<!-- Title -->
     <div class="div-title"id="title1"> 
     <h1 class="title-h1">h1</h1>
     </div>
+
 <img src="./assets/img/1.jpg" alt="" class=""> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftZoPae7r0E?si=xToiXDWeK3DDN55V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75993.08981340448!2d-2.30586271428048!3d53.47231928806191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487a4d4c5226f5db%3A0xd9be143804fe6baa!2z4LmB4Lih4LiZ4LmA4LiK4Liq4LmA4LiV4Lit4Lij4LmMIOC4quC4q-C4o-C4suC4iuC4reC4suC4k-C4suC4iOC4seC4geC4ow!5e0!3m2!1sth!2sth!4v1762828044288!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    
