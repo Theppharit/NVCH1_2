@@ -21,6 +21,7 @@
 </div>
 
 
+<img src="./assets/img/4.jpg" alt="" class="">
     <p1 class="title-p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit perspiciatis dicta nisi exercitationem veniam! Nam, culpa. Qui assumenda facilis quisquam laborum quaerat sequi nisi ipsa. Rerum natus vitae ipsam sequi.
     Sapiente dolorem modi ea omnis minima delectus odio libero quam! Non suscipit tenetur maxime, dolore ut similique nulla sequi perspiciatis repellendus nam, voluptatem sit. Voluptatem quis natus facilis adipisci illum.
     Quia dolorum natus ipsum temporibus. Aspernatur iusto consequatur provident cupiditate ratione fuga minus quae sunt, eveniet dolor voluptas temporibus inventore, doloribus deleniti voluptatem commodi, modi ducimus illum explicabo facilis officiis!
