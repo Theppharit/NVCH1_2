@@ -12,6 +12,11 @@ width: 100%;
     gap: 20px;
 }
 
+img {
+     width: 100%;
+     height: auto;
+}
+
 
 .div-title {
     width: 100%;
