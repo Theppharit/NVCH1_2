@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/style.css">
     
+
      <!--Web Name -->
      <table>Aphitchaya</table>
 </head>
@@ -32,11 +33,26 @@
     <h1 class="title-h1">h1</h1>
 </div>
 
-
+<section class="">
+    <h2 class="title-h2">Subtitle</h2>
 <img src="./assets/img/1.jpg" alt="" class="">
 <iframe width="460" height="450" src="https://www.youtube.com/embed/lWhygAYsPrc?si=m16eR1DkeB-WafDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.145273985664!2d102.1137011!3d14.984638799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c8103b59e17%3A0xf0469d0a80730a0!2z4Lih4Lir4Liy4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lij4Liy4LiK4Lig4Lix4LiP4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sth!2sth!4v1762827977251!5m2!1sth!2sth" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    
 
+ <p class="1">Lorem ipsum dolor sit amet consectetur adipisicing elit. In autem, iste exercitationem provident architecto a facere illum tenetur! Architecto est similique at quaerat atque praesentium animi voluptate ipsam sit facere.
+Quia blanditiis aperiam amet doloremque aut omnis, dolore consectetur, laudantium suscipit ut sequi dignissimos, tenetur architecto nostrum. Perferendis quis necessitatibus deleniti eveniet, iusto ipsa eum, voluptate dolore repudiandae mollitia aliquam!
+Praesentium sunt sit omnis qui iusto minima accusantium dolore dolorum quaerat maiores eius unde corrupti hic placeat consectetur deserunt tempora necessitatibus ratione fuga excepturi, tempore facere quia quo impedit. Omnis.
+Dolore accusamus itaque alias iste nulla expedita sed impedit aperiam voluptatem facilis rerum repellendus mollitia voluptatum fuga neque asperiores quibusdam totam laudantium, id voluptatibus quidem explicabo amet officia. Excepturi, saepe?
+Maiores nisi repellendus impedit quo illo hic veritatis quia dicta, quis, deserunt omnis voluptas voluptatum sunt, eum vitae incidunt harum qui corrupti. Alias inventore distinctio odio iusto labore consectetur tempora.
+Assumenda porro iusto provident itaque necessitatibus pariatur et numquam vero accusantium nam repellendus, aspernatur sit quaerat consequuntur illo non nostrum corporis maiores expedita? Ducimus odio at cumque, sequi recusandae ratione!
+Error praesentium placeat quia, nisi tempora minima magni nulla! Tempore, aperiam nostrum optio quo provident magnam quae culpa voluptatem assumenda labore quos amet qui unde odit quia facilis accusantium similique!
+Quasi veritatis aliquam recusandae. Numquam, itaque asperiores quis accusantium aperiam culpa labore odio est maxime autem velit suscipit cum tenetur officia nulla veritatis veniam alias nihil soluta obcaecati eum ullam?</p>
+</section>
+
+
+<div class="div-title" id="title2">
+        <h1 class="title-h1">h1-2</h1>
+    </div>
 
 <h2 class="title-h2">Subtitle</h2>
 
