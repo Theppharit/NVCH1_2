@@ -11,7 +11,7 @@
     />
 
     <!--=============== SWIPER CSS ===============-->
-    <link rel="stylesheet" href="" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
 
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/styles.css" />
@@ -34,11 +34,29 @@
             </button>
           </div>
 
-          <span class="login__line"></span>
+          <span class="login__line">or</span>
 
           <form action="" method="post" class="login__form"></form>
+          <div class="login__content gride">
+            <div class="login__box">
+              <input type="email" name="email" placeholder="Email" required class="login__input">
+              <i class="ri-mail-line"></i>
+              
 
-          <p class="login__switch"></p>
+            </div>
+
+             <div class="login__box">
+              <input type="password" name="password" placeholder="Password" required class="login__input" id="loginPass">
+              <i class="ri-eye-line login__-eye" id="loginEye"></i>
+
+            </div>
+            <a href="#" class="login__forgot">Forgot Password?</a>
+
+            <button type="submit"  ="login__button">Log in</button>
+
+              <p class="login__switch">    
+                Don't have an account?
+                <a href="#" class="login__sign">Sing up</a>
         </div>
       </div>
     </div>
