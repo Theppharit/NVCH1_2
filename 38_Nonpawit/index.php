@@ -6,8 +6,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Add CSS -->
     <link rel="stylesheet" href="./assets/style.css">
 
+
+    <!-- Web Name -->
     <title>Nonpawit</title>
 </head>
 
@@ -17,22 +21,33 @@
 
 
 
-<nav class="navbar">
-    <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
-    <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
-    <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
-</nav>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <a href="#title1" class="a-navbar">หัวข้อที่ 1</a>
+        <a href="#title2" class="a-navbar">หัวข้อที่ 2</a>
+        <a href="#title3" class="a-navbar">หัวข้อที่ 3</a>
+    </nav>
 
 
 
-
-    <div class="div-title" id="title1"> 
+    
+    <!-- Title -->
+    <div class="div-title" id="title1">
         <h1 class="title-h1">h1</h1>
     </div>
 
-    <h2 class="title-h2">Subtitle</h2>
+    <section class="section-content">
 
-    <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
+        <h2 class="title-h2">Subtitle</h2>
+
+        <img src="./assets/img/2.jpg" alt="" class="">
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lWhygAYsPrc?si=0yf4gNlnUng9G6jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2377.1042935544683!2d-2.9633923227321444!3d53.43084347231397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b21654b02538b%3A0x84576a57e21973ff!2z4LmB4Lit4LiZ4Lif4Li14Lil4LiU4LmM!5e0!3m2!1sth!2sth!4v1762828001417!5m2!1sth!2sth" width="560" height="315" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+        <p class="">LLorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
         Illum dignissimos corporis recusandae quibusdam laboriosam vel non odio delectus explicabo earum nam quasi, obcaecati sequi minima eveniet quis soluta nostrum sunt! Quasi fugit eos eaque expedita dolores tempora modi.
         Consequatur omnis nemo at, possimus distinctio sequi labore repellendus natus ipsum exercitationem. Velit provident, repudiandae quae sed quisquam voluptates praesentium repellat atque natus rem dolores nesciunt perferendis nisi error facilis!
@@ -42,14 +57,18 @@
         Asperiores molestiae porro, omnis sint quasi delectus corrupti voluptate laborum atque, explicabo consequatur nulla culpa reiciendis sed tempore? Dolore inventore fuga corporis exercitationem atque? Dolore incidunt cum laborum consequuntur id!
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
+    </section>
 
-    <div class="div-title"id="title2">
-        <h1 class="title-h1">h2</h2>
+
+    <div class="div-title" id="title2">
+        <h1 class="title-h1">h1-2</h1>
     </div>
 
-    <h3 class="title-h2">Subtitle</h2>
+    <section class="section-content">
 
-    <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
+        <h2 class="title-h2">Subtitle</h2>
+
+        <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
         Illum dignissimos corporis recusandae quibusdam laboriosam vel non odio delectus explicabo earum nam quasi, obcaecati sequi minima eveniet quis soluta nostrum sunt! Quasi fugit eos eaque expedita dolores tempora modi.
         Consequatur omnis nemo at, possimus distinctio sequi labore repellendus natus ipsum exercitationem. Velit provident, repudiandae quae sed quisquam voluptates praesentium repellat atque natus rem dolores nesciunt perferendis nisi error facilis!
@@ -59,14 +78,19 @@
         Asperiores molestiae porro, omnis sint quasi delectus corrupti voluptate laborum atque, explicabo consequatur nulla culpa reiciendis sed tempore? Dolore inventore fuga corporis exercitationem atque? Dolore incidunt cum laborum consequuntur id!
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
+        </section>
 
-    <div class="div-title"id="title3">
-        <h1 class="title-h1">h3</h3>
+
+
+    <div class="div-title" id="title3">
+        <h1 class="title-h1">h1-3</h1>
     </div>
 
-    <h4 class="title-h2">Subtitle</h4>
+        <section class="section-content">
 
-    <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
+        <h2 class="title-h2">Subtitle</h2>
+
+        <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam quidem reprehenderit iusto in et, nesciunt recusandae omnis eos rerum distinctio aliquid nisi suscipit nostrum incidunt reiciendis. Reprehenderit unde suscipit mollitia?
         Adipisci beatae, quae voluptatum at officiis, molestiae voluptate sunt itaque sapiente, quam excepturi asperiores reprehenderit ipsum veniam. Quia sit aliquid commodi nam, adipisci assumenda, eveniet veritatis ipsam aspernatur deleniti dolorem!
         Illum dignissimos corporis recusandae quibusdam laboriosam vel non odio delectus explicabo earum nam quasi, obcaecati sequi minima eveniet quis soluta nostrum sunt! Quasi fugit eos eaque expedita dolores tempora modi.
         Consequatur omnis nemo at, possimus distinctio sequi labore repellendus natus ipsum exercitationem. Velit provident, repudiandae quae sed quisquam voluptates praesentium repellat atque natus rem dolores nesciunt perferendis nisi error facilis!
@@ -76,6 +100,7 @@
         Asperiores molestiae porro, omnis sint quasi delectus corrupti voluptate laborum atque, explicabo consequatur nulla culpa reiciendis sed tempore? Dolore inventore fuga corporis exercitationem atque? Dolore incidunt cum laborum consequuntur id!
         Ea minima illo porro saepe maxime cum, architecto in ducimus mollitia ad et optio similique tenetur libero alias voluptas, sequi dolor totam vel error debitis rem nihil? Consequatur, ducimus optio?
         Et quo saepe numquam eaque laborum beatae cum voluptatibus, fuga aspernatur amet ab. Molestias modi totam animi consectetur placeat fugit optio facere architecto quidem iste quibusdam, corrupti magnam eligendi debitis?</p>
+        </section>
 
 
 

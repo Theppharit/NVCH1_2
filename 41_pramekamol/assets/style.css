@@ -2,6 +2,25 @@
     --theme-color: #89d5f3;
 }
 
+
+/* main setup */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* main setup */
+img {
+     max-width: 100%;
+     height: auto;
+}
+
+
+
+/* navbar setup */
 .navbar {
 width: 100%;
     height: 150px;
@@ -12,6 +31,14 @@ width: 100%;
     gap: 20px;
 }
 
+/* section-content */
+.section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5rem;
+
+}
 
 .div-title {
     width: 100%;

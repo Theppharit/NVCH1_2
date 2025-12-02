@@ -1,17 +1,54 @@
+/* add Variable */
 :root {
+<<<<<<< HEAD
     --theme-color: #58a9ebff;
+=======
+    --theme-color: #371458;
+>>>>>>> 9d775fc2aeb039806ad46ad998ba98a44a7e9de0
 }
 
+
+
+
+
+/* main setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+/* navbar setup */
 .navbar {
     width: 100%;
     height: 70px;
+<<<<<<< HEAD
     background-color:rgb(126, 192, 236);
+=======
+    background-color:rgb(71, 40, 143);
+>>>>>>> 9d775fc2aeb039806ad46ad998ba98a44a7e9de0
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 20px;
 }
 
+
+
+/* section setup */
+.section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5rem;
+}
 
 .div-title {
     width: 100%;
@@ -23,7 +60,7 @@
 }
 
 .title-h1 {
-    color:rgb(255, 255, 255);
+    color:rgb(25, 44, 73);
 }
 
 .title-h2 {

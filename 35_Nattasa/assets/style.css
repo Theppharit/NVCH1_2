@@ -1,6 +1,10 @@
 :root {
     --theme-color: rgb(47, 109, 160);
 }
+img {
+width: 100%;
+height: auto;
+}
 
 .navbar {
 width: 100%;
