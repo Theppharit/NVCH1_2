@@ -83,8 +83,30 @@ img {
 }
 
 /*=============== LOGIN ===============*/
-
-
+.login{
+  height:  100vh;  
+}
+.login__container{
+  align-items: center;
+}
+.login__swiper{
+  display: none;
+}
+.login__data{
+  text-align: center;
+  color: var(--title-color);
+}
+.login__taitle{
+  font-size: var(--bigger-font-size);
+  font-family: var(--second-font);
+  margin-bottom: 3rem;
+}
+.login__description{
+  font-size: var(--small-font-size);
+  margin-bottom: 1rem;
+}
+.login__button,
+.login__button-border
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices */
 
