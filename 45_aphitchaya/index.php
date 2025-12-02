@@ -33,7 +33,7 @@
     <h1 class="title-h1">h1</h1>
 </div>
 
-<section class="">
+<section class="section-content">
     <h2 class="title-h2">Subtitle</h2>
 <img src="./assets/img/1.jpg" alt="" class="">
 <iframe width="460" height="450" src="https://www.youtube.com/embed/lWhygAYsPrc?si=m16eR1DkeB-WafDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

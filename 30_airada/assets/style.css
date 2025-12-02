@@ -26,6 +26,15 @@ gap: 20px;
 }
 
 
+/*section setup*/
+.section-content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5rem;
+}
+
+
 /* ส่วนหัว */
 .div-title {
 width: 100%;
