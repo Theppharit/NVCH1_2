@@ -1,6 +1,10 @@
 /* add Variable */
 :root {
+<<<<<<< HEAD
+    --theme-color: #58a9ebff;
+=======
     --theme-color: #371458;
+>>>>>>> 9d775fc2aeb039806ad46ad998ba98a44a7e9de0
 }
 
 
@@ -25,7 +29,11 @@ img {
 .navbar {
     width: 100%;
     height: 70px;
+<<<<<<< HEAD
+    background-color:rgb(126, 192, 236);
+=======
     background-color:rgb(71, 40, 143);
+>>>>>>> 9d775fc2aeb039806ad46ad998ba98a44a7e9de0
     display: flex;
     align-items: center;
     justify-content: center;
