@@ -83,31 +83,31 @@ img {
 }
 
 /*=============== LOGIN ===============*/
-.login{
+.login {
   height: 100vh;
 }
 
-.lohin__contsiner{
+.login__container{
   align-items: center;
 }
 
-.lohin__swiper{
-display: none;
+.Login__swiper{
+  display: none;
 }
 
 .login__data{
   text-align: center;
-  color: var(--title-color);
+  color: var(--text-color);
 }
 
 .login__title{
-  font: var(--bigger-font-size);
+  font-size: var(--bigger-font-size);
   font-family: var(--second-font);
   margin-bottom: 3rem;
 }
 
-.lohin__description{
-  font: var(--small-font-size);
+.login__description {
+  font-size: var(--small-font-size);
   margin-bottom: 1rem;
 }
 
@@ -121,6 +121,85 @@ display: none;
   transition: background-color .4s, box-shadow .4s;
 }
 
+.login__button{
+  background-color: var(--first-color);
+  color: var(--white-color);
+}
+
+.login__button:hover{
+  background-color: var(--first-color-alt);
+  box-shadow: 0 8px 24px hsl(4, 80, 40%, 4%);
+}
+
+.login__button-border{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 5rem;
+  background-color: var(--white-color);
+  border: 2px solid var(--border-color);
+  color: var(--text-color);
+}
+
+.login__button-border i{
+  font-size: 1.5rem;
+  font-weight: initial;
+}
+
+.login__button-border:hover{
+  background-color: var(--hover-color);
+}
+
+.login__line{
+  position: relative;
+  justify-self: center;
+  font-weight: var(--font-semi-bold);
+  color: var(--title-color);
+}
+
+.login__line::before,
+.login__line::after{
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 96px;
+  height: 1px;
+  background-color: var(--border-color);
+  margin: auto 0;
+}
+
+.login__line::before{
+  right: 1.5rem;
+}
+
+.login__line::after{
+  left: 1.5rem;
+}
+
+.login__content{
+  row-gap: .75rem;
+  margin-bottom: .75rem;
+}
+
+.login__box{
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: var(--white-color);
+}
+
+.login__input{
+  width: 100%;
+  background: none;
+  border: 2px solid var(--border-color);
+  padding: 1rem 1.25rem;
+  border-radius: .5rem;
+  color: var(--text-color);
+  font-weight: var(--font-semi-bold);
+  transition: bordar .4s;
+  z-index: 1;
+}
 
 
 /*=============== BREAKPOINTS ===============*/
