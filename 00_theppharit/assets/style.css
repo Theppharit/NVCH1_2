@@ -1,7 +1,27 @@
+/* add Variable */
 :root {
     --theme-color: #1a8c4f;
 }
 
+
+
+
+
+/* main setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+/* navbar setup */
 .navbar {
     width: 100%;
     height: 70px;
@@ -12,6 +32,19 @@
     gap: 20px;
 }
 
+
+
+/* section setup */
+.section-content {
+<<<<<<< HEAD
+   
+=======
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5rem;
+>>>>>>> 0ee0288e3bebf15652fdb3137823db9c16e539a0
+}
 
 .div-title {
     width: 100%;

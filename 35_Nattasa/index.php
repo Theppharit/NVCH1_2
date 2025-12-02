@@ -25,6 +25,7 @@
 </div>
     <h2 class="title-h2">Subtitle</h2>
 
+   <img src="./assets/img/3.jpg" alt="" class="">
 <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores saepe inventore voluptates explicabo non quo, quasi repellat nisi ad animi exercitationem totam veritatis reprehenderit dolor eius quod nam impedit architecto?
 Omnis, iusto eveniet. Aperiam, nostrum hic nobis libero, placeat dignissimos sint voluptates, quasi cumque numquam quis ipsam commodi officiis? Nisi, ipsa aperiam. Debitis non autem quam vel, porro eos a.
 Voluptas vel accusantium nihil totam maxime illum, esse non molestiae earum fugit, dignissimos debitis repellendus expedita ducimus tenetur assumenda pariatur hic! Necessitatibus, modi natus dolorum odit eos reprehenderit totam quos.

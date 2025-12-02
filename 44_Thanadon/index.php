@@ -1,43 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="asest/style.css">
-     <title>Thanadon</title>
+    <title>tewit</title>
+<link rel="stylesheet" href="./assts/style.css">
 </head>
 
-
-
 <body>
 
+<!-- ไอ้เสือ -->
 
-
-
-<body>
-    
-
-
-
-<div class="navbar">
+<nav class="navbar">
 <a href="#title1" class="a-navbar">หัวข้อที่1</a>
 <a href="#title2" class="a-navbar">หัวข้อที่2</a>
 <a href="#title3" class="a-navbar">หัวข้อที่3</a>
 </nav>
 
-
+<!-- เสือเอ้ย -->
 <div class="div-title" id="title1">
-    <h1 class="title-h1">prem</h1>
+    <h1 class="title-h1">h1</h1>
 </div>
 
 
-<h2 class="title-h2">Subtitle</h2>
+<section class="selection-content"><img src="./assets/img/2.jpg" alt="" class="">
 
-<p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
+<iframe width="600" height="450" src="https://www.youtube.com/embed/L0VxHTDq3hU?si=1oDtI1sQtHu4ni26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15435.136638164995!2d102.15461864955452!3d14.724791522420336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z4Lia4LmJ4Liy4LiZIOC4muC4tCDguIcg4LmC4LiK4LiE4LiK4Lix4Lii!5e0!3m2!1sen!2sth!4v1762827822621!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+
+
+<p1 class="title-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid aliquam soluta explicabo rem deserunt, cupiditate nisi necessitatibus, minima maiores quam voluptate exercitationem odit dolorem sunt dignissimos nostrum vitae assumenda neque?
 A ab, quo assumenda animi cupiditate natus perferendis cumque delectus praesentium optio officia. Qui ipsa magni nulla sunt, laboriosam, laborum harum vel ipsam in, quas dolorem corrupti rerum molestias cupiditate.
 Facere corrupti, nobis odit cupiditate accusantium porro a nesciunt nihil ipsum recusandae enim. Magnam ut nostrum facere totam facilis nemo alias voluptates tempora repellat, sunt molestias qui error quia? Cupiditate.
 Nihil cumque neque laborum voluptatum consequuntur animi magni iure maiores? Ad ipsa quasi assumenda excepturi alias soluta quidem doloribus voluptatum, nisi iure asperiores mollitia, repudiandae non corporis, nesciunt esse suscipit.
@@ -46,7 +44,14 @@ Reprehenderit, incidunt fuga? Nemo itaque nihil asperiores, recusandae numquam o
 Dolorum quos ipsa consequuntur culpa, ratione possimus est facere animi! Dolores ipsa quae laborum, officiis quas molestiae ducimus incidunt earum repellendus repudiandae sunt ut quasi aliquid et eaque delectus esse!
 Iure doloremque id illum possimus voluptatem impedit, sit beatae, totam, commodi tempora deleniti voluptatibus suscipit tenetur vero aut voluptas laboriosam quod minus. Quia suscipit nisi fuga voluptatibus, sapiente accusamus placeat!
 Ad iusto veritatis minus quis quisquam, corporis voluptates molestias beatae provident soluta eum aut accusamus exercitationem nesciunt fuga tenetur dolorum facilis consequuntur fugit corrupti vel optio! Aperiam ea quasi eveniet?
-Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p>
+Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio ipsum ex atque aliquid itaque voluptates quia non veniam mollitia suscipit repellat eum, ad eaque debitis soluta temporibus perspiciatis.</p> 
+</section>
+
+
+
+
+<!-- รูปหาย -->
+
 
  
 <div class="div-title" id="title2">
@@ -54,19 +59,6 @@ Doloribus et in aperiam! Tempore, sequi temporibus? Magni, nulla maiores. Odio i
 </div>
 
 
-
- <div class="div-title"id="title2">
-        <h1 class="title-h1">h2</h1>
-    </div>
-
-
-<h2 class="title-h2">Subtitle</h2>
-
-
-
-
-
-<h2 class="title">subtitle</h2>
 
 <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam dolore molestiae accusantium! Vitae quis iste, enim nisi, perspiciatis iusto corrupti quidem necessitatibus, provident repudiandae illo? Eveniet enim eligendi sapiente cumque.
 Nesciunt cum quo distinctio dicta natus animi odit recusandae quibusdam, corporis voluptate, tenetur consequuntur voluptatibus molestias expedita, ex facere quas accusantium. Esse ut rem nesciunt eveniet magni fugit eum delectus!

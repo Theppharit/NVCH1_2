@@ -1,6 +1,27 @@
 :root {
   --theme-color: #0793ca;
 }
+
+/* การตั้งค่าใหญ่ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* section setup */
+.section-content {
+  display: flex;
+  flex-direction: column;
+   gap: 20px;
+  padding: 5rem;
+}
+
+/* ขนาดรูป */
+img {
+  max-width: 100px;
+  height: auto;
+}
+
 .navbar {
   width: 100%;
   height: 50px;
