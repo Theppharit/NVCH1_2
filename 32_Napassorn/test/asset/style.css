@@ -1,0 +1,99 @@
+:root {
+  --theme-color: #0793ca;
+}
+
+  
+/*  main setup*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color:#76b1f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+
+/*section setup*/
+.section-content{
+display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 5rem;
+}
+
+.div-title {
+  width: 100%;
+  height: 150px;
+  background-color: var(--theme-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title-h1 {
+  color: rgb(255, 255, 255);
+}
+
+/* กล่องพื้นหลังทั่วไป */
+.box {
+  border-radius: 10px;
+  padding: 20px;
+  margin: 25px auto;
+  width: 80%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* สีพื้นหลังแต่ละกล่อง */
+.box-blue {
+  background-color: #f77070;
+}
+
+.box-yellow {
+  background-color: #e7d259;
+}
+
+.box-green {
+  background-color: #4689af;
+}
+
+.box-purple {
+  background-color: #afe47e;
+}
+
+/* สีหัวเรื่องแต่ละระดับ */
+.title-h2 {
+  color:#441d64;
+}
+
+.title-h3 {
+  color: rgb(10, 100, 25);
+}
+
+.title-h4 {
+  color: rgb(97, 55, 26);
+}
+
+.title-h5 {
+  color: rgb(128, 73, 0);
+}
+
+/* เพิ่มเอฟเฟกต์ hover ให้กล่อง */
+.box:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
