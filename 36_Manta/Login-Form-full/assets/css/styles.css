@@ -83,11 +83,11 @@ img {
 }
 
 /*=============== LOGIN ===============*/
-login {
+.login {
   height: 100vh;
 }
 
-login__container {
+.login__container {
   align-items: center;
 }
 
