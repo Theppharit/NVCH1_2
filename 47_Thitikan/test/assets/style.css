@@ -1,0 +1,99 @@
+:root {
+    --thme-color: rgb(230, 100, 171);
+}
+
+/* main setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(63, 231, 133);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}   
+
+/* section setup */
+.section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20xp;
+    padding: 5rem;
+}
+
+.div-title {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(136, 118, 214);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-h1 {
+    color:rgb(233, 125, 201);
+}
+
+/*กล่องพื้นหลังทั่วไป*/
+.box {
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px auto;
+    width: 88%;
+    box-shadow: 0 4px 10px rgb(147, 62, 196);
+}
+
+/* สีพื้นหลังแต่ละกล่อง */
+.box-blue {
+    background-color: rgb(235, 225, 97);
+}
+
+.box-yellow {
+     background-color: rgb(108, 233, 114);
+}
+
+.box-purpie {
+     background-color: rgb(49, 230, 236);
+}
+
+.box-green {
+   background-color: rgb(183, 127, 230); 
+}
+
+
+
+/*สีหัวเรื่องแต่ละระดับ*/
+.title-h2 {
+    color: var(--theme-color);
+}
+
+.title-h3 {
+    color:rgb(95, 153, 240);
+}
+
+.title-h4 {
+    color:rgb(235, 113, 133);
+}
+
+.title-h5 {
+    color:rgb(169, 211, 102);
+}
+
+/* เพิ่มเอฟเกต์ hover ให้กล่อง */
+.box:hover {
+    transform: scale(1.02);
+    transition: 0.3 ease;
+    box-shadow: 0 6px 15px rgb(240, 96, 216);
+}
