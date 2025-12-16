@@ -10,8 +10,8 @@
   --hover-color: hsl(0, 0%, 95%);
   --title-color: hsl(0, 0%, 12%);
   --text-color: hsl(0, 0%, 40%);
-  --white-color: hsl(0, 0%, 100%);
-  --border-color: hsl(0, 0%, 72%);
+  --white-color: hsl(0, 36%, 81%);
+  --border-color: hsl(152, 65%, 81%);
   --body-color: hsl(0, 0%, 100%);
 
   /*========== Font and typography ==========*/
@@ -128,7 +128,7 @@ img {
 
 .login__button:hover {
   background-color: var(--first-color-alt);
-  box-shadow: 0 8px 24px hsla(4, 73%, 51%, 0.89);
+  box-shadow: 0 8px 24px hsla(4, 80%, 40%, .4);
 }
 
 .login__button-border {
@@ -269,7 +269,7 @@ img {
     width: 1110px;
     height: 700px;
     background-color: var(--body-color);
-    box-shadow: 0 0 24px hsla(0, 0%, 0%, .15);
+    box-shadow: 0 0 24px hsl(0, 87%, 50%);
     padding: .75rem;
     border-radius: 3rem;
   }
