@@ -149,7 +149,8 @@ img {
   background-color: var(--hover--color);
 }
 .login__line{
-  position: center;
+  position:relative;
+  justify-self: center;
   font-weight: var(--fnt-semi-boid);
   color: var(--title-color);
 }
@@ -159,7 +160,9 @@ img {
   content: '';
   position: absolute;
   top: 0;
+  bottom: 0;
   width: 96px;
+  height: 1px;
   background-color: var(--border-color);
   margin: auto 0;
 }
