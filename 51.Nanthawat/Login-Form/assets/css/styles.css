@@ -248,7 +248,7 @@ img {
 /* For medium devices */
 @media screen and (min-width : 540px){
   .login__area{
-    geid-template-columns : 340px;
+    grid-template-columns: 340px;
     justify-content : center;
   }
 }
