@@ -1,8 +1,16 @@
 :root {
     --theme-color: rgb(47, 109, 160);
 }
+
+/*main setup*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}                  
+
 img {
-width: 100%;
+max-width: 100%;
 height: auto;
 }
 
@@ -17,6 +25,13 @@ width: 100%;
     gap: 20px;
 }
 
+/* section setup*/
+.section-content{
+display: flex;
+flex-direction: column;
+gap: 20px;
+padding:  5rem; 
+}
 
 .div-title {
     width: 100%;
