@@ -121,15 +121,17 @@ img {
   transition: background-color .4s, box-shadow .4s;
 }
 
+
 .login__button {
   background-color: var(--first-color);
-  color: var(--white-color);
+  color:var(--white-color);
 }
 
-.login__button:hover {
+.login__button:hover{
   background-color: var(--first-color-alt);
   box-shadow: 0 8px 24px hsla(0, 100%, 50%, 0.938);
 }
+
 
 .login__button-border {
   display: flex;
