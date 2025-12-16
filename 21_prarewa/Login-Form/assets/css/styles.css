@@ -128,7 +128,7 @@ img {
 
 .login__button:hover {
   background-color: var(--first-color-alt);
-  box-shadow: 0 8px 24px hsla(4, 80%, 40%, .4);
+  box-shadow: 0 8px 24px hsla(4, 73%, 51%, 0.89);
 }
 
 .login__button-border {
