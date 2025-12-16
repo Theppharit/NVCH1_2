@@ -21,7 +21,9 @@
   <body>
     <div class="login container grid">
       <div class="login__contioner grid">
-        <div class="login__swipper"></div>
+        <div class="login__swipper">
+          
+        </div>
 
         <div class="login__area grid">
           <div class="login__data">
@@ -34,11 +36,31 @@
             </button>
           </div>
 
-          <span class="login__line"></span>
+          <span class="login__line">or</span>
+
+          <form action="" class="login__form"></form>
+             <div class="login__content grid"></div>
+               <div class="login__box">
+                 <input type="email" name="email" placeholder="Email" required class="login__input">
+               </div>
+               
+               <div class="login__box">
+                 <input type="password" name="password" placeholder="password" required class="login__input"> id="password"
+                 <i class="ri-eye-line login__eye" id="loginEye"></i>
+               </div>
+              </div>
+
+              <a href="#" class="login__forgot">Forgot password?</a>
+
+              <button type="submit" class="login__button">Log In</button>
+            </form>
+
 
           <form action="" method="post" class="login__form"></form>
 
           <p class="login__switch"></p>
+            Don't have an account? 
+            <a href="#" class="login__signup">Sign Up</a>
         </div>
       </div>
     </div>
