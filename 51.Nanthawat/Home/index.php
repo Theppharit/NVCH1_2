@@ -168,7 +168,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>1,793
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -186,7 +186,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>1,099
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -204,7 +204,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>2,597
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -222,7 +222,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>3,699
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -240,7 +240,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>3,700
                                 </h2>
 
                                 <h3 class="popular__title">
