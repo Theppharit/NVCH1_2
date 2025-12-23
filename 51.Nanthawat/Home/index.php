@@ -284,8 +284,7 @@
                             Value We Give To You<span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                           We are always ready to help by providing you with the best service. We believe that good entertainment to relieve stress can make your life better.
                         </p>
                     </div>
 
@@ -498,7 +497,7 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    Holux<i class='bx bxs-home-alt-2'></i>
+                    HomePage<i class='bx bxs-home-alt-2'></i>
                 </a>
 
                 <p class="footer__description">
