@@ -141,6 +141,68 @@ img {
   color: var(--text-color);
 }
 
+.login__button-border i{
+  font-size :1.5rem;
+  font-weight :inherit;
+}
+.login__button-border:hover{
+  background-color: var(--hover--color);
+}
+.login__line{
+  position:relative;
+  justify-self: center;
+  font-weight: var(--fnt-semi-boid);
+  color: var(--title-color);
+}
+
+.login__line::before,
+.login__line::after{
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 96px;
+  height: 1px;
+  background-color: var(--border-color);
+  margin: auto 0;
+}
+
+.login__line::before{
+  right: 1.5rem;
+}
+
+.login__line::after{
+  left: 1.5rem;
+}
+
+login__content{
+  row-gap: .75rem;
+  margin-bottom: .75rem;
+}
+
+.login__box{
+  position:relative;
+  display: flex;
+  align-items: center;
+  background-color: var(--white-color);
+}
+
+.login__input{
+  width: 100%;
+  background: none;
+  border: 2px solid var(--border-color);
+  padding: 1rem 1.25rem;
+  border-radius: .5rem;
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+  transition: border .4s;
+  z-index: 1;
+}
+
+.login__input::placeholder{
+  color: var(--title-color);
+}
+
 
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices */
