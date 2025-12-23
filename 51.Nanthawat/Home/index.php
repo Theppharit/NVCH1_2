@@ -392,9 +392,7 @@
                             Easy to Contact us<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            Having trouble finding your dream entertainment? Need advice on your first experience? Or need advice on a problem? Just contact us.
                         </p>
                     </div>
 
