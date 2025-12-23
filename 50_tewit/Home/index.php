@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/Yuu_Izumi_anime4.webp" alt="">
                     </div>
                 </div>
             </div>
