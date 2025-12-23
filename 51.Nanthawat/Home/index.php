@@ -236,7 +236,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/G4.webp.jpg" alt="" class="popular__img">
+                            <img src="assets/img/g4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
