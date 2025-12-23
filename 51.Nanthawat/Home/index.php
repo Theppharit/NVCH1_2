@@ -164,7 +164,7 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/G1.webp" alt="" class="popular__img">
+                            <img src="assets/img/m3.avif" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -182,7 +182,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/G2.5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/m2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -200,7 +200,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/G2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/m1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
