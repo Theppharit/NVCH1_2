@@ -172,11 +172,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    ARK SURVIVAL EVOLVED
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    The game's content is a survival adventure in an open world.
                                 </p>
                             </div>
                         </article>
