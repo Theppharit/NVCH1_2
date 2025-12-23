@@ -477,7 +477,7 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with HomePage
+                    Get Started with The best Game hub.com
                 </h1>
                 <p class="subscribe__description">
                     Subscribe and find super attractive price
