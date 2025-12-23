@@ -190,11 +190,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    JURASSIC WORLD EVOLUTINON 1
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    The game lets you creatively manage your own amusement park in your own style.
                                 </p>
                             </div>
                         </article>
@@ -208,11 +208,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    JURASSIC WORLD EVOLUTINON 2
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    The game lets you creatively manage your own amusement park in your own style.
                                 </p>
                             </div>
                         </article>
@@ -226,11 +226,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    JURASSIC WORLD EVOLUTINON 3
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   The game lets you creatively manage your own amusement park in your own style.
                                 </p>
                             </div>
                         </article>
