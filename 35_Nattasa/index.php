@@ -6,10 +6,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   <!-- add Css -->
     <link rel="stylesheet" href="./assets/style.css">
+   
+<!-- Wed Name -->
     <title>Nattasa</title>
 </head>
 
+
+<!-- Navbar -->
 <nav class="navbar">
     <a href="#title1" class="a-navbar">หัวข้อที่1</a>
     <a href="#title2" class="a-navbar">หัวข้อที่2</a>
@@ -20,12 +26,22 @@
 
 <body>
 
+<!-- Title -->
 <div class="div-title">
     <h1 class="title-h1">h1</h1>
 </div>
     <h2 class="title-h2">Subtitle</h2>
 
-   <img src="./assets/img/3.jpg" alt="" class="">
+<section class="section-content"> <img src="./assets/img/3.jpg" alt="" class="">
+
+
+<!-- Youtube -->
+   <iframe width="550" height="550" src="https://www.youtube.com/embed/3qIlFGwJzX8?si=YbfyTXbXSiD6liLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+    <!-- googlemaps/ -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3854.2206528059282!2d102.09686957587874!3d14.98045166766242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31194c99684d59b1%3A0xf187768cb357515d!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lit4Liy4LiK4Li14Lin4Lio4Li24LiB4Lip4Liy4LiZ4LiE4Lij4Lij4Liy4LiK4Liq4Li14Lih4Liy!5e0!3m2!1sth!2sth!4v1762827778148!5m2!1sth!2sth" width="600" height="600 " style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores saepe inventore voluptates explicabo non quo, quasi repellat nisi ad animi exercitationem totam veritatis reprehenderit dolor eius quod nam impedit architecto?
 Omnis, iusto eveniet. Aperiam, nostrum hic nobis libero, placeat dignissimos sint voluptates, quasi cumque numquam quis ipsam commodi officiis? Nisi, ipsa aperiam. Debitis non autem quam vel, porro eos a.
 Voluptas vel accusantium nihil totam maxime illum, esse non molestiae earum fugit, dignissimos debitis repellendus expedita ducimus tenetur assumenda pariatur hic! Necessitatibus, modi natus dolorum odit eos reprehenderit totam quos.
@@ -37,6 +53,9 @@ Aliquam architecto facere saepe optio quidem magnam, amet adipisci distinctio is
 Ratione dicta, aut nostrum nisi perferendis a odio voluptatem eos amet magnam explicabo labore, quas eligendi incidunt excepturi reprehenderit voluptatibus. Eaque impedit architecto at nulla odio est obcaecati maiores ducimus?
 Corrupti nam quis nemo. Sequi magni et repudiandae libero provident distinctio ab architecto doloremque nisi dolorem! Iusto tempora, atque, laboriosam dolore esse minus quasi voluptatem doloribus maxime autem magni eaque?</p>
 
+
+</section>
+  
    <div class="div-title"id="title2">
         <h2 class="title-h1">h2</h2>
     </div>
