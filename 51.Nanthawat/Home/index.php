@@ -83,8 +83,7 @@
                         The best Game <br> hub <br> .com
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        Your reliable and fast game purchase point.
                     </p>
 
                     <form action="" class="home__search">
