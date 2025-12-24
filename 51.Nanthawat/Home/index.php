@@ -381,7 +381,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/O2.jpg" alt="">
+                        <img src="assets/img/OMG.png" alt="">
                     </div>
                 </div>
 
