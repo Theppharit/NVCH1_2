@@ -28,15 +28,15 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Holux <i class='bx bxs-home-alt-2'></i>
+             My Car <i class='bx bxs-Car-alt-2'></i>
             </a>
 
             <div class="nav__menu">
                 <ul class="nav__list">
                     <li class="nav__item">
-                        <a href="#home" class="nav__link active-link">
-                            <i class='bx bx-home-alt-2'></i>
-                            <span>Home</span>
+                        <a href="#Car" class="nav__link active-link">
+                            <i class='bx bx-Car-alt-2'></i>
+                            <span>Car</span>
                         </a>
                     </li>
 
@@ -75,56 +75,55 @@
     <!--==================== MAIN ====================-->
     <main class="main">
         
-        <!--==================== HOME ====================-->
-        <section class="home section" id="home">
-            <div class="home__container container grid">
-                <div class="home__data">
-                    <h1 class="home__title">
+        <!--==================== CAR ====================-->
+        <section class="Car section" id="Car">
+            <div class="Car__container container grid">
+                <div class="Car__data">
+                    <h1 class="Car__title">
                         Discover <br> Most Suitable <br> Property
                     </h1>
-                    <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                    <p class="Car__description">
+                       Welcome to our collection of great, driving cars.
                     </p>
 
-                    <form action="" class="home__search">
+                    <form action="" class="Car__search">
                         <i class='bx bxs-map'></i>
-                        <input type="search" placeholder="Search by location..." class="home__search-input">
+                        <input type="search" placeholder="Search by location..." class="Car__search-input">
                         <button class="button">Search</button>
                     </form>
 
-                    <div class="home__value">
+                    <div class="Car__value">
                         <div>
-                            <h1 class="home__value-number">
-                                9K <span>+</span>
+                            <h1 class="Car__value-number">
+                                90K <span>+</span>
                             </h1>
-                            <span class="home__value-description">
+                            <span class="Car__value-description">
                                 Premium <br> Product
                             </span>
                         </div>
 
                         <div>
-                            <h1 class="home__value-number">
-                                2K <span>+</span>
+                            <h1 class="Car__value-number">
+                                200K <span>+</span>
                             </h1>
-                            <span class="home__value-description">
+                            <span class="Car__value-description">
                                 Happy <br> Customer
                             </span>
                         </div>
 
                         <div>
-                            <h1 class="home__value-number">
-                                28K <span>+</span>
+                            <h1 class="Car__value-number">
+                                56K <span>+</span>
                             </h1>
-                            <span class="home__value-description">
+                            <span class="Car__value-description">
                                 Awards <br> Winning
                             </span>
                         </div>
                     </div>
                 </div>
 
-                <div class="home__images">
-                    <div class="home__orbe"></div>
+                <div class="Car__images">
+                    <div class="Car__orbe"></div>
 
                     <div class="home__img">
                         <img src="assets/img/home.jpg" alt="">
