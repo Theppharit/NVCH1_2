@@ -83,8 +83,7 @@
                         Discover <br> Most Suitable <br> Property
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        Welcome, please feel free to take a look at our vehicles.
                     </p>
 
                     <form action="" class="home__search">
@@ -96,7 +95,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                2.1M <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +104,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                2K <span>+</span>
+                                1.9M <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +113,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                28K <span>+</span>
+                                1.7M <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -169,7 +168,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>90,000
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -177,7 +176,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(230, 154, 78, 0.62)
                                 </p>
                             </div>
                         </article>
