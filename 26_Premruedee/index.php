@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Holux <i class='bx bxs-home-alt-2'></i>
+                Prime House <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
@@ -137,19 +137,7 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
-                </div>
-
-                <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
-                </div>
-
-                <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
-                </div>
-
-                <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/10.png" alt="">
                 </div>
             </div>
         </section>
@@ -165,7 +153,7 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/1.webp" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -273,7 +261,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/8.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +371,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                         <img src="assets/img/6.webp" alt="">
                     </div>
                 </div>
 
