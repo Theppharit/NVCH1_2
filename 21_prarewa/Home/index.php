@@ -432,19 +432,7 @@
                             </div>
 
                             <button class="button contact__card-button">
-                                Chat Now
-                            </button>
-                        </div>
-                        <div class="contact__card-box">
-                            <div class="contact__card-info">
-                                <i class='bx bxs-video'></i>
-                                <div>
-                                    <h3 class="contact__card-title">
-                                        Video Call
-                                    </h3>
-                                    <p class="contact__card-description">
-                                       
-                                   
+                                Chat Now                                                                                          
                             </button>
                         </div>
                     </div>
