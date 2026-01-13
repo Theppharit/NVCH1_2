@@ -1,0 +1,59 @@
+rot {
+    --theme-c:olor: #20f53d;
+}
+/*main*/
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar {
+    width: 100vw;
+    height: 50 px;
+    background-color: #06054d;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    gap: 30px;
+}
+
+.div-title{
+    width: 100vw;
+    height: 100px;
+    background-color: #1970f1;
+    display: flex;o
+    align-items:center;
+    justify-content: center;
+}
+
+/* section setup*/
+.section-content {
+    dispiay: flex;
+    flex-direction: column;
+    gap:20px;
+    padding: 5rem;
+    
+}
+
+.title-h1 {
+    color:rgb(33, 216, 161);
+}
+.title-p1 {
+    color: #df0101;
+}
+.title-h2 {
+    color: #4414f0;
+}
+.title-p2 {
+    color: #27808b;
+}
+.title-h3 {
+    color: #e24848;
+}
+.title-p3 {
+    color: #6a0883;
+}
