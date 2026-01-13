@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -165,15 +165,15 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/7.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>550
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -183,15 +183,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>450
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -201,15 +201,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>550
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -219,15 +219,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>750
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -237,15 +237,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>990
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/6.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/8.jpg" alt="">
                     </div>
                 </div>
 
