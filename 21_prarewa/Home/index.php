@@ -186,7 +186,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>50,000
                                 </h2>
 
                                 <h3 class="popular__title">
