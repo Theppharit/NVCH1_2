@@ -165,7 +165,7 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/ saransiri-prachauthit-90-housetype-aster-a-thumbnaail.webp  " alt="" class="saransiri-prachauthit-90-housetype-aster-a-thumbnaail.webp">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
