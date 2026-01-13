@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Searcher <br> Image GIF and manga <br> Property
+                        Discover <br> Most Suitable <br> Property
                     </h1>
                     <p class="home__description">
                         Find a variety of properties that suit you very easily,
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/Yuu_Izumi_anime4.webp" alt="">
+                        <img src="assets/img/home.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,19 +137,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie_volume_20_real.webp" alt="">
+                    <img src="assets/img/logo1.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie_manga_Visual4.webp" alt="">
+                    <img src="assets/img/logo2.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie_anime_visual2.webp" alt="">
+                    <img src="assets/img/logo3.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie__Anime_Visual2.webp" alt="">
+                    <img src="assets/img/logo4.png" alt="">
                 </div>
             </div>
         </section>
@@ -159,7 +159,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular GIF<span>.</span>
+                    Popular Residences<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -169,7 +169,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.04
+                                    <span>$</span>66,356
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -187,7 +187,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.05
+                                    <span>$</span>35,159
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -205,7 +205,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.07
+                                    <span>$</span>75,043
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -223,7 +223,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.054
+                                    <span>$</span>62,024
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -241,7 +241,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.047
+                                    <span>$</span>47,043
                                 </h2>
 
                                 <h3 class="popular__title">

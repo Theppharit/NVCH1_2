@@ -17,7 +17,7 @@
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/styles.css">
 
-    <title>Index</title>
+    <title>VLK</title>
 
 </head>
 
@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Holux <i class='bx bxs-home-alt-2'></i>
+                Hommies <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Searcher <br> Image GIF and manga <br> Property
+                        Discover <br> Most Suitable <br> Property
                     </h1>
                     <p class="home__description">
                         Find a variety of properties that suit you very easily,
@@ -96,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                90K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                2K <span>+</span>
+                                200K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                28K <span>+</span>
+                                280K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/Yuu_Izumi_anime4.webp" alt="">
+                        <img src="assets/img/home.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,19 +137,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie_volume_20_real.webp" alt="">
+                    <img src="assets/img/HomesB.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie_manga_Visual4.webp" alt="">
+                    <img src="assets/img/RichhomeTH.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie_anime_visual2.webp" alt="">
+                    <img src="assets/img/AKRA.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/Shikimori's_Not_Just_a_Cutie__Anime_Visual2.webp" alt="">
+                    <img src="assets/img/Baan.png" alt="">
                 </div>
             </div>
         </section>
@@ -159,17 +159,17 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular GIF<span>.</span>
+                    Popular Residences<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/SHERA.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.04
+                                    <span>B</span>3,725,356
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -183,11 +183,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/Banmuetwo.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.05
+                                    <span>B</span>7,335,159
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -201,11 +201,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/modernH1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.07
+                                    <span>B</span>7,775,043
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -219,11 +219,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/jabH.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.054
+                                    <span>B</span>9,962,024
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -237,11 +237,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/HPI.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.047
+                                    <span>B</span>9,847,043
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -409,7 +409,7 @@
                                         call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        080.001.536.9
                                     </p>
                                 </div>
                             </div>
@@ -427,7 +427,7 @@
                                         Chat
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        valeria-channn FB
                                     </p>
                                 </div>
                             </div>
@@ -445,7 +445,7 @@
                                         Video Call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        VLK_TH
                                     </p>
                                 </div>
                             </div>
@@ -463,7 +463,7 @@
                                         Message
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                         VLKPTR
                                     </p>
                                 </div>
                             </div>
@@ -481,7 +481,7 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with Holux
+                    Get Started with Hommies
                 </h1>
                 <p class="subscribe__description">
                     Subscribe and find super attractive price
@@ -499,7 +499,7 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    Holux<i class='bx bxs-home-alt-2'></i>
+                    Hommies<i class='bx bxs-home-alt-2'></i>
                 </a>
 
                 <p class="footer__description">
