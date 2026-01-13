@@ -7,13 +7,13 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(228, 66%, 53%);
-  --first-color-alt: hsl(228, 66%, 47%);
+  --first-color: hsl(0, 84%, 52%);
+  --first-color-alt: hsl(228, 80%, 57%);
   --first-color-light: hsl(228, 62%, 59%);
   --first-color-lighten: hsl(228, 100%, 97%);
   --second-color: hsl(51, 78%, 58%);
   --title-color: hsl(228, 57%, 28%);
-  --text-color: hsl(228, 15%, 50%);
+  --text-color: hsl(228, 19%, 45%);
   --text-color-light: hsl(228, 12%, 75%);
   --border-color: hsl(228, 99%, 98%);
   --body-color: #fff;
@@ -112,7 +112,7 @@ button{
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
   --first-color: hsl(228, 66%, 62%);
-  --second-color: hsl(25, 57%, 54%);
+  --second-color: hsl(51, 85%, 69%);
   --title-color: hsl(228, 8%, 95%);
   --text-color: hsl(228, 8%, 70%);
   --border-color: hsl(228, 16%, 14%);
