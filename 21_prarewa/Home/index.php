@@ -125,8 +125,8 @@
                 <div class="Car__images">
                     <div class="Car__orbe"></div>
 
-                    <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                    <div class="Car__img">
+                        <img src="car1.jpg" alt="">
                     </div>
                 </div>
             </div>
