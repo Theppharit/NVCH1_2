@@ -14,21 +14,13 @@ img {
 .navbar {
     width: 100vw;
     height: 50 px;
-    background-color: #5cf32e;
+    background-color: #06054d;
     display: flex;
     align-items:center;
     justify-content:space-between;
     gap: 30px;
 }
 
-/* section setup */
-.section-content {
-    display: flex;
-    flex-direction: column;
-    gap: 20px ;
-    padding: 10rem ;
-
-}
 .div-title{
     width: 100vw;
     height: 100px;
@@ -36,6 +28,15 @@ img {
     display: flex;o
     align-items:center;
     justify-content: center;
+}
+
+/* section setup*/
+.section-content {
+    dispiay: flex;
+    flex-direction: column;
+    gap:20px;
+    padding: 5rem;
+    
 }
 
 .title-h1 {

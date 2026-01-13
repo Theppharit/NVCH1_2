@@ -17,7 +17,7 @@
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/styles.css">
 
-    <title>Index</title>
+    <title>VLK</title>
 
 </head>
 
@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                HomePage <i class='bx bxs-home-alt-2'></i>
+                Hommies <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
@@ -80,10 +80,11 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        The best Game <br> hub <br> .com
+                        Discover <br> Most Suitable <br> Property
                     </h1>
                     <p class="home__description">
-                        Your reliable and fast game purchase point.
+                        Find a variety of properties that suit you very easily,
+                        forget all difficulties in finding a residence for you
                     </p>
 
                     <form action="" class="home__search">
@@ -95,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                105K <span>+</span>
+                                90K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -104,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                510K <span>+</span>
+                                200K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -113,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                800K <span>+</span>
+                                280K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -126,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/รูปหน้าร้าน.png" alt="">
+                        <img src="assets/img/home.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -136,19 +137,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/100.png" alt="">
+                    <img src="assets/img/HomesB.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/200.png" alt="">
+                    <img src="assets/img/RichhomeTH.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/300.png" alt="">
+                    <img src="assets/img/AKRA.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/400.png" alt="">
+                    <img src="assets/img/Baan.png" alt="">
                 </div>
             </div>
         </section>
@@ -164,91 +165,91 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/m3.avif" alt="" class="popular__img">
+                            <img src="assets/img/SHERA.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>1,793
+                                    <span>B</span>3,725,356
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    ARK SURVIVAL EVOLVED
+                                    Garden City Assat
                                 </h3>
 
                                 <p class="popular__description">
-                                    The game's content is a survival adventure in an open world.
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/m2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/Banmuetwo.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>1,099
+                                    <span>B</span>7,335,159
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    JURASSIC WORLD EVOLUTINON 1
+                                    Gables Luxurious House
                                 </h3>
 
                                 <p class="popular__description">
-                                    The game lets you creatively manage your own amusement park in your own style.
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/m1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/modernH1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>2,597
+                                    <span>B</span>7,775,043
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    JURASSIC WORLD EVOLUTINON 2
+                                    Garden Orchard City
                                 </h3>
 
                                 <p class="popular__description">
-                                    The game lets you creatively manage your own amusement park in your own style.
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/G3.avif" alt="" class="popular__img">
+                            <img src="assets/img/jabH.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>3,699
+                                    <span>B</span>9,962,024
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    JURASSIC WORLD EVOLUTINON 3
+                                    Luxurious City Garden
                                 </h3>
 
                                 <p class="popular__description">
-                                   The game lets you creatively manage your own amusement park in your own style.
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/g4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/HPI.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>3,700
+                                    <span>B</span>9,847,043
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    ARK SURVIVAL ASCENDED
+                                    Aliva Private Garden
                                 </h3>
 
                                 <p class="popular__description">
-                                    The game's content is a survival adventure in an open world.
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
@@ -272,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/O1.jpg" alt="">
+                        <img src="assets/img/value.jpg" alt="">
                     </div>
                 </div>
 
@@ -284,7 +285,8 @@
                             Value We Give To You<span>.</span>
                         </h2>
                         <p class="value__description">
-                           We are always ready to help by providing you with the best service. We believe that good entertainment to relieve stress can make your life better.
+                            We always ready to help by providing the best service for you.
+                            We believe a good place to live can make your life better.
                         </p>
                     </div>
 
@@ -381,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/OMG.png" alt="">
+                        <img src="assets/img/contact.png" alt="">
                     </div>
                 </div>
 
@@ -392,7 +394,9 @@
                             Easy to Contact us<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Having trouble finding your dream entertainment? Need advice on your first experience? Or need advice on a problem? Just contact us.
+                            Is there a problem finding your dream home? Need a
+                            guide in buying first home? or need a consultation
+                            on residential issues? just contact us.
                         </p>
                     </div>
 
@@ -405,7 +409,7 @@
                                         call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        080.001.536.9
                                     </p>
                                 </div>
                             </div>
@@ -423,7 +427,7 @@
                                         Chat
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        valeria-channn FB
                                     </p>
                                 </div>
                             </div>
@@ -441,7 +445,7 @@
                                         Video Call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        VLK_TH
                                     </p>
                                 </div>
                             </div>
@@ -459,7 +463,7 @@
                                         Message
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                         VLKPTR
                                     </p>
                                 </div>
                             </div>
@@ -477,7 +481,7 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with ThebestGamehub.com
+                    Get Started with Hommies
                 </h1>
                 <p class="subscribe__description">
                     Subscribe and find super attractive price
@@ -495,7 +499,7 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    HomePage<i class='bx bxs-home-alt-2'></i>
+                    Hommies<i class='bx bxs-home-alt-2'></i>
                 </a>
 
                 <p class="footer__description">
