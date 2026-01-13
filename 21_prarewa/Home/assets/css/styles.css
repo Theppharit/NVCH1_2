@@ -100,7 +100,7 @@ button{
 /*=============== THEME ===============*/
 .change-theme{
   font-size: 1.25rem;
-  color: #fff;
+  color: #ee5454;
   cursor: pointer;
   transition: .3s;
 }
@@ -113,7 +113,7 @@ button{
 body.dark-theme{
   --first-color: hsl(228, 66%, 62%);
   --second-color: hsl(51, 85%, 69%);
-  --title-color: hsl(228, 8%, 95%);
+  --title-color: hsl(210, 59%, 66%);
   --text-color: hsl(228, 8%, 70%);
   --border-color: hsl(228, 16%, 14%);
   --body-color: hsl(228, 12%, 8%);
@@ -228,7 +228,7 @@ body.dark-theme{
 }
 
 .nav__logo {
-  color: #fff;
+  color: #b362ccde;
   display: inline-flex;
   align-items: center;
   column-gap: .25rem;
@@ -305,7 +305,7 @@ body.dark-theme{
 
 .home__title,
 .home__value-number{
-  color: #fff;
+  color: #6bdf5bab;
 }
 
 .home__title{
@@ -375,8 +375,8 @@ body.dark-theme{
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-      hsl(0, 0%, 16%) 93%,
-      hsl(0, 0%, 67%) 100%);
+      hsl(342, 59%, 58%) 93%,
+      hsl(0, 0%, 100%) 100%);
   border-radius: 135px 135px 0 0;
 }
 
@@ -396,8 +396,8 @@ body.dark-theme{
 .button {
   display: inline-block;
   background: linear-gradient(101deg,
-      hsl(228, 66%, 53%),
-      hsl(228, 66%, 47%));
+      hsl(228, 82%, 49%),
+      hsl(209, 71%, 61%));
   color: #fff;
   padding: 14px 28px;
   border-radius: .5rem;
@@ -706,7 +706,7 @@ box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25);
 }
 
 .contact__card-box:hover{
-  box-shadow: 0 8px 24px hsla(228, 66%, 45%, .1);
+  box-shadow: 0 8px 24px hsla(182, 66%, 45%, 0.671);
 }
 
 /*=============== SUBSCRIBE ===============*/
@@ -1244,7 +1244,7 @@ bottom: -2.5rem;
   }
 
   .home__container{
-    column-gap: 4rem;
+    column-gap: 6rem;
   }
 }
 
