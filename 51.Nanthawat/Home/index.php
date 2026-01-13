@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Prime House <i class='bx bxs-home-alt-2'></i>
+                HomePage <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        The best Game <br> hub <br> .com
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        Your reliable and fast game purchase point.
                     </p>
 
                     <form action="" class="home__search">
@@ -96,7 +95,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                15K <span>+</span>
+                                105K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +104,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                20K <span>+</span>
+                                510K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +113,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                35K <span>+</span>
+                                800K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/7.jpg" alt="">
+                        <img src="assets/img/รูปหน้าร้าน.png" alt="">
                     </div>
                 </div>
             </div>
@@ -137,7 +136,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/10.png" alt="">
+                    <img src="assets/img/100.png" alt="">
+                </div>
+
+                <div class="logos__img">
+                    <img src="assets/img/200.png" alt="">
+                </div>
+
+                <div class="logos__img">
+                    <img src="assets/img/300.png" alt="">
+                </div>
+
+                <div class="logos__img">
+                    <img src="assets/img/400.png" alt="">
                 </div>
             </div>
         </section>
@@ -153,91 +164,91 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/1.webp" alt="" class="popular__img">
+                            <img src="assets/img/m3.avif" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>4,490,000
+                                    <span>$</span>1,793
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Anasiri Rama 2 - Outer Ring Road
+                                    ARK SURVIVAL EVOLVED
                                 </h3>
 
                                 <p class="popular__description">
-                                    165 Phanthai Norasing, Mueang Samut Sakhon District, Samut Sakhon 74000 
+                                    The game's content is a survival adventure in an open world.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/2.webp" alt="" class="popular__img">
+                            <img src="assets/img/m2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>5,390,000
+                                    <span>$</span>1,099
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Anasiri Rattanathibet
+                                    JURASSIC WORLD EVOLUTINON 1
                                 </h3>
 
                                 <p class="popular__description">
-                                    Anasiri Rattanathibet 111 Project, Bang Rak Phatthana Subdistrict, Bang Bua Thong District, Nonthaburi 11110, Thailand
+                                    The game lets you creatively manage your own amusement park in your own style.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/3.webp" alt="" class="popular__img">
+                            <img src="assets/img/m1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>14,000,000
+                                    <span>$</span>2,597
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Burasiri Chatu Choti
+                                    JURASSIC WORLD EVOLUTINON 2
                                 </h3>
 
                                 <p class="popular__description">
-                                    342 Chatu Chot 12, Ao Ngoen, Sai Mai, Bangkok 10220
+                                    The game lets you creatively manage your own amusement park in your own style.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/4.webp" alt="" class="popular__img">
+                            <img src="assets/img/G3.avif" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>4,000,000
+                                    <span>$</span>3,699
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Anasiri Wongwaen - Lam Luk Ka
+                                    JURASSIC WORLD EVOLUTINON 3
                                 </h3>
 
                                 <p class="popular__description">
-                                    Motorway access road, Bueng Kham Phroi Subdistrict, Lam Luk Ka District, Pathum Thani 12150
+                                   The game lets you creatively manage your own amusement park in your own style.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/5.webp" alt="" class="popular__img">
+                            <img src="assets/img/g4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>5,990,000
+                                    <span>$</span>3,700
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Saransiri Ratchaphruek - 346
+                                    ARK SURVIVAL ASCENDED
                                 </h3>
 
                                 <p class="popular__description">
-                                    100, Bang Duea Subdistrict, Mueang Pathum Thani District, Pathum Thani 12140
+                                    The game's content is a survival adventure in an open world.
                                 </p>
                             </div>
                         </article>
@@ -261,7 +272,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/8.jpg" alt="">
+                        <img src="assets/img/O1.jpg" alt="">
                     </div>
                 </div>
 
@@ -273,8 +284,7 @@
                             Value We Give To You<span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                           We are always ready to help by providing you with the best service. We believe that good entertainment to relieve stress can make your life better.
                         </p>
                     </div>
 
@@ -371,7 +381,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/6.webp" alt="">
+                        <img src="assets/img/OMG.png" alt="">
                     </div>
                 </div>
 
@@ -382,9 +392,7 @@
                             Easy to Contact us<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            Having trouble finding your dream entertainment? Need advice on your first experience? Or need advice on a problem? Just contact us.
                         </p>
                     </div>
 
@@ -469,7 +477,7 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with Holux
+                    Get Started with ThebestGamehub.com
                 </h1>
                 <p class="subscribe__description">
                     Subscribe and find super attractive price
@@ -487,7 +495,7 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    Holux<i class='bx bxs-home-alt-2'></i>
+                    HomePage<i class='bx bxs-home-alt-2'></i>
                 </a>
 
                 <p class="footer__description">
