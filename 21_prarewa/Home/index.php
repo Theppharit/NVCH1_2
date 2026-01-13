@@ -126,7 +126,7 @@
                     <div class="Car__orbe"></div>
 
                     <div class="Car__img">
-                        <img src="car1.jpg" alt="">
+                        <img src="21_prarewa/Home/assets/img/car1.jpg"</div>
                     </div>
                 </div>
             </div>
