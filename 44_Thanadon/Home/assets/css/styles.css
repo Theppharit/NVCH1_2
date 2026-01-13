@@ -284,8 +284,8 @@ body.dark-theme{
 /* Active link */
 .active-link{
   background: linear-gradient(101deg,
-  hsl(73, 59%, 41%),
-  hsl(73, 89%, 45%));
+  hsl(0, 59%, 41%),
+  hsl(0, 89%, 45%));
   color: #fff;
   box-shadow: 0 4px 8px hsl(228, 66%, 45%, .25);
 }
