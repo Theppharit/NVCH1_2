@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Holux <i class='bx bxs-home-alt-2'></i>
+                My Home <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
