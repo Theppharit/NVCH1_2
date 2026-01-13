@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Discover <br> Good quality house! <br> Property
                     </h1>
                     <p class="home__description">
                         Welcome, please feel free to take a look at our vehicles.
@@ -408,7 +408,7 @@
                                         call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        044-659-5896
                                     </p>
                                 </div>
                             </div>
@@ -426,7 +426,7 @@
                                         Chat
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        
                                     </p>
                                 </div>
                             </div>
@@ -444,7 +444,7 @@
                                         Video Call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                       
                                     </p>
                                 </div>
                             </div>
@@ -462,7 +462,7 @@
                                         Message
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                       
                                     </p>
                                 </div>
                             </div>
@@ -480,7 +480,7 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with Holux
+                    Get Started with My Home
                 </h1>
                 <p class="subscribe__description">
                     Subscribe and find super attractive price
@@ -498,7 +498,7 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    Holux<i class='bx bxs-home-alt-2'></i>
+                    My Home<i class='bx bxs-home-alt-2'></i>
                 </a>
 
                 <p class="footer__description">
