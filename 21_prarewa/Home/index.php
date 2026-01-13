@@ -435,8 +435,44 @@
                                 Chat Now
                             </button>
                         </div>
+                        <div class="contact__card-box">
+                            <div class="contact__card-info">
+                                <i class='bx bxs-video'></i>
+                                <div>
+                                    <h3 class="contact__card-title">
+                                        Video Call
+                                    </h3>
+                                    <p class="contact__card-description">
+                                        022.321.165.19
+                                    </p>
+                                </div>
+                            </div>
 
-                       
+                            <button class="button contact__card-button">
+                                Video Call Now
+                            </button>
+                        </div>
+                        <div class="contact__card-box">
+                            <div class="contact__card-info">
+                                <i class='bx bxs-envelope'></i>
+                                <div>
+                                    <h3 class="contact__card-title">
+                                        Message
+                                    </h3>
+                                    <p class="contact__card-description">
+                                        022.321.165.19
+                                    </p>
+                                </div>
+                            </div>
+
+                            <button class="button contact__card-button">
+                                Message Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>       
 
         <!--==================== SUBSCRIBE ====================-->
         <section class="subscribe section">
@@ -556,16 +592,7 @@
             </div>
         </div>
     </footer>
-
-
-
-
-
-
-
-
     
-
     <!--========== SCROLL UP ==========-->
     <a href="#" class="scrollup" id="scroll-up">
         <i class='bx bx-chevrons-up'></i>
