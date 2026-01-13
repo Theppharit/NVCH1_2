@@ -204,7 +204,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>100,090
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -222,7 +222,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>65,00
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -240,7 +240,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>30,500
                                 </h2>
 
                                 <h3 class="popular__title">
