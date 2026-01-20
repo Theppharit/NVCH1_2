@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./assets/style.css">
 
     <!-- Web Name -->
-    <title>Theppharit</title>
+    <title>Premruedee</title>
 
 </head>
 
