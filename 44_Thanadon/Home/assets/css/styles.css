@@ -111,13 +111,13 @@ button{
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
-  --first-color: hsl(228, 66%, 62%);
-  --second-color: hsl(25, 57%, 54%);
-  --title-color: hsl(228, 8%, 95%);
-  --text-color: hsl(228, 8%, 70%);
-  --border-color: hsl(228, 16%, 14%);
-  --body-color: hsl(228, 12%, 8%);
-  --container-color: hsl(228, 16%, 12%);
+  --first-color: hsl(0, 0%, 7%);
+  --second-color: hsl(319, 52%, 39%);
+  --title-color: hsl(295, 47%, 71%);
+  --text-color: hsl(209, 54%, 51%);
+  --border-color: hsl(230, 46%, 70%);
+  --body-color: hsl(228, 10%, 52%);
+  --container-color: hsl(228, 7%, 87%);
 }
 
 /*========== 
@@ -284,8 +284,8 @@ body.dark-theme{
 /* Active link */
 .active-link{
   background: linear-gradient(101deg,
-  hsl(228, 66%, 53%),
-  hsl(228, 66%,47% ));
+  hsl(0, 0%, 100%),
+  hsl(0, 89%, 45%));
   color: #fff;
   box-shadow: 0 4px 8px hsl(228, 66%, 45%, .25);
 }
@@ -375,8 +375,8 @@ body.dark-theme{
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-      hsl(0, 0%, 16%) 93%,
-      hsl(0, 0%, 67%) 100%);
+      hsl(0, 94%, 49%) 93%,
+      hsl(0, 39%, 47%) 100%);
   border-radius: 135px 135px 0 0;
 }
 
@@ -397,7 +397,7 @@ body.dark-theme{
   display: inline-block;
   background: linear-gradient(101deg,
       hsl(228, 66%, 53%),
-      hsl(228, 66%, 47%));
+      hsl(227, 21%, 70%));
   color: #fff;
   padding: 14px 28px;
   border-radius: .5rem;
