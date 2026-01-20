@@ -111,13 +111,13 @@ button{
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
-  --first-color: hsl(228, 66%, 62%);
-  --second-color: hsl(25, 57%, 54%);
+  --first-color: hsl(309, 80%, 53%);
+  --second-color: hsl(347, 72%, 48%);
   --title-color: hsl(228, 8%, 95%);
   --text-color: hsl(228, 8%, 70%);
-  --border-color: hsl(228, 16%, 14%);
-  --body-color: hsl(228, 12%, 8%);
-  --container-color: hsl(228, 16%, 12%);
+  --border-color: hsla(328, 82%, 45%, 0.722);
+  --body-color: hsl(317, 76%, 27%);
+  --container-color: hsl(0, 85%, 48%);
 }
 
 /*========== 
