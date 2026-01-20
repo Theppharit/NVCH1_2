@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(330, 70%, 46%);
+  --first-color: hsl(330, 72%, 18%);
   --first-color-alt: hsl(138, 45%, 33%);
   --first-color-light: hsl(228, 62%, 59%);
   --first-color-lighten: hsl(288, 100%, 97%);
@@ -17,7 +17,7 @@
   --text-color-light: hsl(228, 12%, 75%);
   --border-color: hsl(228, 99%, 98%);
   --body-color: #fff;
-  --container-color: #704747;
+  --container-color: #ec40b3;
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
