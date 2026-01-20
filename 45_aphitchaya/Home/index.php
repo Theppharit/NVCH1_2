@@ -96,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                12K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                2K <span>+</span>
+                                9K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                28K <span>+</span>
+                                42K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
