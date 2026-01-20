@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                2K <span>+</span>
+                                200K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                28K <span>+</span>
+                                280K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -159,13 +159,13 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    bathroom accessories<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/4.png" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -173,17 +173,17 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    urinal
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   urinal
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -191,17 +191,17 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    lotus squash
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                  lotus squash
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -209,17 +209,17 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                   skibidi toilet
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    skibidi toilet dop dop yes yes
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/5.png" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -227,17 +227,17 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    hand washing
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    hand washing
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/6.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -245,11 +245,12 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                 Luxury toilet
+
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                     Luxury toilet
                                 </p>
                             </div>
                         </article>
@@ -273,7 +274,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/7.png" alt="">
                     </div>
                 </div>
 
@@ -282,11 +283,13 @@
                     <div class="value__data">
                         <span class="section__subtitle">Our Value</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                           
+                                  
+                          Bathroom        <span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                          
+                             Bathroom for men and women
                         </p>
                     </div>
 
@@ -383,7 +386,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/8.jpg" alt="">
                     </div>
                 </div>
 
@@ -391,12 +394,10 @@
                     <div class="contact__data">
                         <span class="section__subtitle">Contact Us</span>
                         <h2 class="section__title">
-                            Easy to Contact us<span>.</span>
+                           shower<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            Take a shower to maintain cleanliness.
                         </p>
                     </div>
 

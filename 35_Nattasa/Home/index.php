@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Happiness in every slice <br> "Baked with love <br>  served with joy
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                       A special recipe cake, thoughtfully prepared and perfectly baked to deliver a harmonious balance of sweetness, softness, and rich aroma.
                     </p>
 
                     <form action="" class="home__search">
@@ -159,7 +158,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    A very delicious cake<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -282,12 +281,11 @@
                     <div class="value__data">
                         <span class="section__subtitle">Our Value</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                            A show-stopping cake<span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
-                        </p>
+                            
+                        </p>A rich, moist cake made from carefully selected quality ingredients, offering a deep, satisfying flavor and a smooth, tender crumb.
                     </div>
 
                     <div class="value__accordion">
@@ -391,12 +389,10 @@
                     <div class="contact__data">
                         <span class="section__subtitle">Contact Us</span>
                         <h2 class="section__title">
-                            Easy to Contact us<span>.</span>
+                           A homemade cake that melts in your mouth<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            A soft and fluffy cake, freshly baked to perfection, with a delicate sweetness and a light, airy texture in every bite.
                         </p>
                     </div>
 
