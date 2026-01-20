@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/1111.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,19 +137,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/114.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/142.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/000.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/001.jpg" alt="">
                 </div>
             </div>
         </section>
@@ -165,91 +165,81 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/777.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>14.799,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    BMW M3
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/154.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>29,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    McLaren 720S
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/227.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>3,500,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    Dodge Challenger Models
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/13.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>36,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    GT-R50
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/111.png" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>3,799,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    Ford Mustang
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
@@ -273,7 +263,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/1111.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +373,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/111.png" alt="">
                     </div>
                 </div>
 
