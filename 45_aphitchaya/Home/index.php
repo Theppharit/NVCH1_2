@@ -173,7 +173,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    Lovely Home Garden
                                 </h3>
 
                                 <p class="popular__description">
@@ -191,7 +191,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    Lovely Home Cozy
                                 </h3>
 
                                 <p class="popular__description">
@@ -209,7 +209,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    Lovely Home Warm
                                 </h3>
 
                                 <p class="popular__description">
