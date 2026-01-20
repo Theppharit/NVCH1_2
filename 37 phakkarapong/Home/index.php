@@ -127,8 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/1111.jpg" alt="">
-                        <img src="assets/img/11.jpg" alt="">
+                        <img src="assets/img/0.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -166,7 +165,7 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/888-Copy.jpg" alt="" class="popular__img">
+                            <img src="assets/img/1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -182,7 +181,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/225-Copy.jpg" alt="" class="popular__img">
+                            <img src="assets/img/2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -198,7 +197,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/18-Copy.jpg" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -214,7 +213,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/15-Copy.jpg" alt="" class="popular__img">
+                            <img src="assets/img/4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -230,7 +229,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/111-Copy.png" alt="" class="popular__img">
+                            <img src="assets/img/111.png" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -264,7 +263,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/1111.jpg" alt="">
+                        <img src="assets/img/0.jpg" alt="">
                     </div>
                 </div>
 
