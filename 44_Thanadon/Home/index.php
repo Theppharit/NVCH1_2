@@ -159,7 +159,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    bathroom accessories<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -177,7 +177,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(65, 11, 190, 0.4)
                                 </p>
                             </div>
                         </article>
@@ -213,13 +213,13 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(196, 107, 18, 0.4)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/5.png" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -227,17 +227,17 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    hand washing
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(28, 119, 32, 0.4)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/6.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -245,7 +245,8 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                 Luxury toilet
+
                                 </h3>
 
                                 <p class="popular__description">
