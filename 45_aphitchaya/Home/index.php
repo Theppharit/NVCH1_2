@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Sweet <br> Home <br> Studio
                     </h1>
                     <p class="home__description">
                         Find a variety of properties that suit you very easily,
