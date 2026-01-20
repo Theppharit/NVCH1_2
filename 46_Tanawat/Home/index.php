@@ -17,7 +17,7 @@
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/styles.css">
 
-    <title>Index</title>
+    <title>VLK</title>
 
 </head>
 
@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Holux <i class='bx bxs-home-alt-2'></i>
+                Hommies <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
@@ -96,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                90K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/1.png" alt="">
+                        <img src="assets/img/home.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,19 +137,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/HomesB.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/RichhomeTH.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/AKRA.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/Baan.png" alt="">
                 </div>
             </div>
         </section>
@@ -159,39 +159,21 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    bathroom accessories<span>.</span>
+                    Popular Residences<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/4.png" alt="" class="popular__img">
+                            <img src="assets/img/SHERA.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>B</span>3,725,356
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    urinal
-                                </h3>
-
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(65, 11, 190, 0.4)
-                                </p>
-                            </div>
-                        </article>
-
-                        <article class="popular__card swiper-slide">
-                            <img src="assets/img/2.jpg" alt="" class="popular__img">
-
-                            <div class="popular__data">
-                                <h2 class="popular__price">
-                                    <span>$</span>35,159
-                                </h2>
-
-                                <h3 class="popular__title">
-                                    lotus squash
+                                    Garden City Assat
                                 </h3>
 
                                 <p class="popular__description">
@@ -201,52 +183,69 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/Banmuetwo.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>B</span>7,335,159
                                 </h2>
 
                                 <h3 class="popular__title">
-                                   skibidi toilet
+                                    Gables Luxurious House
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(196, 107, 18, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/5.png" alt="" class="popular__img">
+                            <img src="assets/img/modernH1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>B</span>7,775,043
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    hand washing
+                                    Garden Orchard City
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(28, 119, 32, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/6.jpg" alt="" class="popular__img">
+                            <img src="assets/img/jabH.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>B</span>9,962,024
                                 </h2>
 
                                 <h3 class="popular__title">
-                                 Luxury toilet
+                                    Luxurious City Garden
+                                </h3>
 
+                                <p class="popular__description">
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                </p>
+                            </div>
+                        </article>
+
+                        <article class="popular__card swiper-slide">
+                            <img src="assets/img/HPI.jpg" alt="" class="popular__img">
+
+                            <div class="popular__data">
+                                <h2 class="popular__price">
+                                    <span>B</span>9,847,043
+                                </h2>
+
+                                <h3 class="popular__title">
+                                    Aliva Private Garden
                                 </h3>
 
                                 <p class="popular__description">
@@ -274,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/.jpg" alt="">
+                        <img src="assets/img/value.jpg" alt="">
                     </div>
                 </div>
 
@@ -384,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/6420-399450000.jpg" alt="">
+                        <img src="assets/img/contact.png" alt="">
                     </div>
                 </div>
 
@@ -410,7 +409,7 @@
                                         call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        080.001.536.9
                                     </p>
                                 </div>
                             </div>
@@ -428,7 +427,7 @@
                                         Chat
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        valeria-channn FB
                                     </p>
                                 </div>
                             </div>
@@ -446,7 +445,7 @@
                                         Video Call
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        VLK_TH
                                     </p>
                                 </div>
                             </div>
@@ -464,7 +463,7 @@
                                         Message
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                         VLKPTR
                                     </p>
                                 </div>
                             </div>
@@ -482,7 +481,7 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with Holux
+                    Get Started with Hommies
                 </h1>
                 <p class="subscribe__description">
                     Subscribe and find super attractive price
@@ -500,7 +499,7 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    Holux<i class='bx bxs-home-alt-2'></i>
+                    Hommies<i class='bx bxs-home-alt-2'></i>
                 </a>
 
                 <p class="footer__description">
