@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Sweet <br> Home <br> Studio
+                        Discover <br> Most Suitable <br> Property
                     </h1>
                     <p class="home__description">
                         Find a variety of properties that suit you very easily,
@@ -96,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                12K <span>+</span>
+                                9K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                2K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                42K <span>+</span>
+                                28K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/2438567e4c0e1a4e12368fc7875116f6.jpg" alt="">
+                        <img src="assets/img/home.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/95106aef517eee38f5f8af83f1694262.jpg" alt="">
+                    <img src="assets/img/logo1.png" alt="">
                 </div>
 
                 <div class="logos__img">
@@ -145,7 +145,7 @@
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/2bc3e62d103ae29afbb0d11c54db8999.jpg" alt="">
+                    <img src="assets/img/logo3.png" alt="">
                 </div>
 
                 <div class="logos__img">
@@ -159,17 +159,17 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                  Our Lovely Homes   <span>.</span>
+                    Popular Residences<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/d26b30bc6a4373271955833e6ce2f6e6.jpg " alt="d26b30bc6a4373271955833e6ce2f6e6.jpg" class="">
+                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>48,500
+                                    <span>$</span>66,356
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -177,17 +177,17 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(238, 85, 174, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/8e61e49d4db4e08fac19cb60bccf0e9e.jpg" alt="" class="8e61e49d4db4e08fac19cb60bccf0e9e.jpg">
+                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>50,000
+                                    <span>$</span>35,159
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -195,17 +195,17 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(231, 79, 186, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/57491fe3bc64dffa59477840aaa12811.jpg" alt="" class="57491fe3bc64dffa59477840aaa12811.jpg">
+                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>65,000
+                                    <span>$</span>75,043
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -213,17 +213,17 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(240, 79, 199, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/e84f2d9895630347f6adbe655284304b.jpg" alt="" class="e84f2d9895630347f6adbe655284304b.jpg">
+                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>69,200
+                                    <span>$</span>62,024
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -231,17 +231,17 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(241, 56, 133, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/7bf1d9e74bf33817feca4189062ac988.jpg" alt="" class="7bf1d9e74bf33817feca4189062ac988.jpg">
+                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>85,500
+                                    <span>$</span>47,043
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -249,7 +249,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(226, 106, 216, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/7e6d29edabfba8e964f06646263419fb.jpg" alt="">
+                        <img src="assets/img/value.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/debb33e17256af495d7c13e57fe5e92d.jpg" alt="">
+                        <img src="assets/img/contact.png" alt="">
                     </div>
                 </div>
 
