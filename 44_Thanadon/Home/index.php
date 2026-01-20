@@ -250,7 +250,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(189, 100, 11, 0.4)
                                 </p>
                             </div>
                         </article>
@@ -274,7 +274,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/.jpg" alt="">
+                        <img src="assets/img/7.png" alt="">
                     </div>
                 </div>
 
@@ -283,11 +283,13 @@
                     <div class="value__data">
                         <span class="section__subtitle">Our Value</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                           
+                                  
+                          Bathroom        <span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                          
+                             Bathroom for men and women
                         </p>
                     </div>
 
