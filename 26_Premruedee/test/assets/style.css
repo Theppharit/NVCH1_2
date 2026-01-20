@@ -77,15 +77,15 @@ img {
 }
 
 .title-h3 {
-  color: orange;
+  color: rgb(65, 207, 153);
 }
 
 .title-h4 {
-  color: purple;
+  color: rgb(214, 89, 204);
 }
 
 .title-h5 {
-  color: green;
+  color: rgb(212, 30, 60);
 }
 
 /* เพิ่มเอฟเฟกต์ hover ให้กล่อง */
