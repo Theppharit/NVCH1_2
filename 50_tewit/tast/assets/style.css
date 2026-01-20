@@ -1,5 +1,5 @@
-:root {
-    --theme-color: #20f53d;
+rot {
+    --theme-c:olor: #20f53d;
 }
 /*main*/
 *{
@@ -33,7 +33,7 @@ img {
     width: 100vw;
     height: 100px;
     background-color: #1970f1;
-    display: flex;
+    display: flex;o
     align-items:center;
     justify-content: center;
 }

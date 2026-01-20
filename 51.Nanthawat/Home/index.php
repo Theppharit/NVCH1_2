@@ -272,7 +272,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/O1.jpg" alt="">
                     </div>
                 </div>
 
@@ -381,7 +381,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/OMG.png" alt="">
                     </div>
                 </div>
 
