@@ -127,7 +127,11 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
+<<<<<<< HEAD
                         <img src="assets/img/1111.jpg" alt="">
+=======
+                        <img src="assets/img/11.jpg" alt="">
+>>>>>>> 6db4ea94d9257f6449e6cc866235c2851024736c
                     </div>
                 </div>
             </div>
@@ -165,7 +169,11 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
+<<<<<<< HEAD
                             <img src="assets/img/777.jpg" alt="" class="popular__img">
+=======
+                            <img src="assets/img/12.jpg" alt="" class="popular__img">
+>>>>>>> 6db4ea94d9257f6449e6cc866235c2851024736c
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -181,7 +189,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
+<<<<<<< HEAD
                             <img src="assets/img/154.jpg" alt="" class="popular__img">
+=======
+                            <img src="assets/img/13.jpg" alt="" class="popular__img">
+>>>>>>> 6db4ea94d9257f6449e6cc866235c2851024736c
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -197,7 +209,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
+<<<<<<< HEAD
                             <img src="assets/img/227.jpg" alt="" class="popular__img">
+=======
+                            <img src="assets/img/18.jpg" alt="" class="popular__img">
+>>>>>>> 6db4ea94d9257f6449e6cc866235c2851024736c
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -213,7 +229,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
+<<<<<<< HEAD
                             <img src="assets/img/13.jpg" alt="" class="popular__img">
+=======
+                            <img src="assets/img/15.jpg" alt="" class="popular__img">
+>>>>>>> 6db4ea94d9257f6449e6cc866235c2851024736c
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -229,7 +249,11 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
+<<<<<<< HEAD
                             <img src="assets/img/111.png" alt="" class="popular__img">
+=======
+                            <img src="assets/img/17.jpg" alt="" class="popular__img">
+>>>>>>> 6db4ea94d9257f6449e6cc866235c2851024736c
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
