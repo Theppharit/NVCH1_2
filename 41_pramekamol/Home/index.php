@@ -205,7 +205,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>75,040
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -427,7 +427,7 @@
                                         Chat
                                     </h3>
                                     <p class="contact__card-description">
-                                        022.321.165.19
+                                        022.321.165.20
                                     </p>
                                 </div>
                             </div>

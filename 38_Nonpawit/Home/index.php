@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/homebmw.jpg" alt="">
+                        <img src="assets/img/homebmw2.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -165,37 +165,40 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularbmw1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>14,999,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    BMW M3 CS (2023)
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Gasoline i6 3.0L M TwinTurbo 
+                                    551 PS 650 NM M Steptronic M xDrive 
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularbmw2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>14,999,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    BMW M4 CS (2025)
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Gasoline L6 3.0L TwinPower Turbo 
+                                    551 PS 650 NM 8AT WRD
+                                    
                                 </p>
                             </div>
                         </article>

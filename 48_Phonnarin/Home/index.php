@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -36,7 +36,7 @@
                     <li class="nav__item">
                         <a href="#home" class="nav__link active-link">
                             <i class='bx bx-home-alt-2'></i>
-                            <span>Home</span>
+                            <span>Travel</span>
                         </a>
                     </li>
 
@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        State-of-the-art <br> Fleet expansion <br> Operational excellence
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        The Future of Aviation is Here. Engineered for Precision, Built for Safety.
                     </p>
 
                     <form action="" class="home__search">
@@ -96,28 +95,28 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                20M <span>+</span>
                             </h1>
                             <span class="home__value-description">
-                                Premium <br> Product
+                                Premium <br> Superior payload
                             </span>
                         </div>
 
                         <div>
                             <h1 class="home__value-number">
-                                2K <span>+</span>
+                                2M <span>+</span>
                             </h1>
                             <span class="home__value-description">
-                                Happy <br> Customer
+                                Happy <br> Unrivaled performance
                             </span>
                         </div>
 
                         <div>
                             <h1 class="home__value-number">
-                                28K <span>+</span>
+                                28M <span>+</span>
                             </h1>
                             <span class="home__value-description">
-                                Awards <br> Winning
+                                good <br> better
                             </span>
                         </div>
                     </div>
@@ -127,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="images(6).jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,15 +136,15 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/images.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/images (5).jpg" alt="">
                 </div>
 
                 <div class="logos__img">
@@ -159,21 +158,75 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    Airbus A350<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/images (1).jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>30000000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    Airbus A350
+                                </h3>
+
+                                <p class="popular__description">
+                                    Experience the Future of Flight: Airbus A350. Engineering Perfection, Delivered rgba(121, 215, 21, 0.4)
+                                </p>
+                            </div>
+                        </article>
+
+                        <article class="popular__card swiper-slide">
+                            <img src="assets/img/images (2).jpg" alt="" class="popular__img">
+
+                            <div class="popular__data">
+                                <h2 class="popular__price">
+                                    <span>$</span>309999999
+                                </h2>
+
+                                <h3 class="popular__title">
+                                    Airbus A350
+                                </h3>
+
+                                <p class="popular__description">
+                                    A350: The Ultimate Wide-Body Advantage Sol #9876
+                                </p>
+                            </div>
+                        </article>
+
+                        <article class="popular__card swiper-slide">
+                            <img src="assets/img/images (3).jpg" alt="" class="popular__img">
+
+                            <div class="popular__data">
+                                <h2 class="popular__price">
+                                    <span>$</span>190000000
+                                </h2>
+
+                                <h3 class="popular__title">
+                                    Airbus A350
+                                </h3>
+
+                                <p class="popular__description">
+                                    The Sky is No Longer the Limit for Comfort. Discover the Quietest Cabin in its Class #9876
+                                </p>
+                            </div>
+                        </article>
+
+                        <article class="popular__card swiper-slide">
+                            <img src="assets/img/images (4).jpg" alt="" class="popular__img">
+
+                            <div class="popular__data">
+                                <h2 class="popular__price">
+                                    <span>$</span>24593222
+                                </h2>
+
+                                <h3 class="popular__title">
+                                    Airbus A350
                                 </h3>
 
                                 <p class="popular__description">
@@ -183,73 +236,19 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/images (7).jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>269999999
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    Airbus A350
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
-                                </p>
-                            </div>
-                        </article>
-
-                        <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
-
-                            <div class="popular__data">
-                                <h2 class="popular__price">
-                                    <span>$</span>75,043
-                                </h2>
-
-                                <h3 class="popular__title">
-                                    Garden Orchard City
-                                </h3>
-
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
-                                </p>
-                            </div>
-                        </article>
-
-                        <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
-
-                            <div class="popular__data">
-                                <h2 class="popular__price">
-                                    <span>$</span>62,024
-                                </h2>
-
-                                <h3 class="popular__title">
-                                    Luxurious City Garden
-                                </h3>
-
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
-                                </p>
-                            </div>
-                        </article>
-
-                        <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
-
-                            <div class="popular__data">
-                                <h2 class="popular__price">
-                                    <span>$</span>47,043
-                                </h2>
-
-                                <h3 class="popular__title">
-                                    Aliva Private Garden
-                                </h3>
-
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Go Further, Burn Less. The A350 — Redefining Long-Haul Efficiency with 25% Lower Fuel Burn #9876
                                 </p>
                             </div>
                         </article>
@@ -273,7 +272,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/1920_csm_Lufthansa_Airbus_350_28ee8421cc-889422.jpg" alt="">
                     </div>
                 </div>
 
