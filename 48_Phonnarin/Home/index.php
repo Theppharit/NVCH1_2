@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                200K <span>+</span>
+                                2K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                280K <span>+</span>
+                                28K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/1.png" alt="">
+                        <img src="assets/img/home.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -165,7 +165,7 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/4.png" alt="" class="popular__img">
+                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -173,7 +173,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    urinal
+                                    Garden City Assat
                                 </h3>
 
                                 <p class="popular__description">
@@ -183,7 +183,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -191,7 +191,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    lotus squash
+                                    Gables Luxurious House
                                 </h3>
 
                                 <p class="popular__description">
@@ -201,7 +201,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -209,7 +209,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                   skibidi toilet
+                                    Garden Orchard City
                                 </h3>
 
                                 <p class="popular__description">
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/.jpg" alt="">
+                        <img src="assets/img/value.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/6420-399450000.jpg" alt="">
+                        <img src="assets/img/contact.png" alt="">
                     </div>
                 </div>
 
