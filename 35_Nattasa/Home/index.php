@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Prime House <i class='bx bxs-home-alt-2'></i>
+                Holux <i class='bx bxs-home-alt-2'></i>
             </a>
 
             <div class="nav__menu">
@@ -96,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                15K <span>+</span>
+                                9K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                20K <span>+</span>
+                                2K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                35K <span>+</span>
+                                28K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/7.jpg" alt="">
+                        <img src="assets/img/1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,7 +137,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/10.png" alt="">
+                    <img src="assets/img/logo1.png" alt="">
+                </div>
+
+                <div class="logos__img">
+                    <img src="assets/img/logo2.png" alt="">
+                </div>
+
+                <div class="logos__img">
+                    <img src="assets/img/logo3.png" alt="">
+                </div>
+
+                <div class="logos__img">
+                    <img src="assets/img/logo4.png" alt="">
                 </div>
             </div>
         </section>
@@ -153,91 +165,91 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/1.webp" alt="" class="popular__img">
+                            <img src="assets/img/7.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>4,490,000
+                                    <span>$</span>550
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Anasiri Rama 2 - Outer Ring Road
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
-                                    165 Phanthai Norasing, Mueang Samut Sakhon District, Samut Sakhon 74000 
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/2.webp" alt="" class="popular__img">
+                            <img src="assets/img/2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>5,390,000
+                                    <span>$</span>450
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Anasiri Rattanathibet
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
-                                    Anasiri Rattanathibet 111 Project, Bang Rak Phatthana Subdistrict, Bang Bua Thong District, Nonthaburi 11110, Thailand
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/3.webp" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>14,000,000
+                                    <span>$</span>550
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Burasiri Chatu Choti
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
-                                    342 Chatu Chot 12, Ao Ngoen, Sai Mai, Bangkok 10220
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/4.webp" alt="" class="popular__img">
+                            <img src="assets/img/4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>4,000,000
+                                    <span>$</span>750
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Anasiri Wongwaen - Lam Luk Ka
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
-                                    Motorway access road, Bueng Kham Phroi Subdistrict, Lam Luk Ka District, Pathum Thani 12150
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/5.webp" alt="" class="popular__img">
+                            <img src="assets/img/5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>฿</span>5,990,000
+                                    <span>$</span>990
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Saransiri Ratchaphruek - 346
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
-                                    100, Bang Duea Subdistrict, Mueang Pathum Thani District, Pathum Thani 12140
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
@@ -261,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/8.jpg" alt="">
+                        <img src="assets/img/6.jpg" alt="">
                     </div>
                 </div>
 
@@ -371,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                         <img src="assets/img/6.webp" alt="">
+                        <img src="assets/img/8.jpg" alt="">
                     </div>
                 </div>
 
