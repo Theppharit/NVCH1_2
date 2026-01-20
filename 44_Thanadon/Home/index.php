@@ -191,7 +191,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    lotus squash
                                 </h3>
 
                                 <p class="popular__description">
@@ -201,7 +201,7 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -209,7 +209,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                   skibidi toilet
                                 </h3>
 
                                 <p class="popular__description">
