@@ -165,58 +165,56 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popularbmw1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>14,999,000
+                                    <span>$</span>4,999,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    BMW M3 CS (2023)
+                                    LOTUS EMEYA 600 
                                 </h3>
 
                                 <p class="popular__description">
-                                    Gasoline i6 3.0L M TwinTurbo 
-                                    551 PS 650 NM M Steptronic M xDrive 
+                                    ขับเคลื่อนด้วยมอเตอร์ไฟฟ้าคู่ ให้กำลังสูงสุด 603 แรงม้า แรงบิดสูงสุด 710 นิวตันเมตร และความเร็วสูงสุด 250 กม./ชม. มีแบตเตอรี่ความจุ 102 kWh วิ่งได้ไกลสูงสุด 610 กม. เป็นรถไฟฟ้าในรูปแบบ Hyper-GT 4 ประตู ที่ผสมผสานความหรูหราเข้ากับหลักอากาศพลศาสตร์ชั้นยอด 
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popularbmw2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>14,999,000
+                                    <span>$</span>7,450,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    BMW M4 CS (2025)
+                                    LOTUS ELETRE 900 SPORT
                                 </h3>
 
                                 <p class="popular__description">
-                                    Gasoline L6 3.0L TwinPower Turbo 
-                                    551 PS 650 NM 8AT WRD
+                                   ขับเคลื่อนด้วยมอเตอร์ไฟฟ้าคู่ ให้กำลังสูงสุด 905 แรงม้า แรงบิดสูงสุด 985 นิวตันเมตร และความเร็วสูงสุด 265 กม./ชม. มีแบตเตอรี่ 112 kWh วิ่งได้ 410-500 กม.เป็นรถขับเคลื่อน 4 ล้อที่เน้นความหรูหราและความแรงในระดับ Hyper-SUV. 
                                     
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>120,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    LOTUS EVJA
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    ขับเคลื่อนด้วยมอเตอร์ไฟฟ้า 4 ตัว (1 ตัวต่อ 1 ล้อ) ให้กำลังสูงสุดถึง 2,039 แรงม้า (PS) แรงบิดสูงสุด 1,704 นิวตันเมตร และทำความเร็วสูงสุดได้มากกว่า 350 กม./ชม. มีแบตเตอรี่ความจุ 93 kWh วิ่งได้ไกลประมาณ 346 กม. (WLTP) เป็นสุดยอดไฮเปอร์คาร์ไฟฟ้าที่ผลิตจำนวนจำกัดเพียง 130 คันทั่วโลก โดดเด่นด้วยดีไซน์รูลม (Venturi Tunnels) ขนาดใหญ่ที่ช่วยสร้างแรงกดมหาศาล
                                 </p>
                             </div>
                         </article>
