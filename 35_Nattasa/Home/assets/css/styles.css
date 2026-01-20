@@ -10,14 +10,14 @@
   --first-color: hsl(304, 64%, 57%);
   --first-color-alt: hsl(310, 54%, 60%);
   --first-color-light: hsl(313, 62%, 59%);
-  --first-color-lighten: hsl(350, 90%, 46%);
+  --first-color-lighten: hsl(264, 40%, 67%);
   --second-color: hsl(310, 58%, 46%);
-  --title-color: hsl(312, 58%, 64%);
+  --title-color: hsl(310, 27%, 21%);
   --text-color: hsl(299, 40%, 49%);
-  --text-color-light: hsl(0, 91%, 51%);
-  --border-color: hsl(352, 88%, 48%);
-  --body-color: #f40c0c;
-  --container-color: #e11313;
+  --text-color-light: hsl(307, 44%, 73%);
+  --border-color: hsl(312, 39%, 71%);
+  --body-color: #cc8fc6;
+  --container-color: #bd7fb8;
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -100,7 +100,7 @@ button{
 /*=============== THEME ===============*/
 .change-theme{
   font-size: 1.25rem;
-  color: #c80808;
+  color: #c784c0;
   cursor: pointer;
   transition: .3s;
 }
@@ -112,12 +112,12 @@ button{
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
   --first-color: hsl(309, 80%, 53%);
-  --second-color: hsl(347, 72%, 48%);
+  --second-color: hsl(347, 21%, 62%);
   --title-color: hsl(210, 83%, 49%);
   --text-color: hsl(226, 90%, 49%);
-  --border-color: hsla(328, 82%, 45%, 0.722);
-  --body-color: hsl(317, 76%, 27%);
-  --container-color: hsl(0, 85%, 48%);
+  --border-color: hsla(327, 67%, 87%, 0.722);
+  --body-color: hsl(316, 57%, 75%);
+  --container-color: hsl(324, 69%, 75%);
 }
 
 /*========== 
@@ -162,15 +162,15 @@ body.dark-theme{
 }
 
 .dark-theme::-webkit-scrollbar{
-  background-color: hsl(330, 94%, 48%);
+  background-color: hsl(330, 65%, 77%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb{
-  background-color: hsl(320, 99%, 46%);
+  background-color: hsl(320, 50%, 75%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb:hover{
-  background-color: hsl(308, 90%, 43%);
+  background-color: hsl(308, 69%, 70%);
 }
 
 /*=============== REUSABLE CSS CLASSES ===============*/
