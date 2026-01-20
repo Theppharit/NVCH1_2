@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                200K <span>+</span>
+                                2K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                280K <span>+</span>
+                                28K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/1.png" alt="">
+                        <img src="assets/img/2438567e4c0e1a4e12368fc7875116f6.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/95106aef517eee38f5f8af83f1694262.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
@@ -145,7 +145,7 @@
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/2bc3e62d103ae29afbb0d11c54db8999.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
@@ -165,15 +165,15 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/4.png" alt="" class="popular__img">
+                            <img src="assets/img/d26b30bc6a4373271955833e6ce2f6e6.jpg " alt="d26b30bc6a4373271955833e6ce2f6e6.jpg" class="">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>48,500
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    urinal
+                                    Garden City Assat
                                 </h3>
 
                                 <p class="popular__description">
@@ -183,15 +183,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/8e61e49d4db4e08fac19cb60bccf0e9e.jpg" alt="" class="8e61e49d4db4e08fac19cb60bccf0e9e.jpg">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>50,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    lotus squash
+                                    Gables Luxurious House
                                 </h3>
 
                                 <p class="popular__description">
@@ -201,29 +201,29 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/57491fe3bc64dffa59477840aaa12811.jpg" alt="" class="57491fe3bc64dffa59477840aaa12811.jpg">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>65,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                   skibidi toilet
+                                    Garden Orchard City
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(209, 128, 216, 0.4)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/e84f2d9895630347f6adbe655284304b.jpg" alt="" class="e84f2d9895630347f6adbe655284304b.jpg">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>69,200
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -231,17 +231,17 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(216, 131, 205, 0.4)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/7bf1d9e74bf33817feca4189062ac988.jpg" alt="" class="7bf1d9e74bf33817feca4189062ac988.jpg">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>85,500
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -249,7 +249,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(226, 106, 216, 0.4)
                                 </p>
                             </div>
                         </article>
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/.jpg" alt="">
+                        <img src="assets/img/7e6d29edabfba8e964f06646263419fb.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/6420-399450000.jpg" alt="">
+                        <img src="assets/img/debb33e17256af495d7c13e57fe5e92d.jpg" alt="">
                     </div>
                 </div>
 
