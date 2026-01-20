@@ -293,8 +293,8 @@ body.dark-theme{
 /*=============== HOME ===============*/
 .home{
   background: linear-gradient(170deg,
-      hsl(0, 0%, 22%) 0%,
-      hsl(0, 0%, 6%) 30%);
+      hsl(199, 86%, 51%) 0%,
+      hsl(182, 79%, 50%) 30%);
   padding-bottom: 0;
 }
 
@@ -305,7 +305,7 @@ body.dark-theme{
 
 .home__title,
 .home__value-number{
-  color: #fff;
+  color: #e04090;
 }
 
 .home__title{
@@ -375,8 +375,8 @@ body.dark-theme{
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-      hsl(0, 0%, 16%) 93%,
-      hsl(0, 0%, 67%) 100%);
+      hsl(295, 62%, 55%) 93%,
+      hsl(315, 88%, 52%) 100%);
   border-radius: 135px 135px 0 0;
 }
 
@@ -409,7 +409,7 @@ body.dark-theme{
 }
 
 .button:hover{
-  box-shadow: 0 4px 12px hsla(327, 83%, 35%, 0.25);
+  box-shadow: 0 4px 12px hsla(327, 95%, 45%, 0.25);
 }
 
 .nav__button{
