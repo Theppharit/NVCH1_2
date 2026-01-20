@@ -177,7 +177,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(65, 11, 190, 0.4)
+                                   urinal
                                 </p>
                             </div>
                         </article>
@@ -195,7 +195,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                  lotus squash
                                 </p>
                             </div>
                         </article>
@@ -213,7 +213,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(196, 107, 18, 0.4)
+                                    skibidi toilet dop dop yes yes
                                 </p>
                             </div>
                         </article>
@@ -231,7 +231,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(28, 119, 32, 0.4)
+                                    hand washing
                                 </p>
                             </div>
                         </article>
@@ -250,7 +250,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                     Luxury toilet
                                 </p>
                             </div>
                         </article>
@@ -274,7 +274,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/.jpg" alt="">
+                        <img src="assets/img/7.png" alt="">
                     </div>
                 </div>
 
@@ -283,11 +283,13 @@
                     <div class="value__data">
                         <span class="section__subtitle">Our Value</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                           
+                                  
+                          Bathroom        <span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                          
+                             Bathroom for men and women
                         </p>
                     </div>
 
@@ -384,7 +386,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/6420-399450000.jpg" alt="">
+                        <img src="assets/img/8.jpg" alt="">
                     </div>
                 </div>
 
@@ -392,12 +394,10 @@
                     <div class="contact__data">
                         <span class="section__subtitle">Contact Us</span>
                         <h2 class="section__title">
-                            Easy to Contact us<span>.</span>
+                           shower<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            Take a shower to maintain cleanliness.
                         </p>
                     </div>
 
