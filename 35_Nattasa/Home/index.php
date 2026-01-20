@@ -159,7 +159,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    A very delicious cake<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -282,7 +282,7 @@
                     <div class="value__data">
                         <span class="section__subtitle">Our Value</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                            A show-stopping cake<span>.</span>
                         </h2>
                         <p class="value__description">
                             We always ready to help by providing the best service for you.
@@ -391,7 +391,7 @@
                     <div class="contact__data">
                         <span class="section__subtitle">Contact Us</span>
                         <h2 class="section__title">
-                            Easy to Contact us<span>.</span>
+                           A homemade cake that melts in your mouth<span>.</span>
                         </h2>
                         <p class="contact__description">
                             Is there a problem finding your dream home? Need a
