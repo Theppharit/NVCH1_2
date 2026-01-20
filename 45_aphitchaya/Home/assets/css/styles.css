@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(330, 70%, 46%);
+  --first-color: hsl(330, 72%, 18%);
   --first-color-alt: hsl(138, 45%, 33%);
   --first-color-light: hsl(228, 62%, 59%);
   --first-color-lighten: hsl(288, 100%, 97%);
@@ -17,7 +17,7 @@
   --text-color-light: hsl(228, 12%, 75%);
   --border-color: hsl(228, 99%, 98%);
   --body-color: #fff;
-  --container-color: #704747;
+  --container-color: #ec40b3;
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -396,20 +396,20 @@ body.dark-theme{
 .button {
   display: inline-block;
   background: linear-gradient(101deg,
-      hsl(228, 66%, 53%),
-      hsl(228, 66%, 47%));
+      hsla(310, 89%, 49%, 0.781),
+      hsl(320, 79%, 34%));
   color: #fff;
   padding: 14px 28px;
   border-radius: .5rem;
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
-  box-shadow: 0 4px 8px hsla(228, 66%, 45%, .25);
+  box-shadow: 0 4px 8px hsla(325, 95%, 45%, 0.25);
   transition: .3s;
   cursor: pointer;
 }
 
 .button:hover{
-  box-shadow: 0 4px 12px hsla(228, 66%, 45%, .25);
+  box-shadow: 0 4px 12px hsla(327, 83%, 35%, 0.25);
 }
 
 .nav__button{
@@ -600,15 +600,15 @@ color: var(--first-color);
 }
 
 .accordion-open{
-  box-shadow: 0 12px 32px hsla(228, 66%, 45%, .1);
+  box-shadow: 0 12px 32px hsla(308, 76%, 40%, 0.1);
 }
 
 .accordion-open .value__accordion-icon{
-  box-shadow: 0 4% hsla(228, 66%, 45%, .1);
+  box-shadow: 0 4% hsla(310, 69%, 32%, 0.1);
 }
 
 .accordion-open .value__accordion-arrow{
-  box-shadow: 0 2% 4% hsla(228, 66%, 45%, .1);
+  box-shadow: 0 2% 4% hsla(325, 83%, 26%, 0.1);
 }
 
 .accordion-open .value__accordion-arrow i{
@@ -706,7 +706,7 @@ box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25);
 }
 
 .contact__card-box:hover{
-  box-shadow: 0 8px 24px hsla(228, 66%, 45%, .1);
+  box-shadow: 0 8px 24px hsla(308, 76%, 45%, 0.1);
 }
 
 /*=============== SUBSCRIBE ===============*/
@@ -841,16 +841,16 @@ column-gap: 1.25rem;
 ::-webkit-scrollbar{
   width: .6rem;
   border-radius: .5rem;
-  background-color: hsl(228, 8%, 76%);
+  background-color: hsl(300, 53%, 58%);
 }
 
 ::-webkit-scrollbar-thumb{
-  background-color: hsl(228, 8%, 64%);
+  background-color: hsl(286, 58%, 52%);
   border-radius: .5rem;
 }
 
 ::-webkit-scrollbar-thumb:hover{
-  background-color: hsl(228, 8%, 54%);
+  background-color: hsl(325, 57%, 49%);
 }
 
 /*=============== SCROLL UP ===============*/

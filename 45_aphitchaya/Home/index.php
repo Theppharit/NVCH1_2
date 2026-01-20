@@ -177,7 +177,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(238, 85, 174, 0.4)
                                 </p>
                             </div>
                         </article>
@@ -195,7 +195,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(231, 79, 186, 0.4)
                                 </p>
                             </div>
                         </article>
@@ -213,7 +213,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(209, 128, 216, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(240, 79, 199, 0.4)
                                 </p>
                             </div>
                         </article>
@@ -231,7 +231,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(216, 131, 205, 0.4)
+                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(241, 56, 133, 0.4)
                                 </p>
                             </div>
                         </article>

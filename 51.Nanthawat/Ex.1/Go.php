@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link rel="stylesheet" href="/51.Nanthawat/Ex.1/assets/Sky.css">
 </head>
 <body>
     
@@ -13,6 +15,6 @@
                     <p class="home__description">
                         Your reliable and fast game purchase point.
                     </p>
-                    
+
 </body>
 </html>
