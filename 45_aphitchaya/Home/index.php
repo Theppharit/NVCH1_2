@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Sweet <br> Home <br> Studio
                     </h1>
                     <p class="home__description">
                         Find a variety of properties that suit you very easily,
@@ -96,7 +96,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                12K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Product
@@ -105,7 +105,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                2K <span>+</span>
+                                9K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Happy <br> Customer
@@ -114,7 +114,7 @@
 
                         <div>
                             <h1 class="home__value-number">
-                                28K <span>+</span>
+                                42K <span>+</span>
                             </h1>
                             <span class="home__value-description">
                                 Awards <br> Winning
@@ -159,7 +159,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                  Our Lovely Homes   <span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
