@@ -177,7 +177,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(65, 11, 190, 0.4)
+                                   urinal
                                 </p>
                             </div>
                         </article>
@@ -195,7 +195,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                  lotus squash
                                 </p>
                             </div>
                         </article>
@@ -213,7 +213,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(196, 107, 18, 0.4)
+                                    skibidi toilet dop dop yes yes
                                 </p>
                             </div>
                         </article>
@@ -231,7 +231,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(28, 119, 32, 0.4)
+                                    hand washing
                                 </p>
                             </div>
                         </article>
@@ -250,7 +250,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol rgba(189, 100, 11, 0.4)
+                                     Luxury toilet
                                 </p>
                             </div>
                         </article>
