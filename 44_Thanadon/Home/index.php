@@ -165,7 +165,7 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/h.jpg" alt="" class="popular__img">
+                            <img src="assets/img/4.png" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -173,7 +173,7 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    urinal
                                 </h3>
 
                                 <p class="popular__description">
