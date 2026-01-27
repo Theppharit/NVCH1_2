@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Searcher <br> Image GIF and manga <br> Property
+                        Searcher <br> Image and manga <br> and manga
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        Search for manga that you like and are interested in
                     </p>
 
                     <form action="" class="home__search">
@@ -159,97 +158,97 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular GIF<span>.</span>
+                    Popular <span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/81RLNqPrnzL._AC_UF894,1000_QL80_.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.04
+                                    <span>$</span>12.99
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    Shikimoris-not-just-a-cutie 2
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/81NpJsLf3ML.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.05
+                                    <span>$</span>12.99
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    shikimoris-not-just-a-cutie 3
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/81Gj+2xB8qL._UF1000,1000_QL80_.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.07
+                                    <span>$</span>12.99
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    shikimoris-not-just-a-cutie 1
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/wp10757294.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.054
+                                    <span>$</span>12.99
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    shikimoris-not-just-a-cutie 4
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/Volume_5.webp" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>0.047
+                                    <span>$</span>12.99
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    shikimoris-not-just-a-cutie 5
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -265,6 +264,7 @@
             </div>
         </section>
 
+
         <!--==================== VALUE ====================-->
         <section class="value section" id="value">
             <div class="value__container container grid">
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/shikimoris-not-just-a-cutie.webp" alt="">
                     </div>
                 </div>
 
@@ -285,8 +285,7 @@
                             Value We Give To You<span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                            A manga to read with sweet moments that make your heart flutter
                         </p>
                     </div>
 

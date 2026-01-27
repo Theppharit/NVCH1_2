@@ -7,16 +7,16 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(330, 72%, 18%);
-  --first-color-alt: hsl(138, 45%, 33%);
+  --first-color: hsl(330, 62%, 81%);
+  --first-color-alt: hsl(238, 48%, 10%);
   --first-color-light: hsl(228, 62%, 59%);
-  --first-color-lighten: hsl(288, 100%, 97%);
+  --first-color-lighten: hsl(320, 61%, 56%);
   --second-color: hsl(187, 83%, 46%);
   --title-color: hsl(228, 27%, 32%);
-  --text-color: hsl(86, 55%, 49%);
-  --text-color-light: hsl(228, 12%, 75%);
-  --border-color: hsl(228, 99%, 98%);
-  --body-color: #fff;
+  --text-color: hsl(232, 52%, 6%);
+  --text-color-light: hsl(318, 53%, 54%);
+  --border-color: hsl(323, 46%, 74%);
+  --body-color: #cc89bd;
   --container-color: #ec40b3;
 
   /*========== Font and typography ==========*/
@@ -100,7 +100,7 @@ button{
 /*=============== THEME ===============*/
 .change-theme{
   font-size: 1.25rem;
-  color: #fff;
+  color: #e9b1d0;
   cursor: pointer;
   transition: .3s;
 }
@@ -111,13 +111,13 @@ button{
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
-  --first-color: hsl(228, 66%, 62%);
-  --second-color: hsl(25, 57%, 54%);
-  --title-color: hsl(228, 8%, 95%);
-  --text-color: hsl(228, 8%, 70%);
-  --border-color: hsl(228, 16%, 14%);
-  --body-color: hsl(228, 12%, 8%);
-  --container-color: hsl(228, 16%, 12%);
+  --first-color: hsl(228, 32%, 85%);
+  --second-color: hsl(304, 25%, 88%);
+  --title-color: hsl(300, 13%, 82%);
+  --text-color: hsl(302, 34%, 83%);
+  --border-color: hsl(316, 45%, 86%);
+  --body-color: hsl(333, 40%, 90%);
+  --container-color: hsl(328, 18%, 86%);
 }
 
 /*========== 
@@ -162,15 +162,15 @@ body.dark-theme{
 }
 
 .dark-theme::-webkit-scrollbar{
-  background-color: hsl(228, 4%, 15%);
+  background-color: hsl(310, 9%, 87%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb{
-  background-color: hsl(228, 4%, 25%);
+  background-color: hsl(330, 9%, 75%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb:hover{
-  background-color: hsl(228, 4%, 35%);
+  background-color: hsl(340, 13%, 74%);
 }
 
 /*=============== REUSABLE CSS CLASSES ===============*/
@@ -228,7 +228,7 @@ body.dark-theme{
 }
 
 .nav__logo {
-  color: #fff;
+  color: #dfa5cd;
   display: inline-flex;
   align-items: center;
   column-gap: .25rem;
@@ -284,10 +284,10 @@ body.dark-theme{
 /* Active link */
 .active-link{
   background: linear-gradient(101deg,
-  hsl(228, 66%, 53%),
-  hsl(228, 66%,47% ));
-  color: #fff;
-  box-shadow: 0 4px 8px hsl(228, 66%, 45%, .25);
+  hsl(303, 27%, 74%),
+  hsl(303, 49%, 79%));
+  color: #c53761;
+  box-shadow: 0 4px 8px hsla(303, 53%, 72%, 0.25);
 }
 
 /*=============== HOME ===============*/
@@ -305,7 +305,7 @@ body.dark-theme{
 
 .home__title,
 .home__value-number{
-  color: #e04090;
+  color: #e4abc8;
 }
 
 .home__title{
@@ -375,8 +375,8 @@ body.dark-theme{
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-      hsl(295, 62%, 55%) 93%,
-      hsl(315, 88%, 52%) 100%);
+      hsl(295, 29%, 63%) 93%,
+      hsl(316, 17%, 57%) 100%);
   border-radius: 135px 135px 0 0;
 }
 
@@ -389,16 +389,16 @@ body.dark-theme{
   display: inline-flex;
   align-items: flex-end;
   bottom: -1.5rem;
-  box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25);
+  box-shadow: 0 16px 32px hsla(303, 65%, 78%, 0.25);
 }
 
 /*=============== BUTTON ===============*/
 .button {
   display: inline-block;
   background: linear-gradient(101deg,
-      hsla(310, 89%, 49%, 0.781),
-      hsl(320, 79%, 34%));
-  color: #fff;
+      hsla(311, 54%, 81%, 0.781),
+      hsl(320, 43%, 80%));
+  color: #e9b6cf;
   padding: 14px 28px;
   border-radius: .5rem;
   font-size: var(--normal-font-size);
@@ -477,7 +477,7 @@ font-size: var(--small-font-size);
 }
 
 .popular__card:hover{
-  box-shadow: 0 12px 16px hsla(228, 66%, 45%, .1);
+  box-shadow: 0 12px 16px hsla(315, 96%, 45%, 0.1);
 }
 
 /* Swiper class */
@@ -522,7 +522,7 @@ color: var(--first-color);
 .value__orbe{
   width: 266px;
   height: 316px;
-  background-color: hsl(228, 24%, 97%);
+  background-color: hsl(327, 60%, 78%);
   border-radius: 135px 135px 16px 16px;
 }
 
@@ -632,7 +632,7 @@ color: var(--first-color);
 .contact__orbe{
   width: 266px;
   height: 316px;
-  background-color: hsl(228, 24%, 97%);
+  background-color: hsl(320, 89%, 65%);
   border-radius: 135px 135px 16px 16px;
 }
 
@@ -841,16 +841,16 @@ column-gap: 1.25rem;
 ::-webkit-scrollbar{
   width: .6rem;
   border-radius: .5rem;
-  background-color: hsl(300, 53%, 58%);
+  background-color: hsl(300, 26%, 91%);
 }
 
 ::-webkit-scrollbar-thumb{
-  background-color: hsl(286, 58%, 52%);
+  background-color: hsl(289, 21%, 85%);
   border-radius: .5rem;
 }
 
 ::-webkit-scrollbar-thumb:hover{
-  background-color: hsl(325, 57%, 49%);
+  background-color: hsl(328, 43%, 93%);
 }
 
 /*=============== SCROLL UP ===============*/
