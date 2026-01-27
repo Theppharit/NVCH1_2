@@ -859,7 +859,7 @@ column-gap: 1.25rem;
   right: 1rem;
   bottom: -30%;
   background-color: var(--container-color);
-  box-shadow: 0 8px 12px hsla(228, 66%, 45%, .1);
+  box-shadow: 0 8px 12px hsla(228, 70%, 54%, 0.658);
   display: inline-flex;
   padding: .35rem;
   border-radius: .25rem;

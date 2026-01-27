@@ -117,7 +117,7 @@
 }
 
 .swiper-3d .swiper-slide-shadow {
-  background: rgba(0, 0, 0, .15)
+  background: rgba(63, 52, 219, 0.952)
 }
 
 .swiper-3d .swiper-slide-shadow-left {
@@ -334,7 +334,7 @@
   height: var(--swiper-pagination-bullet-height, var(--swiper-pagination-bullet-size, 8px));
   display: inline-block;
   border-radius: 50%;
-  background: var(--swiper-pagination-bullet-inactive-color, #000);
+  background: var(--swiper-pagination-bullet-inactive-color, #2174d3);
   opacity: var(--swiper-pagination-bullet-inactive-opacity, .2)
 }
 
