@@ -294,7 +294,7 @@ body.dark-theme{
 .home{
   background: linear-gradient(170deg,
       hsl(0, 0%, 22%) 0%,
-      hsl(19, 74%, 64%) 30%);
+      hsl(187, 79%, 46%) 30%);
   padding-bottom: 0;
 }
 
@@ -600,7 +600,7 @@ color: var(--first-color);
 }
 
 .accordion-open{
-  box-shadow: 0 12px 32px hsla(150, 66%, 45%, 0.884);
+  box-shadow: 0 12px 32px hsla(197, 66%, 45%, 0.884);
 }
 
 .accordion-open .value__accordion-icon{
@@ -608,7 +608,7 @@ color: var(--first-color);
 }
 
 .accordion-open .value__accordion-arrow{
-  box-shadow: 0 2% 4% hsla(228, 66%, 45%, .1);
+  box-shadow: 0 2% 4% hsla(228, 69%, 47%, 0.774);
 }
 
 .accordion-open .value__accordion-arrow i{
@@ -702,7 +702,7 @@ box-shadow: 0 16px 32px hsla(54, 79%, 68%, 0.842);
 
 .contact__card-button:hover{
   background-color: var(--first-color);
-  color: #fff;
+  color: #1d81d3;
 }
 
 .contact__card-box:hover{
