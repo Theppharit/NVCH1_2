@@ -100,7 +100,7 @@ button{
 /*=============== THEME ===============*/
 .change-theme{
   font-size: 1.25rem;
-  color: #53d10a;
+  color: #e51cec;
   cursor: pointer;
   transition: .3s;
 }
@@ -112,8 +112,8 @@ button{
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
   --first-color: hsl(0, 0%, 7%);
-  --second-color: hsl(138, 77%, 51%);
-  --title-color: hsl(135, 59%, 48%);
+  --second-color: hsl(258, 81%, 48%);
+  --title-color: hsl(134, 48%, 20%);
   --text-color: hsl(209, 54%, 51%);
   --border-color: hsl(230, 46%, 70%);
   --body-color: hsl(228, 10%, 52%);
@@ -162,11 +162,11 @@ body.dark-theme{
 }
 
 .dark-theme::-webkit-scrollbar{
-  background-color: hsl(182, 100%, 52%);
+  background-color: hsl(182, 94%, 32%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb{
-  background-color: hsl(138, 94%, 45%);
+  background-color: hsl(278, 69%, 54%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb:hover{
@@ -228,7 +228,7 @@ body.dark-theme{
 }
 
 .nav__logo {
-  color: #fd1919;
+  color: #13b1e0;
   display: inline-flex;
   align-items: center;
   column-gap: .25rem;
@@ -285,7 +285,7 @@ body.dark-theme{
 .active-link{
   background: linear-gradient(101deg,
   hsl(66, 88%, 48%),
-  hsl(0, 89%, 45%));
+  hsl(155, 74%, 43%));
   color: #fff;
   box-shadow: 0 4px 8px hsl(228, 66%, 45%, .25);
 }
@@ -294,7 +294,7 @@ body.dark-theme{
 .home{
   background: linear-gradient(170deg,
       hsl(189, 86%, 51%) 0%,
-      hsl(120, 87%, 45%) 30%);
+      hsl(303, 87%, 39%) 30%);
   padding-bottom: 0;
 }
 
@@ -305,7 +305,7 @@ body.dark-theme{
 
 .home__title,
 .home__value-number{
-  color: #0dfc78;
+  color: #27a6e0;
 }
 
 .home__title{
@@ -375,8 +375,8 @@ body.dark-theme{
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-      hsl(0, 94%, 49%) 93%,
-      hsl(0, 39%, 47%) 100%);
+      hsl(0, 82%, 44%) 93%,
+      hsl(258, 62%, 41%) 100%);
   border-radius: 135px 135px 0 0;
 }
 
