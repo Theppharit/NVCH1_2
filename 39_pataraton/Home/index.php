@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/L.jpg" alt="">
+                        <img src="assets/img/l.jpg" alt="">
                     </div>
                 </div>
             </div>
