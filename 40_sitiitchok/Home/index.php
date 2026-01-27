@@ -136,20 +136,20 @@
         <!--==================== LOGOS ====================-->
         <section class="logos section">
             <div class="logos__container container grid">
-                <div class="101__img">
-                    <img src="assets/img/logo1.png" alt="">
+                <div class="logos__img">
+                    <img src="assets/img/101.jpg" alt="">
                 </div>
 
-                <div class="102__img">
-                    <img src="assets/img/logo2.png" alt="">
+                <div class="logos__img">
+                    <img src="assets/img/102.jpg" alt="">
                 </div>
 
-                <div class="103__img">
-                    <img src="assets/img/logo3.png" alt="">
+                <div class="logos__img">
+                    <img src="assets/img/103.jpg" alt="">
                 </div>
 
-                <div class="104__img">
-                    <img src="assets/img/logo4.png" alt="">
+                <div class="logos__img">
+                    <img src="assets/img/104.jpg" alt="">
                 </div>
             </div>
         </section>
