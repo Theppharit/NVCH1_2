@@ -155,6 +155,17 @@
                 <div class="logos__img">
                     <img src="assets/img/mclaren.png" alt="">
                 </div>
+
+                
+                <div class="logos__img">
+                    <img src="assets/img/lo.jpg" alt="">
+                </div>
+
+                
+                <div class="logos__img">
+                    <img src="assets/img/p.png" alt="">
+                </div>
+
             </div>
         </section>
 
@@ -267,7 +278,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/R.jpg" alt="">
                     </div>
                 </div>
 
@@ -377,7 +388,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/Lotus.jpg" alt="">
                     </div>
                 </div>
 
