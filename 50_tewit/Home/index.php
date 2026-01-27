@@ -382,7 +382,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/shikimori-not-just-a-cutie-shikimori 1.gif" alt="">
+                        <img src="assets/img/shikimoris-not-just-cute-shikimori 1.gif" alt="">
                     </div>
                 </div>
 
