@@ -293,7 +293,7 @@
                     <div class="value__accordion">
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bxs-shield value__accordion-icon'></i>
+                                <i class='bx bxs-car value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
                                     Low-Interest Auto Financing
                                 </h3>
@@ -312,7 +312,7 @@
 
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bxs-x-square value__accordion-icon'></i>
+                                <i class='bx bxs-wallet value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
                                     Transparent & Fixed Pricing
                                 </h3>
@@ -330,7 +330,7 @@
 
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bxs-bar-chart-square value__accordion-icon'></i>
+                                <i class='bx bxs-crown value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
                                     Premium Quality, Street Value
                                 </h3>
@@ -348,7 +348,7 @@
 
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bx-check-square value__accordion-icon'></i>
+                                <i class='bx bx-check-shield value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
 
                                     Certified Vehicle Safety
