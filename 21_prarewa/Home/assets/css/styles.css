@@ -100,7 +100,7 @@ button{
 /*=============== THEME ===============*/
 .change-theme{
   font-size: 1.25rem;
-  color: #ee5454;
+  color: #5492ee;
   cursor: pointer;
   transition: .3s;
 }
@@ -228,7 +228,7 @@ body.dark-theme{
 }
 
 .nav__logo {
-  color: #b362ccde;
+  color: #62cc9296;
   display: inline-flex;
   align-items: center;
   column-gap: .25rem;
@@ -249,7 +249,7 @@ body.dark-theme{
     position: fixed;
     bottom: 2rem;
     background-color: var(--container-color);
-    box-shadow: 0 8px 24px hsl(0, 79%, 68%);
+    box-shadow: 0 8px 24px hsl(204, 77%, 62%);
     width: 90%;
     left: 0;
     right: 0;
@@ -375,7 +375,7 @@ body.dark-theme{
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-      hsl(342, 59%, 58%) 93%,
+      hsl(216, 59%, 58%) 93%,
       hsl(0, 0%, 100%) 100%);
   border-radius: 135px 135px 0 0;
 }

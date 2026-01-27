@@ -126,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/DSC_2478-894x1024.jpg""alt="">
+                        <img src="assets/img/1131w-DC-pRhQlRH8.webp""alt="">
                     </div>
                 </div>
             </div>
