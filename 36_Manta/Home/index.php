@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Luxury Cars <br> Cool &<br> High-Value
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        "Own the masterpiece that defines you. Transform the hunt for rare icons into an extraordinary experience, right at your fingertips."
                     </p>
 
                     <form action="" class="home__search">
@@ -137,19 +136,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/logocar1.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/logocar2.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/logocar3.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/logocar4.png" alt="">
                 </div>
             </div>
         </section>
@@ -159,7 +158,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    CAR <span></span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -169,15 +168,15 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>4,999,000
+                                    <span>$</span>70,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    LOTUS EMEYA 600 
+                                    Pagani Zonda
                                 </h3>
 
                                 <p class="popular__description">
-                                    ขับเคลื่อนด้วยมอเตอร์ไฟฟ้าคู่ ให้กำลังสูงสุด 603 แรงม้า แรงบิดสูงสุด 710 นิวตันเมตร และความเร็วสูงสุด 250 กม./ชม. มีแบตเตอรี่ความจุ 102 kWh วิ่งได้ไกลสูงสุด 610 กม. เป็นรถไฟฟ้าในรูปแบบ Hyper-GT 4 ประตู ที่ผสมผสานความหรูหราเข้ากับหลักอากาศพลศาสตร์ชั้นยอด 
+                                    ตัวถังทำจากวัสดุพิเศษที่เรียกว่า Carbo-Titanium ซึ่งเป็นการผสมผสานระหว่างคาร์บอนไฟเบอร์กับไทเทเนียม ทำให้มีความแข็งแรงสูงแต่มีน้ำหนักเบามาก
                                 </p>
                             </div>
                         </article>
@@ -187,15 +186,15 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>7,450,000
+                                    <span>$</span>70,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    LOTUS ELETRE 900 SPORT
+                                    Koenigsegg One:1
                                 </h3>
 
                                 <p class="popular__description">
-                                   ขับเคลื่อนด้วยมอเตอร์ไฟฟ้าคู่ ให้กำลังสูงสุด 905 แรงม้า แรงบิดสูงสุด 985 นิวตันเมตร และความเร็วสูงสุด 265 กม./ชม. มีแบตเตอรี่ 112 kWh วิ่งได้ 410-500 กม.เป็นรถขับเคลื่อน 4 ล้อที่เน้นความหรูหราและความแรงในระดับ Hyper-SUV. 
+                                   ชื่อ One:1 มาจากอัตราส่วน พละกำลัง 1,360 แรงม้า ต่อ น้ำหนักตัวรถ 1,360 กิโลกรัม (1 แรงม้าแบกน้ำหนัก 1 กก.) ซึ่งเป็นสัดส่วนที่สมบูรณ์แบบที่สุดในทางวิศวกรรม
                                     
                                 </p>
                             </div>
@@ -206,51 +205,51 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>120,000,000
+                                    <span>$</span>200,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    LOTUS EVJA
+                                    Pagani Huayra BC
                                 </h3>
 
                                 <p class="popular__description">
-                                    ขับเคลื่อนด้วยมอเตอร์ไฟฟ้า 4 ตัว (1 ตัวต่อ 1 ล้อ) ให้กำลังสูงสุดถึง 2,039 แรงม้า (PS) แรงบิดสูงสุด 1,704 นิวตันเมตร และทำความเร็วสูงสุดได้มากกว่า 350 กม./ชม. มีแบตเตอรี่ความจุ 93 kWh วิ่งได้ไกลประมาณ 346 กม. (WLTP) เป็นสุดยอดไฮเปอร์คาร์ไฟฟ้าที่ผลิตจำนวนจำกัดเพียง 130 คันทั่วโลก โดดเด่นด้วยดีไซน์รูลม (Venturi Tunnels) ขนาดใหญ่ที่ช่วยสร้างแรงกดมหาศาล
+                                    รหัส "BC" (มาจากชื่อ Benny Caiola ลูกค้าคนแรกของ Pagani) เป็นรุ่นที่ถูกรีดน้ำหนักออกจนเหลือเพียง 1,218 กก.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>12,900,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    Hamann Mi5Sion - BMW M5
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    จุดเด่นที่สุดคือชุดแต่งไฟหน้าที่ทำให้รถดูเหมือน "ขมวดคิ้ว" ตลอดเวลา (Angry Look)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>111,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    Koenigsegg Gemera
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    ใช้เครื่องยนต์ 3 สูบ 2.0 ลิตร เทอร์โบคู่ (Tiny Friendly Giant) ทำงานร่วมกับมอเตอร์ไฟฟ้า ให้กำลังรวมสูงถึง 1,700 แรงม้า (ในรุ่นเริ่มต้น)
                                 </p>
                             </div>
                         </article>
