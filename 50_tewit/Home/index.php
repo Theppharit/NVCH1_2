@@ -172,11 +172,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    Shikimoris-not-just-a-cutie 2
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   
                                 </p>
                             </div>
                         </article>
@@ -190,11 +190,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    shikimoris-not-just-a-cutie 3
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -208,17 +208,17 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    shikimoris-not-just-a-cutie 1
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/lolo.jpg" alt="" class="popular__img">
+                            <img src="assets/img/wp10757294.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
@@ -226,11 +226,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    shikimoris-not-just-a-cutie 4
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -244,11 +244,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    shikimoris-not-just-a-cutie 5
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -264,6 +264,7 @@
             </div>
         </section>
 
+
         <!--==================== VALUE ====================-->
         <section class="value section" id="value">
             <div class="value__container container grid">
@@ -272,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/lolo.jpg" alt="">
+                        <img src="assets/img/shikimoris-not-just-a-cutie.webp" alt="">
                     </div>
                 </div>
 
