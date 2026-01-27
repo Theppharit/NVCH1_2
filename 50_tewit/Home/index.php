@@ -126,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/shikimoris-not-just-a-cutie.webp" alt="">
+                        <img src="assets/img/shikimoris-not-just-a-cutie14.webp" alt="">
                     </div>
                 </div>
             </div>
