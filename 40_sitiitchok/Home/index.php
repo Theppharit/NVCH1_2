@@ -80,7 +80,7 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Discover Your Perfect Match
                     </h1>
                     <p class="home__description">
                         Find a variety of properties that suit you very easily,
@@ -96,10 +96,10 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                999 <span></span>
                             </h1>
                             <span class="home__value-description">
-                                Premium <br> Product
+                                Premium <br> Car
                             </span>
                         </div>
 
@@ -159,7 +159,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    Popular Drive<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -169,15 +169,15 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span></span>1,240,000
+                                    <span>$</span>1,240,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    Ferrari LaFerrari
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -187,15 +187,15 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span></span>1,750,000
+                                    <span>$</span>1,750,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    AE86 Trueno
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -205,15 +205,15 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span></span>1,860,000
+                                    <span>$</span>1,860,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                   Maserati MC20
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -223,15 +223,15 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span></span>2,400,000
+                                    <span>$</span>2,400,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    Nissan GTR R34
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -245,11 +245,11 @@
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    Supra Pual Walker Edition
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    
                                 </p>
                             </div>
                         </article>
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/108.webp" alt="">
                     </div>
                 </div>
 
@@ -383,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/109.webp" alt="">
                     </div>
                 </div>
 
