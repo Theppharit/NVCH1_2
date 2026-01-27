@@ -36,7 +36,7 @@
                     <li class="nav__item">
                         <a href="#home" class="nav__link active-link">
                             <i class='bx bx-home-alt-2'></i>
-                            <span>Home</span>
+                            <span>หน้าหลัก</span>
                         </a>
                     </li>
 
