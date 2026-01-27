@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/494.jpg" alt="">
+                        <img src="assets/img/homecar.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span></span>1,240,000
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -187,7 +187,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span></span>1,750,000
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -205,7 +205,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span></span>1,860,000
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -223,7 +223,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span></span>2,400,000
                                 </h2>
 
                                 <h3 class="popular__title">
@@ -241,7 +241,7 @@
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>1,950,000
                                 </h2>
 
                                 <h3 class="popular__title">
