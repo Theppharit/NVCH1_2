@@ -95,7 +95,7 @@
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                259 <span></span>
                             </h1>
                             <span class="home__value-description">
                                 Premium <br> Vehicles
