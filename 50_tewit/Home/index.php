@@ -264,6 +264,7 @@
             </div>
         </section>
 
+
         <!--==================== VALUE ====================-->
         <section class="value section" id="value">
             <div class="value__container container grid">
@@ -272,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/lolo.jpg" alt="">
+                        <img src="assets/img/shikimoris-not-just-a-cutie.webp" alt="">
                     </div>
                 </div>
 
