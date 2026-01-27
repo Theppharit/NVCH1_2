@@ -126,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/Yuu_Izumi_anime4.webp" alt="">
+                        <img src="assets/img/shikimoris-not-just-a-cutie14.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -382,7 +382,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/shikimori-not-just-a-cutie-shikimori 1.gif" alt="">
                     </div>
                 </div>
 
@@ -393,9 +393,9 @@
                             Easy to Contact us<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            Having trouble reading manga? We recommend 'Shikimori's Not Just a Cutie.'
+                             It will make your heart race so much you'll want to jump right in. Give it a try, I've put everything into it,
+                              just open your heart and read.
                         </p>
                     </div>
 
