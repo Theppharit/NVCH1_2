@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Happiness in every slice <br> "Baked with love <br>  served with joy
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                       A special recipe cake, thoughtfully prepared and perfectly baked to deliver a harmonious balance of sweetness, softness, and rich aroma.
                     </p>
 
                     <form action="" class="home__search">
@@ -127,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -159,21 +158,21 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    A very delicious cake<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/7.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>550
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -183,15 +182,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>450
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -201,15 +200,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>550
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -219,15 +218,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>750
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -237,15 +236,15 @@
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>990
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    ขนมเค้ก
                                 </h3>
 
                                 <p class="popular__description">
@@ -273,7 +272,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/6.jpg" alt="">
                     </div>
                 </div>
 
@@ -282,12 +281,11 @@
                     <div class="value__data">
                         <span class="section__subtitle">Our Value</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                            A show-stopping cake<span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
-                        </p>
+                            
+                        </p>A rich, moist cake made from carefully selected quality ingredients, offering a deep, satisfying flavor and a smooth, tender crumb.
                     </div>
 
                     <div class="value__accordion">
@@ -383,7 +381,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/8.jpg" alt="">
                     </div>
                 </div>
 
@@ -391,12 +389,10 @@
                     <div class="contact__data">
                         <span class="section__subtitle">Contact Us</span>
                         <h2 class="section__title">
-                            Easy to Contact us<span>.</span>
+                           A homemade cake that melts in your mouth<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            A soft and fluffy cake, freshly baked to perfection, with a delicate sweetness and a light, airy texture in every bite.
                         </p>
                     </div>
 

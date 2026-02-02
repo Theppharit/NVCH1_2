@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Luxury Cars <br> Cool &<br> High-Value
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        "Own the masterpiece that defines you. Transform the hunt for rare icons into an extraordinary experience, right at your fingertips."
                     </p>
 
                     <form action="" class="home__search">
@@ -127,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/homecar.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,19 +136,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/logocar1.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/logocar2.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/logocar3.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/logocar4.png" alt="">
                 </div>
             </div>
         </section>
@@ -159,97 +158,98 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    CAR <span></span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>$</span>70,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    Pagani Zonda
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    ตัวถังทำจากวัสดุพิเศษที่เรียกว่า Carbo-Titanium ซึ่งเป็นการผสมผสานระหว่างคาร์บอนไฟเบอร์กับไทเทเนียม ทำให้มีความแข็งแรงสูงแต่มีน้ำหนักเบามาก
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>$</span>70,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    Koenigsegg One:1
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                   ชื่อ One:1 มาจากอัตราส่วน พละกำลัง 1,360 แรงม้า ต่อ น้ำหนักตัวรถ 1,360 กิโลกรัม (1 แรงม้าแบกน้ำหนัก 1 กก.) ซึ่งเป็นสัดส่วนที่สมบูรณ์แบบที่สุดในทางวิศวกรรม
+                                    
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>$</span>200,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    Pagani Huayra BC
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    รหัส "BC" (มาจากชื่อ Benny Caiola ลูกค้าคนแรกของ Pagani) เป็นรุ่นที่ถูกรีดน้ำหนักออกจนเหลือเพียง 1,218 กก.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>12,900,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    Hamann Mi5Sion - BMW M5
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    จุดเด่นที่สุดคือชุดแต่งไฟหน้าที่ทำให้รถดูเหมือน "ขมวดคิ้ว" ตลอดเวลา (Angry Look)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>111,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    Koenigsegg Gemera
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    ใช้เครื่องยนต์ 3 สูบ 2.0 ลิตร เทอร์โบคู่ (Tiny Friendly Giant) ทำงานร่วมกับมอเตอร์ไฟฟ้า ให้กำลังรวมสูงถึง 1,700 แรงม้า (ในรุ่นเริ่มต้น)
                                 </p>
                             </div>
                         </article>
@@ -273,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/valuecar.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/contactcar.jpg" alt="">
                     </div>
                 </div>
 

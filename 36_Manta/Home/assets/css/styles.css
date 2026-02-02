@@ -3,7 +3,7 @@
 
 /*=============== VARIABLES CSS ===============*/
 :root{
-  --header-height: 3.5rem;
+  --header-height: 6rem;
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
@@ -231,13 +231,13 @@ body.dark-theme{
   color: #fff;
   display: inline-flex;
   align-items: center;
-  column-gap: .25rem;
+  column-gap: .70rem;
   font-weight: var(--font-medium);
-  transition: .3s;
+  transition: .15s;
 }
 
 .nav__logo i {
-  font-size: 1rem;
+  font-size: 10rem;
 }
 
 .nav__logo:hover {

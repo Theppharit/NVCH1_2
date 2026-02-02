@@ -127,7 +127,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/home.jpg" alt="">
+                        <img src="assets/img/l.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,20 +137,35 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/BMW.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/bugatti.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/chevrolet.jpg" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/toyota.png" alt="">
                 </div>
+                
+                <div class="logos__img">
+                    <img src="assets/img/mclaren.png" alt="">
+                </div>
+
+                
+                <div class="logos__img">
+                    <img src="assets/img/lo.jpg" alt="">
+                </div>
+
+                
+                <div class="logos__img">
+                    <img src="assets/img/p.png" alt="">
+                </div>
+
             </div>
         </section>
 
@@ -165,91 +180,81 @@
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular1.jpg" alt="" class="popular__img">
+                            <img src="assets/img/3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>66,356
+                                    <span>฿</span>23,024,978
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden City Assat
+                                    BMW M4 Gt3
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular2.jpg" alt="" class="popular__img">
+                            <img src="assets/img/4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>35,159
+                                    <span>฿</span>184,230,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Gables Luxurious House
+                                    Bugatti Divo
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular3.jpg" alt="" class="popular__img">
+                            <img src="assets/img/5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>75,043
+                                    <span>฿</span>1,500,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Garden Orchard City
+                                    chevrolet camero
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/7.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>฿</span>5,749,000 
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    Toyota Gr Surpa Gt4
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/21.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>฿</span>120,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    Mclaren P1
                                 </h3>
 
-                                <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
                                 </p>
                             </div>
                         </article>
@@ -273,7 +278,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/R.jpg" alt="">
                     </div>
                 </div>
 
@@ -383,7 +388,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/Lotus.jpg" alt="">
                     </div>
                 </div>
 
