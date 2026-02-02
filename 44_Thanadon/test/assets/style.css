@@ -1,64 +1,63 @@
-/* add Variable */
 :root {
-    --theme-color: #1a8c4f;
+    --theme-color: #20f53d;
 }
-
-
-
-
 
 /* main setup */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
+*{margin:0;
+padding:0;
+box-sizing: border-box;
 }
 
 
 
-/* navbar setup */
+img{
+    width:100%;
+    height:auto;
+}
 .navbar {
-    width: 100%;
-    height: 70px;
-    background-color:bisque;
+    width: 100vw;
+    height: 50 px;
+    background-color: #5cf32e;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
+    align-items:center;
+    justify-content:space-between;
+    gap: 30px;
+}
+
+/* section setup*/
+.section-content{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+padding:  5rem
 }
 
 
 
-/* section setup */
-.section-content {
-<<<<<<< HEAD
-   
-=======
+.div-title{
+    width: 100vw;
+    height: 100px;
+    background-color: #973097;
     display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding: 5rem;
->>>>>>> 0ee0288e3bebf15652fdb3137823db9c16e539a0
-}
-
-.div-title {
-    width: 100%;
-    height: 150px;
-    background-color: var(--theme-color);
-    display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: center;
 }
 
 .title-h1 {
-    color:rgb(255, 255, 255);
+    color:rgb(9, 61, 46);
 }
-
+.title-p1 {
+    color: #5b0e88;
+}
 .title-h2 {
-    color: var(--theme-color);
+    color: #1435f0;
+}
+.title-p2 {
+    color: #27771c;
+}
+.title-h3 {
+    color: #e2c648;
+}
+.title-p3 {
+    color: #6a0883;
 }
