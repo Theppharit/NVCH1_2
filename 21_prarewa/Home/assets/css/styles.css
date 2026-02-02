@@ -287,7 +287,7 @@ body.dark-theme{
   hsl(202, 77%, 58%),
   hsl(228, 66%,47% ));
   color: #fff;
-  box-shadow: 0 4px 8px hsla(170, 66%, 45%, 0.493);
+  box-shadow: 0 4px 8px hsla(189, 87%, 69%, 0.993);
 }
 
 /*=============== HOME ===============*/
@@ -409,7 +409,7 @@ body.dark-theme{
 }
 
 .button:hover{
-  box-shadow: 0 4px 12px hsla(228, 66%, 45%, .25);
+  box-shadow: 0 4px 12px hsla(189, 83%, 60%, 0.904);
 }
 
 .nav__button{
@@ -477,7 +477,7 @@ font-size: var(--small-font-size);
 }
 
 .popular__card:hover{
-  box-shadow: 0 12px 16px hsl(228, 76%, 60%);
+  box-shadow: 0 12px 16px hsl(187, 75%, 62%);
 }
 
 /* Swiper class */

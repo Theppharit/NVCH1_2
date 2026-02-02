@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>เสือสุดหล่อ</title>
+    <title>เปรมสุดหล่อ</title>
 <link rel="stylesheet" href="./assets/style.css">
 </head>
 
@@ -17,7 +17,7 @@
 </nav>
 
 <div class="div-title" id="title1">
-     <h1 class="title-h1" >phonnarin</h1>
+     <h1 class="title-h1" >Thanadon...</h1>
 </div>
 
 <section class="selection-content"><img src="./assets/img/2.jpg" alt="" class="">
@@ -25,12 +25,11 @@
 
 
 <!-- ยูทูป -->
-<iframe width="900" height="600" src="https://youtu.be/3Ezu3m1mVBQ?si=_APQpHoI1RQu6OZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Ezu3m1mVBQ?si=j8uCFwAgLr54QRMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
     <!-- กูเกิลแมพ -->
-    <iframe src="https://maps.app.goo.gl/kne4jEWCX1nRSw3Y7"
-
+    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30834.322465332818!2d102.09582176042854!3d14.976581444420498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z4Lit4Li04Lil!5e0!3m2!1sen!2sth!4v1770015110153!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     <p1 class="title-p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit perspiciatis dicta nisi exercitationem veniam! Nam, culpa. Qui assumenda facilis quisquam laborum quaerat sequi nisi ipsa. Rerum natus vitae ipsam sequi.
     Sapiente dolorem modi ea omnis minima delectus odio libero quam! Non suscipit tenetur maxime, dolore ut similique nulla sequi perspiciatis repellendus nam, voluptatem sit. Voluptatem quis natus facilis adipisci illum.
     Quia dolorum natus ipsum temporibus. Aspernatur iusto consequatur provident cupiditate ratione fuga minus quae sunt, eveniet dolor voluptas temporibus inventore, doloribus deleniti voluptatem commodi, modi ducimus illum explicabo facilis officiis!
@@ -58,7 +57,7 @@
 
 
     <div class="div-title" id="title2">
-    <h2 class="title-h2">ooooooo</h2>
+    <h2 class="title-h2">อยากเล่นบาส</h2>
 </div>
 
 
@@ -85,7 +84,7 @@
     Eligendi maiores voluptas id ipsum enim distinctio dolores ipsam officiis, dolor explicabo ratione? Labore ut facilis temporibus quae necessitatibus et maiores deserunt quibusdam rerum! Numquam culpa quo cumque quia iure.</p2>
 
 <div class="div-title" id="title3">
-    <h3 class="title-h3">kkkkk</h3>
+    <h3 class="title-h3">อะไรน้อ</h3>
 </div>
 
 
