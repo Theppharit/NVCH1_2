@@ -18,14 +18,14 @@
 
 /* ขนาดรูป */
 img {
-  max-width: 100px;
+  max-width: 120px;
   height: auto;
 }
 
 .navbar {
   width: 100%;
   height: 50px;
-  background-color:#76b1f0;
+  background-color:#034a96;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -56,7 +56,7 @@ img {
 
 /* สีพื้นหลังแต่ละกล่อง */
 .box-blue {
-  background-color: #03213f;
+  background-color: #061e36;
 }
 
 .box-yellow {
@@ -64,7 +64,7 @@ img {
 }
 
 .box-green {
-  background-color: #d5ffd5;
+  background-color: #0d9b0d;
 }
 
 .box-purple {
@@ -92,5 +92,5 @@ img {
 .box:hover {
   transform: scale(1.02);
   transition: 0.3s ease;
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 6px 15px rgba(177, 16, 16, 0.2);
 }
