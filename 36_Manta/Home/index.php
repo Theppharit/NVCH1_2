@@ -80,11 +80,10 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Luxury Cars <br> Cool &<br> High-Value
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        "Own the masterpiece that defines you. Transform the hunt for rare icons into an extraordinary experience, right at your fingertips."
                     </p>
 
                     <form action="" class="home__search">
@@ -127,8 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/1111.jpg" alt="">
-                        <img src="assets/img/11.jpg" alt="">
+                        <img src="assets/img/homecar.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -138,19 +136,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/114.png" alt="">
+                    <img src="assets/img/logocar1.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/142.jpg" alt="">
+                    <img src="assets/img/logocar2.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/000.png" alt="">
+                    <img src="assets/img/logocar3.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/001.jpg" alt="">
+                    <img src="assets/img/logocar4.png" alt="">
                 </div>
             </div>
         </section>
@@ -160,87 +158,98 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    CAR <span></span>
                 </h2>
 
                 <div class="popular__container swiper">
                     <div class="swiper-wrapper">
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/12.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar1.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>14.799,000
+                                    <span>$</span>70,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    BMW M3
+                                    Pagani Zonda
                                 </h3>
 
+                                <p class="popular__description">
+                                    ตัวถังทำจากวัสดุพิเศษที่เรียกว่า Carbo-Titanium ซึ่งเป็นการผสมผสานระหว่างคาร์บอนไฟเบอร์กับไทเทเนียม ทำให้มีความแข็งแรงสูงแต่มีน้ำหนักเบามาก
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/13.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar2.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>29,000,000
+                                    <span>$</span>70,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    McLaren 720S
+                                    Koenigsegg One:1
                                 </h3>
 
+                                <p class="popular__description">
+                                   ชื่อ One:1 มาจากอัตราส่วน พละกำลัง 1,360 แรงม้า ต่อ น้ำหนักตัวรถ 1,360 กิโลกรัม (1 แรงม้าแบกน้ำหนัก 1 กก.) ซึ่งเป็นสัดส่วนที่สมบูรณ์แบบที่สุดในทางวิศวกรรม
+                                    
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/18.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar3.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>3,500,000
+                                    <span>$</span>200,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Dodge Challenger Models
+                                    Pagani Huayra BC
                                 </h3>
 
+                                <p class="popular__description">
+                                    รหัส "BC" (มาจากชื่อ Benny Caiola ลูกค้าคนแรกของ Pagani) เป็นรุ่นที่ถูกรีดน้ำหนักออกจนเหลือเพียง 1,218 กก.
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/15.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>36,000,000
+                                    <span>$</span>12,900,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    GT-R50
+                                    Hamann Mi5Sion - BMW M5
                                 </h3>
 
+                                <p class="popular__description">
+                                    จุดเด่นที่สุดคือชุดแต่งไฟหน้าที่ทำให้รถดูเหมือน "ขมวดคิ้ว" ตลอดเวลา (Angry Look)
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/111.png" alt="" class="popular__img">
+                            <img src="assets/img/popularcar5.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>3,799,000
+                                    <span>$</span>111,000,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Ford Mustang
+                                    Koenigsegg Gemera
                                 </h3>
 
+                                <p class="popular__description">
+                                    ใช้เครื่องยนต์ 3 สูบ 2.0 ลิตร เทอร์โบคู่ (Tiny Friendly Giant) ทำงานร่วมกับมอเตอร์ไฟฟ้า ให้กำลังรวมสูงถึง 1,700 แรงม้า (ในรุ่นเริ่มต้น)
                                 </p>
                             </div>
                         </article>
@@ -264,7 +273,7 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/1111.jpg" alt="">
+                        <img src="assets/img/valuecar.jpg" alt="">
                     </div>
                 </div>
 
@@ -374,7 +383,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/111.png" alt="">
+                        <img src="assets/img/contactcar.jpg" alt="">
                     </div>
                 </div>
 
