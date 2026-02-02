@@ -28,7 +28,7 @@
     <header class="header" id="header">
         <nav class="nav container">
             <a href="#" class="nav__logo">
-                Holux <i class='bx bxs-home-alt-2'></i>
+                Night <i class='bx bxs-car'></i>
             </a>
 
             <div class="nav__menu">
@@ -43,7 +43,7 @@
                     <li class="nav__item">
                         <a href="#popular" class="nav__link">
                             <i class='bx bx-building-house'></i>
-                            <span>Residences</span>
+                            <span>Ride</span>
                         </a>
                     </li>
 
@@ -80,26 +80,25 @@
             <div class="home__container container grid">
                 <div class="home__data">
                     <h1 class="home__title">
-                        Discover <br> Most Suitable <br> Property
+                        Unlock Your <br> Ultimate Drive
                     </h1>
                     <p class="home__description">
-                        Find a variety of properties that suit you very easily,
-                        forget all difficulties in finding a residence for you
+                        Elevate your journey with a car that defines who you are. Skip the ordinary and find a ride that matches your vibe effortlessly
                     </p>
 
                     <form action="" class="home__search">
                         <i class='bx bxs-map'></i>
-                        <input type="search" placeholder="Search by location..." class="home__search-input">
+                        <input type="search" placeholder="Search by brand..." class="home__search-input">
                         <button class="button">Search</button>
                     </form>
 
                     <div class="home__value">
                         <div>
                             <h1 class="home__value-number">
-                                9K <span>+</span>
+                                259 <span></span>
                             </h1>
                             <span class="home__value-description">
-                                Premium <br> Product
+                                Premium <br> Vehicles
                             </span>
                         </div>
 
@@ -127,7 +126,7 @@
                     <div class="home__orbe"></div>
 
                     <div class="home__img">
-                        <img src="assets/img/homebmw2.jpg" alt="">
+                        <img src="assets/img/carhome.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -137,19 +136,19 @@
         <section class="logos section">
             <div class="logos__container container grid">
                 <div class="logos__img">
-                    <img src="assets/img/logo1.png" alt="">
+                    <img src="assets/img/lotus-removebg-preview.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo2.png" alt="">
+                    <img src="assets/img/porsche-removebg-preview.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo3.png" alt="">
+                    <img src="assets/img/audi-removebg-preview.png" alt="">
                 </div>
 
                 <div class="logos__img">
-                    <img src="assets/img/logo4.png" alt="">
+                    <img src="assets/img/michelin-removebg-preview.png" alt="">
                 </div>
             </div>
         </section>
@@ -159,7 +158,7 @@
             <div class="container">
                 <span class="section__subtitle">Best Choise</span>
                 <h2 class="section__title">
-                    Popular Residences<span>.</span>
+                    Popular Car<span>.</span>
                 </h2>
 
                 <div class="popular__container swiper">
@@ -177,7 +176,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    ขับเคลื่อนด้วยมอเตอร์ไฟฟ้าคู่ ให้กำลังสูงสุด 603 แรงม้า แรงบิดสูงสุด 710 นิวตันเมตร และความเร็วสูงสุด 250 กม./ชม. มีแบตเตอรี่ความจุ 102 kWh วิ่งได้ไกลสูงสุด 610 กม. เป็นรถไฟฟ้าในรูปแบบ Hyper-GT 4 ประตู ที่ผสมผสานความหรูหราเข้ากับหลักอากาศพลศาสตร์ชั้นยอด 
+                                    Electric Hyper-GT
                                 </p>
                             </div>
                         </article>
@@ -195,7 +194,7 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                   ขับเคลื่อนด้วยมอเตอร์ไฟฟ้าคู่ ให้กำลังสูงสุด 905 แรงม้า แรงบิดสูงสุด 985 นิวตันเมตร และความเร็วสูงสุด 265 กม./ชม. มีแบตเตอรี่ 112 kWh วิ่งได้ 410-500 กม.เป็นรถขับเคลื่อน 4 ล้อที่เน้นความหรูหราและความแรงในระดับ Hyper-SUV. 
+                                   Electric Hyper-SUV
                                     
                                 </p>
                             </div>
@@ -214,43 +213,44 @@
                                 </h3>
 
                                 <p class="popular__description">
-                                    ขับเคลื่อนด้วยมอเตอร์ไฟฟ้า 4 ตัว (1 ตัวต่อ 1 ล้อ) ให้กำลังสูงสุดถึง 2,039 แรงม้า (PS) แรงบิดสูงสุด 1,704 นิวตันเมตร และทำความเร็วสูงสุดได้มากกว่า 350 กม./ชม. มีแบตเตอรี่ความจุ 93 kWh วิ่งได้ไกลประมาณ 346 กม. (WLTP) เป็นสุดยอดไฮเปอร์คาร์ไฟฟ้าที่ผลิตจำนวนจำกัดเพียง 130 คันทั่วโลก โดดเด่นด้วยดีไซน์รูลม (Venturi Tunnels) ขนาดใหญ่ที่ช่วยสร้างแรงกดมหาศาล
+                                    Electric Hypercar
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular4.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar4.jpg" alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>62,024
+                                    <span>$</span>7,100,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Luxurious City Garden
+                                    Porsche Taycan 
+                                    (Black Edition)
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Electric Sport Car
                                 </p>
                             </div>
                         </article>
 
                         <article class="popular__card swiper-slide">
-                            <img src="assets/img/popular5.jpg" alt="" class="popular__img">
+                            <img src="assets/img/popularcar5.jpg    " alt="" class="popular__img">
 
                             <div class="popular__data">
                                 <h2 class="popular__price">
-                                    <span>$</span>47,043
+                                    <span>$</span>9,490,000
                                 </h2>
 
                                 <h3 class="popular__title">
-                                    Aliva Private Garden
+                                    Audi RS E-Tron GT
                                 </h3>
 
                                 <p class="popular__description">
-                                    Street The Garden City Of Miraflores, Lima - Perú Av. Sol #9876
+                                    Electric Sport Car
                                 </p>
                             </div>
                         </article>
@@ -274,29 +274,28 @@
 
                     <div class="value__orbe"></div>
                     <div class="value__img">
-                        <img src="assets/img/value.jpg" alt="">
+                        <img src="assets/img/valuecar.jpg" alt="">
                     </div>
                 </div>
 
 
                 <div class="value__content">
                     <div class="value__data">
-                        <span class="section__subtitle">Our Value</span>
+                        <span class="section__subtitle">Our Expertise</span>
                         <h2 class="section__title">
-                            Value We Give To You<span>.</span>
+                            Value We Drive To You<span>.</span>
                         </h2>
                         <p class="value__description">
-                            We always ready to help by providing the best service for you.
-                            We believe a good place to live can make your life better.
+                            We are committed to fueling your passion by providing the finest selection of cars. We believe the right vehicle doesn't just get you there—it transforms your entire journey.
                         </p>
                     </div>
 
                     <div class="value__accordion">
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bxs-shield value__accordion-icon'></i>
+                                <i class='bx bxs-car value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
-                                    Best interest rates on the market
+                                    Low-Interest Auto Financing
                                 </h3>
                                 <div class="value__accordion-arrow">
                                     <i class='bx bxs-down-arrow'></i>
@@ -305,18 +304,17 @@
 
                             <div class="value__accordion-content">
                                 <div class="value__accordion-description">
-                                    Price we provides is the best for you,
-                                    we guarantee no price changes on your property due
-                                    to various unexpected costs that may come.
+                                    The rates we provide are the most competitive in the market. We guarantee a transparent financing process with no hidden fees, ensuring your dream car stays within your budget.
+
                                 </div>
                             </div>
                         </div>
 
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bxs-x-square value__accordion-icon'></i>
+                                <i class='bx bxs-wallet value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
-                                    Prevent unstable prices
+                                    Transparent & Fixed Pricing
                                 </h3>
                                 <div class="value__accordion-arrow">
                                     <i class='bx bxs-down-arrow'></i>
@@ -325,18 +323,16 @@
 
                             <div class="value__accordion-content">
                                 <div class="value__accordion-description">
-                                    Price we provides is the best for you,
-                                    we guarantee no price changes on your property due
-                                    to various unexpected costs that may come.
+                                    No markups, no hidden fees. We guarantee that the price you see is the price you pay. Enjoy a worry-free car buying experience with total transparency from start to finish
                                 </div>
                             </div>
                         </div>
 
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bxs-bar-chart-square value__accordion-icon'></i>
+                                <i class='bx bxs-crown value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
-                                    Best prices on the market
+                                    Premium Quality, Street Value
                                 </h3>
                                 <div class="value__accordion-arrow">
                                     <i class='bx bxs-down-arrow'></i>
@@ -345,19 +341,17 @@
 
                             <div class="value__accordion-content">
                                 <div class="value__accordion-description">
-                                    Price we provides is the best for you,
-                                    we guarantee no price changes on your property due
-                                    to various unexpected costs that may come.
+                                   Experience high-end performance at an unbeatable value. We select only top-tier vehicles that define your status, ensuring you get premium quality that commands the street.
                                 </div>
                             </div>
                         </div>
 
                         <div class="value__accordion-item">
                             <header class="value__accordion-header">
-                                <i class='bx bx-check-square value__accordion-icon'></i>
+                                <i class='bx bx-check-shield value__accordion-icon'></i>
                                 <h3 class="value__accordion-title">
 
-                                    Security of your data
+                                    Certified Vehicle Safety
                                 </h3>
                                 <div class="value__accordion-arrow">
                                     <i class='bx bxs-down-arrow'></i>
@@ -366,9 +360,7 @@
 
                             <div class="value__accordion-content">
                                 <div class="value__accordion-description">
-                                    Price we provides is the best for you,
-                                    we guarantee no price changes on your property due
-                                    to various unexpected costs that may come.
+                                    Confidence behind every wheel. Each car undergoes a rigorous multi-point inspection by our experts, ensuring your safety and the machine's peak performance on every journey.
                                 </div>
                             </div>
                         </div>
@@ -384,7 +376,7 @@
                     <div class="contact__orbe"></div>
 
                     <div class="contact__img">
-                        <img src="assets/img/contact.png" alt="">
+                        <img src="assets/img/contactcar.jpg" alt="">
                     </div>
                 </div>
 
@@ -395,9 +387,8 @@
                             Easy to Contact us<span>.</span>
                         </h2>
                         <p class="contact__description">
-                            Is there a problem finding your dream home? Need a
-                            guide in buying first home? or need a consultation
-                            on residential issues? just contact us.
+                            Is there a problem finding your dream electric car? Need a
+                            guide in buying first performance electric car? Or do you need advice on a car-related problem? just contact us.
                         </p>
                     </div>
 
@@ -482,11 +473,11 @@
         <section class="subscribe section">
             <div class="subscribe__container container">
                 <h1 class="subscribe__title">
-                    Get Started with Holux
+                    Get Started with Night
                 </h1>
                 <p class="subscribe__description">
-                    Subscribe and find super attractive price
-                    quotes from us, Find your residence soon
+                    Subscribe and find super attractive price quotes from us. 
+                    Find your dream ride today.
                 </p>
                 <a href="#" class="button subscribe__button">
                     Get Started
@@ -500,12 +491,12 @@
         <div class="footer__container container grid">
             <div>
                 <a href="#" class="footer__logo">
-                    Holux<i class='bx bxs-home-alt-2'></i>
+                    Night<i class='bx bxs-car'></i>
                 </a>
 
                 <p class="footer__description">
-                    Our vision is to make all people <br>
-                    the best place to live for them.
+                    Our vision is to make every journey <br>
+                    the best experience for everyone.
                 </p>
             </div>
 
